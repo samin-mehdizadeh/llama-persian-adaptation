@@ -43,13 +43,13 @@ Evaluate the model's performance using inference scripts.
 
 Run the following file: ```inference/inference.py```
 
-## Bash Scripts
-To simplify execution, bash scripts for running the codes are also provided. These scripts include example commands and parameter configurations for each stage of the pipeline.
+## Slurm Bash Scripts
+To simplify execution, slurm bash scripts for running the codes are also provided. These scripts include example commands and parameter configurations for each stage of the pipeline.
 
 Example:
-```bash
-sbash pretrain/run_pt.sh
-sbash sft/run_sft.sh
-sbash inference/inference.sh
+```
+sbatch pretrain/run_pt.sh
+sbatch sft/run_sft.sh
+sbatch inference/inference.sh
 ```
 
