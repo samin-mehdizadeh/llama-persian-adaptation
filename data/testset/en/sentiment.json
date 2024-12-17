@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "avoidant personality disorder . there 's a name for it . there 's a * name * for what 's wrong with me . i want to cry . i 'm happy . happy and frightened . i will later . right now it 's time to tackle you , you bastard .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Roger Kelly ? Even though  Kelly  had told me  he  knew that white people were superior to blacks  our dialogue continued over the years.  He  would visit me in my home  and I would eventually be a guest in  his . We would share many meals together  even though  he  thought I was inferior. Within a couple of years   he  rose to the rank of imperial wizard  the top national leadership position in the Klan.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "fuck humans . humans are a piece of shit . no one truly cares about anyone . no matter how many people say they care , they all fuck off in the end because you 're just another person in their life . this is why i have serious trust issues because anyone i connect with fucks off in the end .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "chew . with your fucking mouth closed . i 'm literally going to explode . chew with your fucking mouth closed . holy shit . i want so badly to shout this to you but i ca n't because you do n't even speak english . you are on the phone literally all the time speaking chinese and chewing with your mouth open while you eat and spitting rice everywhere holy shit . i hate you . i hate you .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "awesome weekend . i went bday shopping with my pops on friday . i love that dude . day drank with my buddies yesterday , love those dudes too . went out with the girl i 've had a crush on for like 5 years last night and had a sleep over . i 'm a happy human .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Saifullah Saipov ? A native of Uzbekistan  \u00e2\u0080\u009c Saipov  had been in the United States since 2010  and given that all green card categories are screened equally  it is highly unlikely that the fact of  his  status as a green card holder under the Diversity Visa Lottery is related to  his  subsequent terrorist act \u00e2\u0080\u009d said a statement from the business-first advocacy group  the Bipartisan Policy Center.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Carrie Fisher ? \u00e2\u0080\u009cThat was  her  \u00e2\u0080\u009d Johnson said. \u00e2\u0080\u009cThat was  a Carrie Fisher line . Of course  it  was.\u00e2\u0080\u009d",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Eric Holder ? ANDY MCCARTHY  NATIONAL REVIEW CONTRIBUTOR:  He 's not saying that terrorism doesn't exist or that there's not a definition under American law of terrorism.  He 's saying that there is not a universally recognized material support to terrorism claim that can be brought under that civil statute.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Mario Sanabria ?  Sanabria  was rushed to Lincoln Hospital where  he  later died  officials said.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kesha ? That somewhat saintly stance was emphasized tonight in the blazing white clothes of  Kesha  and  her  backup singers. A beautiful a cappella opening passage made the central lyric\u00e2\u0080\u0094\u00e2\u0080\u009csometimes  I pray for you at night\u00e2\u0080\u009d\u00e2\u0080\u0094unmissable. But  Kesha\u00e2\u0080\u0099s  intensity was not that of an exhortative preacher but of an actual  ailing human being.  She  didn\u00e2\u0080\u0099t aim to hit the recorded version\u00e2\u0080\u0099s high notes  but  her  quavering voice and knotted eyebrows communicated sentiment that only a cynic could called canned. When the song ended   she  broke down crying  and was embraced by  her  famous compatriots.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jamie Dimon ?  He  said the tax cut will drive wages higher and spark an economic boom in this country by boosting job creation.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Darrell Standberry ? \u00e2I never leave home without my weapon \u00e2  he  said. \u00e2You never know when or what you\u00e2ll encounter.\u00e2",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Fishman ? \"Generally people should start getting vaccinated now \"  Fishman  said  and that they should do so by Halloween to Thanksgiving.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i broke it off with my physically and emotionally abusive husband . anything i did was always wrong , but he was the one that would call me names , talk bad about my family , and was constantly in a bad mood . i finally realized that i deserve to be treated a lot better and that \u2019s why i made the choice . i feel so much better , and i feel relieved .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Taika Waititi ? (As for the Thor visuals as opposed to the comics stories   Waititi  does acknowledge: \u00e2\u0080\u009cAll these \u00e2\u0080\u009970s comic books were so bright and colorful with these splash pages and bold art. \u00e2\u0080\u00a6 It was a conscious decision to embrace that Jack Kirby art\u00e2\u0080\u009d in \u00e2\u0080\u009cRagnarok.\u00e2\u0080\u009d)",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Boyko Borissov ? Though the presidency of the EU offers little direct power  it offers Borissov a platform which  he  used to renew Bulgarian demands to be allowed to join Schengen and the euro\u00e2\u0080\u0099s \u00e2\u0080\u009cwaiting room\u00e2\u0080\u009d  the ERM-2 exchange rate mechanism. Worries over organized crime and Bulgaria\u00e2\u0080\u0099s relative poverty have stood in its way.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity John Conyers ?  Conyers  is among a number of prominent men in politics  entertainment and journalism who have been accused of sexual misconduct in the wake of explosive allegations against former Hollywood executive Harvey Weinstein.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Carles Puigdemont ? Pensioner Marisol Rioja  65  said: \u201cWe would have liked more. But he ( Puigdemont ) couldn\u2019t do it.\u201d",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Simone Biles ? \u00e2\u0080\u009cIt\u00e2\u0080\u0099s going to be rough \u00e2\u0080\u009d the 20-year-old told NBC Sports on Thursday  noting  she \u00e2\u0080\u0099ll also be employing a new coach  who  she \u00e2\u0080\u0099ll name later. \u00e2\u0080\u009cBut the muscle memory is there because I\u00e2\u0080\u0099ve come and I\u00e2\u0080\u0099ve played in the gym. All of my skills are basically still there. There are a couple of skills  like on [balance] beam  that I haven\u00e2\u0080\u0099t done yet  like a dismount  because why would I just chuck that? There\u00e2\u0080\u0099s no way. And I haven\u00e2\u0080\u0099t vaulted since the Olympics.\u00e2\u0080\u009d",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Justin Trudeau ? Although  Trudeau  has appointed independent senators since then   he  has no formal leverage to get the government\u00e2\u0080\u0099s legislation passed.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Antero Niittymaki ?  \"It was just kind of an instinct play  and obviously a great save by Nitty \" Stamkos said. \"He deserves all the credit on that one.\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i proposed to my best friend of 11 years and she said yes . i never wanted kids or marriage . she single handedly changed my mind :)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Alan Robinson ? It is not certain yet if  Robinson  will finish the 26.2-mile race on Monday.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "hanging out playing poker with my bf and found a treasure in his poker set stash ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Hillary Clinton ? The Justice Department is reviving investigations involving Hillary Clinton\u00e2\u0080\u0099s emails and the degree to which the State Department during Mrs. Clinton\u00e2\u0080\u0099s tenure as secretary was put in the service of the Clinton Foundation. Good. Indeed  it is long overdue. It underscores a point we\u00e2\u0080\u0099ve tried to make repeatedly here: You don\u00e2\u0080\u0099t need a special counsel for this kind of thing; such investigations are what we have a Justice Department full of career prosecutors for. The perverse institution of the independent prosecutor should be shunned whenever possible \u00e2\u0080\u0094 and its jurisdiction tightly confined in the rare necessary case.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jenny Chang ? Chang's data and the large databases of genome and clinical trial data. Out of that  he identified several candidate drugs to impair the genetic pathways that helped the cancer spread.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Oscar Cortez ? Like many TPS recipients  they say they will try to obtain legal residency.  His  wife is a legal resident  and  Cortez  hopes she will someday be able to sponsor  him . Contreras said he is trying to get a green card through his wife  a U.S. citizen. But there are no guarantees.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Cait Earnest ? Both  Cait  and Matthew experienced bouts of jealousy at the start of their relationship experiment but said that\u00e2\u0080\u0099s now all in the past.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i dropped out of college three years ago.i am finally back in school and made an a in my first class since i 've been back ! i want to make a shoutout to /r / getstudying for helping me actually learn how to study .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i have a job interview today ! i 'm preparing to defend my thesis for a master 's degree in chemistry . today i 'm interviewing for a job to begin after the defense , and on top of it all , i 'm only two months away from getting married . i 'm nervous but very excited at the same time .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Steven Mnuchin ? During the hearing   Mnuchin  also appeared to confirm a Reuters report that FinCEN was not consulted in advance about Sessions\u00e2\u0080\u0099s decision to change federal marijuana enforcement policy.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "do you dislike it when your post gets no replies ? so whenever i post something hoping to get a reply which may be helpful all i get is views like sometimes up to 200 with 0 replies . is this a common issue with you guys ? i mean i do n't enjoy it happening as i would usually like to see what you guys think whenever i post something .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Sam Club ? Refunds will be issued in the form of a check or a gift card to  Sam 's Club or Walmart stores.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm falling in love . and he 's moving to california in 10 months and i do n't know what to do",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Barton ?  Barton  told The Dallas Morning News on Thursday that people \u00e2\u0080\u009clost faith\u00e2\u0080\u009d in  him  over the situation.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kenneka Jenkins ? Speculation again swirled about the death of Kenneka Jenkins  the young Chicago woman found in a Rosemont hotel freezer  during Tuesday\u2019s episode of the \u201cThe Dr. Oz Show \u201d which featured her mother and sister as guests.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kevin Spacey ? Skip in Skip x Embed x Share CLOSE Some experts are wary of the treatment sought by accused sexual abusers like  Kevin Spacey  or Harvey Weinstein. Video provided by Newsy Newslook",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Isaac Givovich ? The group\u00e2\u0080\u0099s spokesman   Isaac Givovich   has requested a meeting with Archbishop Charles Scicluna  a Vatican envoy who traveled to Santiago to meet with witnesses accusing a bishop of covering up the sexual abuse of minors by a priest.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity David Scotton ? One of the first things  she  wants to do is seek forgiveness from David. For so many years  this mother  suffered with worry that the boy  she  gave birth to would be hurt by the fact that  she  chose to \u00e2\u0080\u009cgive him up for adoption \u00e2\u0080\u009d as the expression goes. Our language for adoption seems to suggest abandonment when  in fact  it is just about the greatest and most loving sacrifice. I think of the story  from the State of the Union some weeks ago  of the young police officer and his wife and a woman named Crystal who is suffering in the grip of addiction. But  she  wants better for  her  baby. And there is a couple who can help  her  realize that aspiration. As there was in the case of  David .",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "do i have breast cancer ? i know this might'nt be the best site to be posting this , but i recently found a lump in my left breast . it is very red , is growing quickly , causes tingles and hurts like fuck , whether i 'm touching it or not . i 'm only 17 and cancer does not run in my family . i do n't smoke or drink alcohol , any advice ?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Alia Shawkat ? \u00e2\u0080\u009cThere\u00e2\u0080\u0099s a hunger to gain power on set as women  and literally my voice is not always heard. And that\u00e2\u0080\u0099s the most frustrating part  repeating  myself  \"  she  said.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Malusi Gigaba ?  Gigaba  said in a statement on Friday  he  was concerned about the \u00e2\u0080\u009cpoliticisation\u00e2\u0080\u009d of the PIC and asked its management to conduct a \u00e2\u0080\u009cforensic investigation\u00e2\u0080\u009d into its operations.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Rachel Maddow ? \u201cThe first important thing to know about Deutsche Bank in this story  it\u2019s up to its German neck in Russian money laundering \u201d  Maddow  noted.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i \u2019ve been lying to my mom all these years . i can never tell her that ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Bob Weinstein ? He also noted that  Weinstein  re-signed the code of conduct in 2015 after revelations that he had groped Italian model Ambra Battilana Guttierez. An audio recording  captured when Gutierrez worked with New York City police and wore a wire in a subsequent encounter with  Weinstein   proved damning but did not result in any charges as prosecutors declined to move forward with a case  citing insufficient evidence.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Momodu Gondo ? The robberies  he  described included home invasions and taking citizens\u00e2\u0080\u0099 property while executing search warrants.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity John Kelly ?  Kelly   the former secretary of Homeland Security  called  his  current job the \"hardest\" and \"most important\"  he 's \"ever had.\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Guilfoile \u00e2\u0080\u0094 Smith ? \u00e2He was very serious about the role \u00e2 says  Smith . \u00e2And he was filled with good ideas.\u00e2",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i really just want a hug . and someone to tell me everything is ok",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Rachel Botsman ? How do we even know if  Botsman  isn\u2019t a bot already  predicting China for us all?",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 've been in a crippling depression since the end of my 6 year relationship . a friend asked if i could be their date to \" a boring awards ceremony \" . they tricked me with a surprise award ! it has no monetary value but it gives me genuine joy .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Cathy Caldwell ? One of the central issues of the shutdown battle is the Children's Health Insurance Program. NPR's Michel Martin talks with Alabama CHIP Director Cathy Caldwell about the program  which covers 9 million low-income kids across the U.S.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Adam Jonas ?  Jonas  then makes a second classic error when looking at Ferrari  comparing it to the Tesla Model S in terms of acceleration.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i feel pretty good for once . yup . that 's all .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Rex Tillerson ? There's no guarantee that his successor will play well with others  hand-hold the allies rather than throw bombs at them or elevate diplomacy  engagement and dialogue with difficult countries rather than adopt confrontational policies that offer little prospect for success but significant risks of escalation. For all those who hope to wish Tillerson an early and happy retirement  be careful what you wish for    especially if  his  successor is more ideological and combative and less pragmatic than the more even-keeled Tillerson.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my girlfriend and i like to occasionally skip town together to escape our stresses . so yesterday we spent 12 hours shopping and eating and could n't have been happier.\ufeff :)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "can you stop making fun of my english ! yeah , laugh at my english when i speak two languages . how can i get better when you do n't help me fix my grammer and just look at me like i suppose to be fluent in it ?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i got the job ! well , internship . but much like getting into good colleges , it 's hard as fuck to find internships these days as a college freshman . too much competition , from more decorated students . but somehow i managed to get one , and as a bonus , it 's paid pretty well . man , i 'm fucking pumped . now it 's just a matter of my lazy ass making the most of it .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Freddie Freddie ?  The Obama administration is working on a plan to restructure the mortgage market and make sure home loans are affordable. Officials don't plan to release details until next year. But Michael Barr  an assistant Treasury secretary  told the panel Wednesday that Fannie and Freddie \"will not exist in the same form as they did in the past.\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity McMaster ? H.R. McMaster  U.S. President Donald Trump's national security adviser  said at the Munich Security Conference that the federal indictments showed the U.S. was becoming \"more and more adept at tracing the origins of this espionage and subversion.\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Donald J. Trump ? \"I never spoke to  him  for book  \" Trump  wrote. \"Full of lies  misrepresentations and sources that don\u00e2\u0080\u0099t exist. Look at  this guy \u00e2\u0080\u0099s past and watch what happens to  him  and Sloppy Steve [Bannon]!\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i told her . i was so scared of rejection , so afraid i would ruin our friendship , but i finally did it and she felt the same way too . i 've never been so happy in my life",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Ben Affleckhe ? McGowan was named in The New York Times initial story about Weinstein after a 1997 incident. The then 23 year old was reportedly given an undisclosed settlement after an episode in a hotel room with Weinstein at the Sundance Film Festival. Now  she\u00e2\u0080\u0099s claiming that  Ben Affleck  not only knew about it  but actively did nothing. So far   he  has not commented further on the matter or addressed McGowan's claims.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "found out this morning i got a job promotion ! ! !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 've let go of too many people in my life . come back please . i miss you",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "just had the knee surgery i 've needed since late december . pain is present but hope is returning .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jimmy Kimmel ? Jimmy Kimmel  has already said what  he  needs to say about the events in Las Vegas.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "british comedian jack whitehall texts someone he has n't spoken to in years on television , and is beyond overjoyed when he replies . //streamable.com / j6ma",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Devin O'Rourke ? \"The defense knew it had to stop them \"  O'Rourke  said. \"We did that and the offense came up with the score. This is the best defense I've played on.\"",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Sandra Jovel ? \"It is not an issue that should really worry us too much \"  Jovel  said.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jody Warner ? \"After careful consideration and a thorough investigation  I have decided to terminate  Ms. Warner . Although criminal charges have not been filed   her  behavior is contrary to this office's core principle of integrity  and it will not be tolerated \" Johnson said in a statement. \"As public servants  we represent the people of Dallas County and are examples of justice  professionalism and ethical behavior both inside and outside of the courtroom. I will not waver on my expectation of the highest integrity for myself or my staff. I will continue to run this office with transparency and respect for the justice system and the community we serve. I encourage you  the public  to look beyond this incident and recognize that our prosecutors work hard each day to seek justice on your behalf.\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Shinzo Abe ? The bad weather may have also helped  Abe . The approaching Typhoon Lan left voters battling strong winds and heavy rain to make it to polling stations. On Monday  Kyodo estimated the final turnout at 53.69 percent  only marginally above a record low in the 2014 election.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "got the best t - shirt ever today !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm in love ! and she loves me , too !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Hugo Steven Selva ?  She  claimed he \u00e2\u0080\u009cthreatened to kill me and ( Selva \u00e2\u0080\u0099s sister) on multiple occasions \u00e2\u0080\u009d the court petition shows.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Bronislaw Komorowski ?  Speaking before Kaczynski's concession speech  Komorowski stopped short of claiming an outright victory. \"Tonight we open a small bottle of champagne. For a bigger one  we will have to wait until tomorrow \" Komorowski  58  a father of five  told supporters in central Warsaw.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Samantha Almeida ? \u00e2\u0080\u009cMama \u00e2\u0080\u009d  the girl  said before slumping. \u00e2\u0080\u009cI\u00e2\u0080\u0099ve been shot.\u00e2\u0080\u009d",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Momodu Gondo ? According to WBAL   Gondo  confessed to stealing \u00e2\u0080\u009cprobably $100 000\u00e2\u0080\u009d in drugs  cash  and firearms.  He  is one of eight members of the GTTF facing federal charges for the alleged robberies and invasions and theft of overtime as well.  He  agreed to testify against the other members in hopes of receiving a reduced sentence.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Christopher Kyba ?  He  and others argue that lighting efforts must be well-designed to reduce the amount of light going out into space while still providing a safe and comfortable experience for people on the ground who need to see at night.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Tony Blair ? LONDON \u00e2\u0080\u0094  Former British Prime Minister Tony Blair  is pressing  his  long-held view that voters should be given a chance to re-think Brexit once plans for Britain\u00e2\u0080\u0099s departure from the European Union are clear.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i asked my students to draw things they love on my dress and i am super happy with the results !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my old friend is going through some happy times at the moment .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my girlfriend is n't attracted to me . we 've been together for 6 years , she still wants to be with me but i know she does n't want me physically . she feels guilty because we do n't have sex , i feel like everytime we do it 's pity . now i feel guilty because she is trying so hard to keep this relationship , but i know this has to end .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Rafael Correa ? FILE PHOTO - Ecuador's former President Rafael Correa talks to Reuters  in Quito  Ecuador January 30  2018. Picture taken January 30  2018. REUTERS/Daniel Tapia",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my nieces first time at the beach . if this is n't happiness , i do n't know what is .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Tiger Woods ? The American former world number one won the last of  his  14 major titles in 2008 and the 41-year-old has only played six competitive rounds in the past two years while trying to recover from multiple back surgeries.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i have a possibly offensive sexual fantasy and i love relishing in it .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "sedatives used to free whale from fishing line .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Fidel Castro ? I won\u00e2\u0080\u0099t bother asking if you\u00e2\u0080\u0099ve ever heard of this ferocious insurgency on our very doorstep from The FAKE History Channel  FAKE News Media  or your professors  amigos. These valiant and desperate insurgents were fighting the Left\u00e2\u0080\u0099s premier pin-up boys:  Fidel Castro  and Che Guevara. That\u00e2\u0080\u0099s all you need to know about the media/ Hollywood silence. This (thoroughly-documented) insurgency turns on its very head everything the Media/Hollywood complex would have us believe about Che Guevara and  Fidel Castro .",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Vladimir Putin ?  Putin \u2019s new missiles could probably strike the U.S. The old ones could  too.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Juan Enriquez ? \u00e2\u0080\u009cWhy would anyone want to do this \u00e2\u0080\u009d  Enriquez  asked. \u00e2\u0080\u009cBecause  at heart  we are explorers. We have to take control of our own evolution if we want to even think about getting somewhere else.\u00e2\u0080\u009d",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Luther Strange ? And yet  Strange  is relying on McConnell for financial support. The nonpartisan Center for Responsive Politics reported Thursday that as of early September  the Senate Leadership Fund super PAC  which is affiliated with McConnell  had spent $733 000 to promote  Strange  and another $2.5 million to air negative ads against Moore.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "sick of people that act like my best friend in person then ignore me on social media . what 's up with that bullshit ?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Boyle ?  Boyle  says the last thing  he  heard from  his  captors while the family was in the trunk of a car during a firefight was \"kill the hostages.\" The captors  however  were killed by Pakistani forces before they could follow through",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity La David Johnson ? The war of words between the president and Wilson began Tuesday when the Miami-area Democrat said Trump told Myeshia Johnson in a phone call that her husband \"knew what he signed up for\" and didn't appear to know his name  a version later backed up by  Johnson 's aunt.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Richard Spencer Said ? \"It's been a very difficult struggle. I don't think it's going to be impossible  but it's clearly difficult just because I\u2019m controversial \"  he  said.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kirstjen Nielsen ?  Ms. Nielsen  said past administrations had not been as strenuous in attempting to weed out would-be terrorists as the current one  and pointed to a string of attacks dating back five years \u00e2\u0080\u0094 to the heart of the Obama administration. And  she  again cited a controversial administration report that found of more than 500 people convicted of terrorism-related crimes in U.S. courts since 2001  three-quarters were foreign-born.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "when you finally get up the courage to go to therapy ... .... to fix the feeling of being let down all the time by people its not a good feeling when your therapist does n't show up and assumes you wo n't make it to the appointment because there was snow two days ago . i 'm not irresponsible .. i would have called . oh well :) i will stick with self help books they 've helped me so far !",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Ralph Northam ? HD 28 \u00e2\u0080\u0093 Del. Bob Thomas (R) apparently defeated Democrat Joshua Cole here by just 82 votes  pending litigation  while  Ralph Northam  won the district 50.8%-47.8%.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Robert Mueller ? Still  one of the lawyers  who represents a senior Trump official  said  Mueller  could try to indict the president even if the move brings challenges from Trump's attorneys.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Michael Flynn ?  Flynn \u00e2\u0080\u0099s lawyer did not immediately return a request for comment from the Daily News.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Valerie Bauerlein ? A decade ago  \"we were in a global economic malaise  \" Bauerlein  tells NPR's Michel Martin. \"And Christmas tree growers couldn't sell the trees that they had cut  and for the price that they had in them  so then they planted less.\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Chris Kennedy ? I\u00e2\u0080\u0099d say the same thing about  Kennedy \u00e2\u0080\u0099s repeated claims  one example seen above  that successful property-tax appeals result in less money for our schools.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "for the first time in a long time , i 'm really happy . a lot of shit things have been happening to me lately , but for some reason , i just woke up happy and really pumped to go out and do stuff . do n't know why , but it feels goddamn great to be happy . have a cool day redditors .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Deborah Rutter ? While she didn\u00e2\u0080\u0099t need much convincing   Rutter  allowed that there could be others who might \u00e2\u0080\u0094 for fear of what it could mean for the other arts. \u00e2\u0080\u009cJust because we are bringing in more programming that includes hip-hop artists  it does not mean that we\u00e2\u0080\u0099re doing less dance or less international programming or less of the National Symphony Orchestra \u00e2\u0080\u009d she said. \u00e2\u0080\u009cIt just means that we\u00e2\u0080\u0099re doing more  that we have thrown open the doors of the Kennedy Center  and we are ensuring that all are welcome here.\u00e2\u0080\u009d",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Nathan Chen ? Nathan Chen  hit the ice jumping when  he  landed in PyeongChang  South Korea to compete in  his  first Winter Olympic Games. Despite not sleeping through the night because of jet lag  the young American star managed to skate all three practice sessions to which  he  was assigned and  he  held little back  landing most of the challenging quadruple jumps for which  he \u00e2\u0080\u0099s known.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Christopher Bailey ? It was as a designer  however  that  Bailey  made  his  name.  He  took the company that made trench coats in World War I and wove its classic plaids into contemporary design. Banking on Britishness   he  made it the center of Burberry's brand.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my mother has had severe hearing loss for the majority of her life . last weekend marked the first weekend that she has been able to truly hear since she was a little girl .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Leigh Corfman ? Two of Corfman\u00e2\u0080\u0099s childhood friends say  she  told them at the time that  she  was seeing an older man  and one says  Corfman  identified the man as Moore. Wells says her daughter told her about the encounter more than a decade later  as Moore was becoming more prominent as a local judge.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Aaron Rodgers ? Dec. 10 (UPI) \u00e2\u0080\u0094 The Cleveland Browns probably wish  he  was their real quarterback  but  Aaron Rodgers  pretended to be the AFC North squad\u00e2\u0080\u0099s gunslinger this week at practice.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Uri Berliner ? SUAREZ: That's  NPR's Uri Berliner . Thanks a lot  Uri.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i bombed an job exam . i feel so stupid",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Woods ? Sylla says Tag Heuer has great respect for Woods' performance in the sport",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jason Burle ? Jason Burle  owner of the SNAFU bar  made news for duct taping the jerseys of both Oakland Raider Marshawn Lynch and San Francisco 49er Colin Kaepernick to the ground outside his Lake Ozark  Missouri  establishment  according to the Associated Press.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Scott Baio ?  Baio  responded in a 16-minute Facebook Live video saying that  he  is being falsely accused of inappropriately touching and having intercourse with  her  when  she  was a minor.  Baio  said  he  and Eggert had a consensual relationship after  she  was over the age of 18.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Tequila Isaacson ? \u201cI got the fire put out  and everyone safe  before the 911 call was completed \u201d  Isaacson  wrote.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i hate that black people always act like they are the victim .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 've made the decision to reach out to my boyfriend 's ex . i 'm going to reach out to my boyfriend 's ex so i can find out what their relationship was like . it 's driving me crazy wondering if he was happier or more in love with her . i just need to know .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i \u2019ve decided to kill myself and i \u2019m relieved . i \u2019ve thought about suicide for years and i \u2019ve decided to go through with it . i \u2019m going to do it after completing my master \u2019s program . i \u2019m glad knowing that i wo n\u2019t have to go through any more bullshit in life . i \u2019m never happy and my life is an absolute mess . i feel at peace .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Fireman Jamie Wall ? \"I found someone on the ground alive \"  he  said. \"When I walked to the other side of the plane  I tripped on another person.\"",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Anisa Rasooli ? But  Rasooli   who has received threats on her phone and in court  and other senior staff told AFP they have no protection at night because they do not have facilities at their homes for the guards.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Laura Ingraham ? It was more establishment Republican Partyism. To a certain extent   she \u00e2\u0080\u0099s right about this. There has been a \u00e2\u0080\u0094 and I tell you  Bush\u00e2\u0080\u0099s focus on immigration and his unrelenting desire to get it done. I mean  there\u00e2\u0080\u0099s a great passage in the book where  she  makes the point that Bush would go anywhere in the world to defend the borders of a foreign country \u00e2\u0080\u0094 such as Iraq or Kuwait or you name it \u00e2\u0080\u0094 but he wouldn\u00e2\u0080\u0099t defend the borders of the United States.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Rex Tillerson ? Washington (CNN)  Secretary of State Rex Tillerson  the stone-faced former oil executive Donald Trump tapped to serve as his global envoy   is increasingly seen by administration officials and diplomats as on  his  way out -- just as flash-points from Iran to North Korea flare.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "to the people who are still hurting after finding out that their significant other was unfaithful to you ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Denali ? Terrain Denali was fast  responsive and quiet in a long day of driving that included",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "today my fianc\u00e9 got engaged to a stranger .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm super bothered about people with lazy eye . does anyone else feel like this ? whenever i 'm having a conversation with someone who has a lazy eye , even if very minor , it bothers me so much , i ca n't even think about the conversation , i ca n't explain it . it 's like i 'd rather have my limb removed than to have a lazy eye .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "we found his weed for the second time . his mother is an enabler and gives him money . the first time we found weed she talked to him and he still smoked it . yesterday we found more . she talked to him again . he just wo n't stop . how the fuck do you discipline someone like this ? he is my cousin and i do n't want to lose our apartment if management finds out .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Vladimir Putin ?  Putin 's comments on the 1991 collapse of the U.S.S.R. \u2014 which bound Russia and many of its neighbors while exerting influence in Eastern Europe and abroad for almost seven decades \u2014 came at a question-and-answer forum held Friday in Kaliningrad. Taking questions from the audience  the Russian leader was asked what event in his nation's history he would have liked to change.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i honestly feel huge hate towards islam and muslims .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Darrell Standberry ? It was 2011  when  Standberry  stopped at a gas station on Six Mile Road after attending  his  son\u00e2s football practice. After filling up the tank of  his  SUV   he  left the car running and went inside to pay  only to spot a man jumping in behind the wheel.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "tired of living . i \u2019m so tired of fighting mental illness daily . it is exhausting . i do n\u2019t want to leave the few people that love me otherwise i would already have killed myself . trying to dull the pain with xanax and wine . i \u2019m so tired of feeling this way . tired of cutting myself . tired of substance abuse . feel so alone . i do n\u2019t know why i \u2019m writing all this bullshit . who fucking cares .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Dee Dee Myers ? Last week House Republicans raised the issue of White House officials failing to complete the clearance process.  Myers  acknowledged that  she  had not  due to the press of other business  and said that only one other senior official fit that category. That is Ricki Seidman  who has served as deputy communications director  as a counselor to the chief of staff and now as head of the scheduling operation.  She  did not return phone calls.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Amber Rose Fearful ? \u201cMy boobs are stupid heavy  my back hurts and I can\u2019t wear cute lil shirts without a grandma bra \u201d  she  complained in an Instagram post in July.  She  also asked followers for advice about possible post-surgery scarring.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i feel like a lot of people with kids think their free time is more important than those without kids . i get it , you have a tiny human depending on you , but that does n't make your free time more important than mine . i 've experienced many parents that think because they have kids , they should n't have to work nights or weekends . your poor planning should not be my problem .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Betsy DeVos ? The potential rules will be discussed next week at a three-day meeting starting Monday of the special committee assembled by  DeVos   according to Education Department spokesman Alberto Betancourt. It is the second round of negotiations to establish new guidelines.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "oh . my . god . i 'm an idiot . i 'm an idiot . i 'm an idiot . that is all .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i told my very conservative , orthodox jewish relatives about my transgender girlfriend . and they said they just want me to be happy ! i was so pleasantly surprised :)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my husband and i have become long - term foster carers for two sisters aged 11 and 12 , both students of mine at primary school . our lives have changed completely and we love it .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Luca Maestri ? Maestri said Apple will not make any changes to its mergers and acquisition strategy  saying  the company  will continue to look \"at all sizes\" and aims to \"accelerate our product road maps\" from  its  acquisitions.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "it may not be big , but it 's my very first christmas tree and i love it .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Christopher Wray ? Before that   Wray  was an associate at King and Spalding from 1993 to 1997  according to  his  Senate Judiciary Committee questionnaire. From 1992 to 1993   he  was a clerk for Judge J. Michael Luttig  with the U.S. Court of Appeals for the Fourth Circuit.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm the worst kind of person there is . do i have a right to an opinion ? i 'm a young , healthy , white , straight , cis , male , living in an upper middle class family . do i still have the right to speak on any matter ? do i have the right to hold an opinion ? i feel like shit . i feel like everything i say is invalid .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jock Sanders ?  \"I'm a person who wholeheartedly believes in second chances. I had plenty of them coming up \" Brown said. \"If someone wasn't there to talk to me and help me out  I wouldn't be in the position I am now.\"",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Joe Biden ? All I\u2019m saying is: maybe Joe Biden is kind of a joke too.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Aundy Crenshaw ? Crenshaw and Getto both agree artist interaction has been key in helping Dirtybird successfully grow.  Crenshaw  says it\u00e2\u0080\u0099s important artists under the label treat fans as friends.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my friends wanted to see the aqueduct , so we set out on an epic ride to find it . i had only been there once , years before , when another friend took me . i was so happy to find it again !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "one year ago today i proposed , in a treehouse near the beach , to the love of my life . this photo was taken just before it happened . i \u2019ve never been happier !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Harry Potter ? Jamie Parker as  Harry Potter  from the Original London Company of ' Harry Potter  and the Cursed Child.' Image: manuel harlan",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Roy Moore ? Trump backed Strange in the primary but threw his support to  Moore  after Strange\u2019s defeat.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "just a friend today , we kissed ! and we did n't have sex . it was beautiful . lol . i do n't know if it 'll ever happen again , but ... it was great . thank you .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "after 7 years of careful saving , paying down student loans and scraping by in a tiny 1 bedroom apartment , my husband and i just bought a house ! ! ! i never thought this would be possible for us but we did it !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm done . i 'm so tired of them force feeding me . i 'm trying to get better , but please do n't do this to me . it 's gone so far that i tried to puke today , three times but i just could n't .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i completed my first 5k run last night ! i 'm nearly 50 .. it 's never too late to try a new hobby .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "stupid facebook memory thing . thanks for reminding me how me and some friends use to be close but now i ca n't stand talking to them . guess we were n't ad close as we said huh ?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm so angry i have a summer cold ! people call me a germaphobe as a joke , and i take serious precautions to not get sick . wiping things down with lysol wipes , constantly washing hands , not touching my face , etc . but lately i have n't been doing all of that , and low and behold , i get sick in june !",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Darren Drake ? Pallbearers place  the casket of Darren Drake  into a hearse during  his  funeral. (James Keivom/New York Daily News)",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kirstjen Nielsen ?  Nielsen  noted that many of the terrorist attacks dating back five years can be traced back to lax screening processes put in place by the Obama administration:",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kahle ? \u201cYou could turn all the books in the Library of Congress into a stack of disks that would fit in one shopping cart in Best Buy \u201d  Mr. Kahle  said.  He  estimates that the Internet Archive now contains about 9 000 terabytes of data; by contrast  the digital collection of the Library of Congress is a little more than 300 terabytes  according to an estimate earlier this year.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm high and for the first time in my life i feel attractive with my shirt off ! i just smoked a massive joint of the best weed i 've ever smoked , then spent an hour and a half dealing with my ridiculous amount of body hair . looked in the mirror and for the first time i was proud of what i saw , off to a party later and i feel fantastic = d",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Stephanie O'Neill ?  STEPHANIE  O'NEILL: You're welcome.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Sheikh Ahmad ? Sheikh Ahmad added.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "we got married on the first day of marriage equality in australia . our photographer captured the moment the celebrant said ' australian law defines marriage as the union of 2 people to the exclusion of all others '",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i want to die . in last few months i lost my job , i drop out of uni , my gf of 5 years left me and i feel like i m the bullet she dodged . i lost my will to live . nothing i do brings me joy anymore . everything feels so empty and useless . i can not sleep anymore . i feel like my therapist is nt helping .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Hon Hai ? Hon Hai's target price from NT$175 to NT$148  and Merrill Lynch decreased it from NT$190 to NT$159. But both brokerages kept their buy rating on the stock  according to media reports.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jocelyne Larocque ? Jocelyne Larocque  wanted no part of the silver medal following Canada\u00e2s 3-2 shootout loss to the U.S. in the women\u00e2s hockey final Thursday. (Bruce Bennett/Getty Images)",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm a black scottish cyclops .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kim Jong Un ? Departing from  his  usual black or navy suits  Kim gave  his  televised speech wearing black-rimmed glasses and slicked back hair  speaking fluently and rarely looking down to read as  he  raised the possibility of sending a delegation to the upcoming Winter Olympics in South Korea.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kaka ? \"I needed time to think and take a decision calmly \"  Kaka  said. \"I have arrived to the conclusion that now is the moment to finish my career as a professional player.\"",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Dawnmarie Souza ?  Souza then mocked her supervisor on Facebook  using several vulgarities to ridicule him  according to Jonathan Kreisberg  director of the board's Hartford office  which filed the complaint.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Jerry Jones ?  Jones  has acknowledged being at odds with the compensation committee chairman  Atlanta owner Arthur Blank  over the Goodell talks. They didn't speak on the field before the Falcons' 27-7 victory over the Cowboys on Sunday.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "fuck people who treat others as distractions instead of friends . and curse me for liking pretty girls who i know do n't feel me back .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Rick Del Sontro ? The Rainy Day Foundation advertises that it can help lenders remain in the FHA's good graces. For a fee of about $600 per borrower  paid by lenders  home builders and real estate firms to cover the cost of making mortgage payments for distressed borrowers  the group promises to limit defaults during the two years after a loan is made  the period watched most closely by the FHA. Rick Del Sontro  chief executive of the Rainy Day Foundation  said in an interview that his group provides an important service to borrowers and lenders.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "happy 4th everyone ! today \u2019s my son \u2019s 2nd birthday ! !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Joakim Noah ? Just three-plus years removed from a dominant season with the Bulls in which  he  won Defensive Player of the Year and finished fourth in the MVP voting   Noah   in  his  second season of a four-year  $72 million deal with the Knicks  is out of the rotation \u2014 active some nights  inactive most.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "my brother 's birthday is today and he 's in jail . his 3rd son was born a week ago . this feels so bad . i 'm in college and i barely see him but it feels worse knowing he 's in a bad place :/",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Sarath Fonseka ?  Rajapakse handpicked Fonseka to be his army chief in 2005 and the two men were victorious allies on the battlefield last year against the Tamil Tiger rebels but are now sworn enemies at the ballot box.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Hayley Smith ? Image copyright Supplied Image caption  Hayley Smith  lost  her  job when  she  told  her  employer about  her  depression",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Abu Bakr al-Baghdadi ? \u00e2\u0080\u009cWith God\u00e2\u0080\u0099s will and his strength  we are staying determined  patient...The abundance of killing will not stop us \u00e2\u0080\u009d  Baghdadi  said in the audio recording.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Hugo Chavez ? Caracas",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Kim Cattrall ?  Cattrall \u2019s co-stars Sarah Jessica Parker and Cynthia Nixon joined the chorus of hundreds who took to social media to show their support for  her  during this difficult time. As previously reported  the 61-year-old star asked  her  followers for help earlier this week when  her  brother  Christopher  went missing. Hours later   she  posted an image of  her  posing with  her  brother announcing that he had been found dead.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Braden Matejka ? When the gunfire broke out   Matejka  was knocked to the ground after a bullet struck  him  the head. Homulos  who was not injured  was able to make it inside the car of another concertgoer  who drove them to the hospital.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Shawn McGuire ? Ballistic vests worn by the officers blocked the rounds of gunfire but they still suffered some injuries. Both were hospitalized for treatment and evaluation  according to  McGuire .",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i want to be abused . i do n\u2019t know why . i am in this great relationship with this wonderful man . but you see , i have this thing with another man . i am obsessed with him . i love him . i feel like i would be ok with him totally disrespecting me in any way and i would still want him . he is mad at me right now . i want him to punish me for me being bad .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "you assholes ruined my favourite uncle 's funeral .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Letitia Wright ? Where you\u00e2\u0080\u0099ll see  him  this year: Starring in Steven Spielberg\u00e2\u0080\u0099s retro-tastic sci-fi thriller \u00e2\u0080\u009cReady Player One\u00e2\u0080\u009d and the next X-Men movie  \u00e2\u0080\u009cDark Phoenix\u00e2\u0080\u009d",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Sergio Aguero ?  Aguero  had earlier posted a picture of  himself  on  his  Instagram account seated in the back of a car thanking Colombian singer Maluma  who was also in the photo  for the invitation.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "after receiving an amazing 90 day review ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Joshua Boyle ? A U.S. military official said that a military hostage team had flown to Pakistan Wednesday  prepared to fly the family out. The team did a preliminary health assessment of the family and had a transport plane ready to go. But sometime after daybreak there  as the family members were walking to the plane   Boyle  said  he  did not want to board.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i 'm drunk . as the title said , i 'm drunk right now . and it 's awesome . and it 's making me forget today but . remember the past . jesus christ why does my past suck so much . it 's a freaking miracle anyone likes me . i 'm such a bitch . and i suffer from depression . and anxiety attacks . and i lie . and tell stories . why does anyone like me ?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Warren Buffett ? Jain  by contrast  oversees Berkshire's gigantic insurance outfit  where he's shown deft underwriting skill and the discipline to trim exposures to overly competitive markets like catastrophic insurance and reinsurance when pricing is unfavorable. A native of India  Jain came to the U.S. to get an MBA at Harvard and then cut his teeth at consultancy McKinsey. In 1985  he was hired by  Buffett  to work in Berkshire's insurance operations. Said  Buffett  in a 2009 shareholder letter  \"I immediately knew we had found a superstar.\" A decade later  the division was bolstered by  Buffett 's acquisition of the Geico shares Berkshire didn't already own. From an insurance float of $3.6 billion in 1995  Berkshire's float now stands at about $100 billion annually.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Luther Strange ?  Strange 's equivocation underscores his difficult position in the race. Despite having Trump in his corner  he has effectively been cast by Moore as an establishment figure who will perpetuate Washington dysfunction. Moore has seized the outsider's mantle for himself by highlighting the rebellious streak he displayed as Alabama's chief justice  a position from which he was removed \u00e2\u0080\u0094 twice \u00e2\u0080\u0094 for defying judicial orders.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "is painting your nails better than trimming them ? i 'm female . i do n't paint my nails often - part work issues , part laziness , part ' what 's the point ? ' i do have reasonably nice nails though ... but are they important ... and if so in what context ?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "just spent an amazing 10 days in hawaii with the woman i 'm going to marry . i could n't be any happier .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "i \u2019m in love with my fianc\u00e9 \u2019s brother . it \u2019s effed up , i know , but i love two people . i love my fianc\u00e9 , but i \u2019m in love with his brother . his brother and i flirt , kiss , and , yes , have sex all behind my fianc\u00e9 \u2019s back . i have a child with my fianc\u00e9 , but his brother acts more like a father to his niece than her own dad does .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Theresa May ? \u201cFor months  the Brexit hardliners have called the tune \u201d  the Financial Times said.\u201cMrs May  has stopped dancing.\u201d",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity Ayatollah Ali Khamenei ? \u201cThese concerns must be addressed. We must listen  we must hear. We must provide answers within our means \u201d  Khamenei  was quoted as saying  hinting that not only the government of Rouhani  but  his  own clerical leadership must also respond.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "if it was n't for seinfeld ....",
+        "output": "negative"
+    },
+    {
+        "instruction": "Given a sentence and an entity, the task is to select the authors sentiment towards the enity. Sentiments can be Positive, Neutral and Negative. Select Positive if the sentence expresses a positive view towards the given entity or praises its quality or skills. Select Neutral if the sentence expresses no clear view towards the entity or has equal amounts of positive and negative statements or expressing some fact/quote by someone else. Select Negative if the sentence expresses a negative view towards like harsh remarks, criticizing entities action/decision etc. Note that URLs in the text have been replaced with [Link].",
+        "input": "What is the sentiment of the following document towards the entity James Cameron Jack ?  Cameron  had always loved diving and deep-sea exploration  and The Abyss   his  third film as director and sole writer  had been a love letter to both. But that was fantasy; Titanic was real. And when  Cameron  first decided to pursue the project  the prospect of going to the wreck of Titanic might have been incentive enough to pitch the movie. When  he  first met with 20th Century Fox Chairman Peter Chernin to discuss Titanic  in the spring of 1995   he  asked for $2 million to fund a deep-sea expedition. It was an amazing sum of money to the Russian scientists and submersible pilots who took  Cameron  to the wreck. It was nothing compared to Titanic\u00e2\u0080\u0099s final price tag. When Titanic opened in theaters across the US  on the weekend of Dec. 19  1997  it became the No. 1 movie in America by the skin of its teeth  edging out the latest James Bond movie  Tomorrow Never Dies  by a margin of $3.5 million. But to the executives who had nervously overseen Titanic\u00e2\u0080\u0099s production \u00e2\u0080\u0094 and watched its budget nearly double  from $110 to $200 million \u00e2\u0080\u0094 this wasn\u00e2\u0080\u0099t particularly encouraging news. For Titanic to earn a profit  executives calculated  it would have to attract viewers in utterly unprecedented numbers: Even if it sold more tickets than Dances With Wolves  the most profitable three-hour-long movie ever released  Fox would still be $70 million in the red. And to be a success? It would have to somehow repeat its $28 million opening-weekend ticket sales \u00e2\u0080\u0094 and stay the No. 1 movie in America \u00e2\u0080\u0094 for weeks and weeks in a row  in a way no movie had in nearly a decade. It would have to be more than just a movie. It would have to become a cultural obsession. And it did.  Cameron  had once \u00e2\u0080\u0094 optimistically  as the final budget reflected \u00e2\u0080\u0094 called Titanic \"a $190 million chick flick.\" By Jan. 31  1998  20th Century Fox estimated that 7% of all American teenage girls had seen the movie twice. They weren\u00e2\u0080\u0099t the only ones going back to see Titanic a second time  and perhaps a third  though they did receive the most press. In 1997  the average return viewer rate for a theatrically released movie was 2%. Meanwhile  Titanic\u00e2\u0080\u0099s was 20%. In February 1998  a survey found that 76% of Titanic's repeat viewers still planned to see it again. It made more money \u00e2\u0080\u0094 $32 million \u00e2\u0080\u0094 during its 11th weekend in theaters than it did during its first. (It helped that this weekend also happened to fall on Valentine\u00e2\u0080\u0099s Day.) Theaters that previously worried about losing money on a movie they could screen only two or three times a day started squeezing in showings as early as 8 a.m. and as late as midnight  letting out satisfied viewers at 3:30 in the morning. Adults  people with families  responsibilities  and jobs  flocked to see Titanic. Because for a little while \u00e2\u0080\u0094 for 3 hours and 14 minutes  to be precise \u00e2\u0080\u0094 the rest of their lives disappeared. Titanic gave people a way to make the rest of their lives disappear  and so they kept coming back  and finding that the world  James Cameron  had created for them still felt just as real as it had the first time. What made Titanic not just a movie  but a destination? And what did it take to will such a world into solid reality?",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Given a sentence in English, provide the sentiment based on its empathetic direction. There are two possible classifications: positive (happy) or negative (offmychest).",
+        "input": "police officer cites and releases man for stealing school supplies for his kids then uses his own money to buy food for the guy 's family . via reddit.com .",
+        "output": "positive"
+    }
+]

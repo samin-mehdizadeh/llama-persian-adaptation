@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Maxillary molars have ____ buccal cusps and two lingual cusps.\\Question: Choose the right answer from options given a) nine b) six c) two d) four",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: In how many ways can a cricket 15 be chosen out of a batch of 20 players?\n\n Option A: 12500\n\n Option B: 18250\n\n Option C: 13250\n\n Option D: 15504\n\n Option E: 14520",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Two pipes can fill a tank in 18 minutes and 15 minutes. An outlet pipe can empty the tank in 45 minutes. If all the pipes are opened when the tank is empty, then how many minutes will it take to fill the tank?\n\n Option A: 10 minutes\n\n Option B: 20 minutes\n\n Option C: 15 minutes\n\n Option D: 12 minutes\n\n Option E: 18 minutes",
+        "output": "Option A"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Some insects have ____ transitions points.\\Question: Choose the right answer from options given a) three b) six c) one d) two",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: In the exam the average was found to be p mark. After deducting typographical error the average marks of 94 student reduced from 84 to 64 . Due to this the average came down by 18.8 marks. What was the number of students who took the exam?\n\n Option A: 100\n\n Option B: 120\n\n Option C: 110\n\n Option D: 130\n\n Option E: 160",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A completes a work in 6 days and B complete the same work in 24 days. If both of them work together, then the number of days required to complete the work will be\n\n Option A: 8 days\n\n Option B: 9 days\n\n Option C: 10 days\n\n Option D: 4.8 days\n\n Option E: 13 days",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Inhibited desire is the most common sexual dysfunction, effecting ____ in three couples.\\Question: Choose the right answer from options given a) eight b) zero c) one d) no",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Western geographers consider it to be the northernmost of ____ central Asian republics.\\Question: Choose the right answer from options given a) zero b) one c) five d) four",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: I bought two books; for Rs. 480. I sold one at a gain of 10% and other at a gain of 20% and then I found each book was sold at the same price. Find the cost of the book sold at a lesser gain ?\n\n Option A: A\n\n Option B: B\n\n Option C: C\n\n Option D: D\n\n Option E: E",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A broker invested her own money in the stock market. During the first year, she increased her stock market wealth by 40 percent. In the second year, largely as a result of a slump in the stock market, she suffered a 30 percent decrease in the value of her stock investments. What was the net increase or decrease on her overall stock investment wealth by the end of the second year?\n\n Option A: \u22125%\n\n Option B: \u22122%\n\n Option C: 15%\n\n Option D: 20%\n\n Option E: 80%",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A train having a length of 270 meter is running at the speed of 120 kmph . It crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?\n\n Option A: 320 m\n\n Option B: 190 m\n\n Option C: 210 m\n\n Option D: 230 m\n\n Option E: 240m",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Nitric oxide serves ____ main functions in the body.\\Question: Choose the right answer from options given a) three b) no c) nine d) four",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A certain electric-company plan offers customers reduced rates for electricity used between 8 p.m. and 8 a.m. weekdays and 24 hours a day Saturdays and Sundays. Under this plan, the reduced rates Z apply to what fraction of a week?\n\n Option A:  1/2\n\n Option B:  5/8\n\n Option C:  9/14\n\n Option D:  16/21\n\n Option E:  9/10",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Smoking causes nearly ____ in five U.S. deaths.\\Question: Choose the right answer from options given a) no b) one c) four d) ten",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Most people develop antibodies within three months and some can take up to ____ months.\\Question: Choose the right answer from options given a) zero b) eight c) six d) seven",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Mangroves are the common name for ____ species of trees and shrubs found along warm water coasts.\\Question: Choose the right answer from options given a) three b) five c) four d) seven",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A type of extra-large SUV averages 12.2 miles per gallon (mpg) on the highway, but only 7.6 mpg in the city. What is the maximum distance, in miles, that this SUV could be driven on 22 gallons of gasoline?\n\n Option A: 190\n\n Option B: 284.6\n\n Option C: 300\n\n Option D: 268\n\n Option E: 312",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Spring tides happen every ____ weeks.\\Question: Choose the right answer from options given a) six b) four c) three d) two",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Ice boats can sail up to ____ times the speed of the wind.\\Question: Choose the right answer from options given a) five b) four c) one d) six",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Embryos have ____ epibranchials.\\Question: Choose the right answer from options given a) nine b) three c) seven d) four",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If I walk at 3 km/h, I miss the bus by 12 minutes. If I walk at 6 km/h, I reach 10 minutes before the arrival of the bus. How far I walk to reach the bus stand ?\n\n Option A: 2.19 km\n\n Option B: 2.22 km\n\n Option C: 2 km\n\n Option D: 1.19 km\n\n Option E: 1.99 km",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Simplify: 250 x 250 - 100 x 100\n\n Option A: 761200\n\n Option B: 761400\n\n Option C: 52500\n\n Option D: 761500\n\n Option E: None of them",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Lines y=\u221a2\u00b7x+2 and y=3\u221a2\u00b7x\u22121 intersect at what height above the x axis?\n\n Option A: (13\u221a2\n\n Option B: 13/2\n\n Option C: 13\n\n Option D: 2\n\n Option E: 0",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A train leaves Delhi at 9 a.m. at a speed of 30 kmph. Another train leaves at 2 p.m. at a speed of 35 kmph on the same day and in the same direction. How far from Delhi, will the two trains meet?\n\n Option A: 1050 km\n\n Option B: 1150 km\n\n Option C: 1250 km\n\n Option D: 1550 km\n\n Option E: 850 km",
+        "output": "Option A"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Thermal printing uses ____ consumables other than thermal paper.\\Question: Choose the right answer from options given a) no b) seven c) one d) three",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Scorpions are ____ legged venomous arachnids .\\Question: Choose the right answer from options given a) nine b) six c) no d) eight",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Purine synthesis requires ____ components of the one-carbon pool.\\Question: Choose the right answer from options given a) two b) no c) three d) five",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Medical science takes ____ months or more to create a vaccine once a new strain appears.\\Question: Choose the right answer from options given a) one b) no c) eight d) ten",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Buttercups have five to ____ petals or sepals.\\Question: Choose the right answer from options given a) five b) six c) no d) ten",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The dimensions of a room are 25 feet * 15 feet * 12 feet. What is the cost of white washing the four walls of the room at Rs. 9 per square feet if there is one door of dimensions 6 feet * 3 feet and three windows of dimensions 4 feet * 3 feet each?\n\n Option A: s.4538\n\n Option B: s.8154\n\n Option C: s.4518\n\n Option D: s.4530\n\n Option E: s.4517",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A rectangular-shaped carpet that measures x feet by y feet is priced at $35. What is the cost of the carpet, in dollars per square yard? (1 square yard = 9 square feet)\n\n Option A: 180xy\n\n Option B: 180/(xy\n\n Option C: 20xy\n\n Option D: 315/(xy\n\n Option E: xy/180",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Skin is made up of ____ distinct layers.\\Question: Choose the right answer from options given a) two b) one c) ten d) zero",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: An even and an odd integer are multiplied together. Which of the following numbers could not be the square of their product?\n\n Option A: 16\n\n Option B: 36\n\n Option C: 49\n\n Option D: 144\n\n Option E: 196",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Black adults have three to ____ times greater incidence of bacteremia, compared with white adults.\\Question: Choose the right answer from options given a) zero b) two c) five d) four",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A 25 cm wide path is to be made around a circular garden having a diameter of 4 meters. Approximate area of the path is square meters is\n\n Option A: 3.34 sq m\n\n Option B: 3.94 sq m\n\n Option C: 7.34 sq m\n\n Option D: 3.35 sq m\n\n Option E: 3.44 sq m",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: In how many different number of ways a Committee of 3person of can be selected from 4boys and 3girls such that at least 1 girl is included in the committe\n\n Option A: 30\n\n Option B: 29\n\n Option C: 31\n\n Option D: 17\n\n Option E: 85",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Religion is also a ____ edged sword.\\Question: Choose the right answer from options given a) two b) eight c) five d) three",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Chimpanzees reach puberty between the age of ____ and ten years.\\Question: Choose the right answer from options given a) two b) five c) eight d) seven",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Central processes comprise the vestibular nerve which terminates in the ____ vest.\\Question: Choose the right answer from options given a) four b) seven c) zero d) five",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Realist philosophy has ____ roles.\\Question: Choose the right answer from options given a) two b) one c) eight d) three",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Pumps A, B, and C operate at their respective constant rates. Pumps A and B, operating simultaneously, can fill a certain tank in 2 hours; pumps A and C, operating simultaneously, can fill the tank in 1 hours; and pumps B and C, operating simultaneously, can fill the tank in 2 hours. How many hours does it take pumps A, B, and C, operating simultaneously, to fill the tank.\n\n Option A: 1/3\n\n Option B: 1/2\n\n Option C: 1/4\n\n Option D: 5/2\n\n Option E: 5/6",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Sheep can be carriers for up to ____ weeks after recovering from the infection.\\Question: Choose the right answer from options given a) zero b) nine c) ten d) seven",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Some hygienists work for ____ or more dentists.\\Question: Choose the right answer from options given a) ten b) four c) two d) seven",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Government has ____ roles in the economy.\\Question: Choose the right answer from options given a) nine b) seven c) two d) zero",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The average weight of 16 boys in a class is 50.25 kg and that of the remaining 8 boys is 45.15 kg. Find the average weights of all the boys in the class.\n\n Option A: 48.55\n\n Option B: 49\n\n Option C: 51\n\n Option D: 61\n\n Option E: 62",
+        "output": "Option A"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Wolves can live for ____ weeks without food.\\Question: Choose the right answer from options given a) two b) nine c) five d) eight",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Bullying is most severe in grades ____ to nine.\\Question: Choose the right answer from options given a) four b) seven c) six d) no",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Most cosmetic surgery done for aging is of limited value, usually holding up five to ____ years.\\Question: Choose the right answer from options given a) five b) three c) four d) seven",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Ozone adds ____ contaminants or by-products to water.\\Question: Choose the right answer from options given a) nine b) no c) ten d) three",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: W and F represent two distinct digits. If the number 457W89F is divisible by 36, what is the value of (W+F)?\n\n Option A: a\n\n Option B: b\n\n Option C: c\n\n Option D: d\n\n Option E: e",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Hyperactive children become magnesium deficient for ____ reasons.\\Question: Choose the right answer from options given a) zero b) no c) two d) one",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A driver would have reduced the time it took to drive from home to the store by 1/3 if the average speed had been increased by 12 miles per hour. What was the actual average speed, in miles per hour, when the driver drove from home to the store?\n\n Option A: 16\n\n Option B: 20\n\n Option C: 24\n\n Option D: 28\n\n Option E: 32",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Insects have ____ lungs or centralized respiratory system.\\Question: Choose the right answer from options given a) nine b) no c) two d) ten",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Women are ____ times more likely to experience SAD than men.\\Question: Choose the right answer from options given a) one b) three c) four d) nine",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Peonies grow from two to ____ feet in height.\\Question: Choose the right answer from options given a) five b) zero c) three d) four",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: What is the remainder when the number Y=14^2 * 15^8 is divided by 5?\n\n Option A: 0\n\n Option B: 1\n\n Option C: 2\n\n Option D: 4\n\n Option E: 5",
+        "output": "Option A"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Circles mark the approximate locations of ____ recently discovered solar systems.\\Question: Choose the right answer from options given a) four b) no c) zero d) nine",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Showers have a lip of ____ inches or less.\\Question: Choose the right answer from options given a) nine b) two c) four d) six",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Vision disorders affect ____ in every four school-age children.\\Question: Choose the right answer from options given a) nine b) one c) five d) six",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A telephone company needs to create a set of 3-digit area codes. The company is entitled to use only digits 2, 4 and 8, which can be repeated. If the product of the digits in the area code must be even, how many different codes can be created?\n\n Option A: 20\n\n Option B: 22\n\n Option C: 24\n\n Option D: 27\n\n Option E: 30",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Rabbits can mate from ____ to seven times a year.\\Question: Choose the right answer from options given a) six b) two c) five d) three",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?\n\n Option A: 200\n\n Option B: 205\n\n Option C: 209\n\n Option D: 250\n\n Option E: 300",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Most spiders have eight eyes, but some have six, ____ or two.\\Question: Choose the right answer from options given a) no b) four c) eight d) one",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The value of x + x(xx) when x = 2 is:\n\n Option A: 8\n\n Option B: 10\n\n Option C: 12\n\n Option D: 14\n\n Option E: 16",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Simple interest on a certain sum at a certain annual rate of interest is 1/25 of the sum. If the numbers representing rate percent and time in years be equal, then the rate of interest is:\n\n Option A: 5 %\n\n Option B: 2 %\n\n Option C: 6 %\n\n Option D: 8 %\n\n Option E: 3 %",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Autism is ____ times more common in boys than girls.\\Question: Choose the right answer from options given a) four b) zero c) five d) one",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: On a certain day, Tim invested $600 at 10 percent annual interest, compounded annually, and Lana invested 800 at 5 percent annual interest, compounded annually.The total amount of interest earned by Tim\u2019s investment in the first 2 years was how much greater than the total amount of interest earned by Lana\u2019s investment in the first 2 years?\n\n Option A: $5\n\n Option B: $15\n\n Option C: $44\n\n Option D: $100\n\n Option E: $105",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: It takes eight hours for a 600 km journey, if 120 km is done by train and the rest by car. It takes 20 minutes more, if 200 km is done by train and the rest by car. The ratio of the speed of the train to that of the cars is:\n\n Option A: 2 : 3\n\n Option B: 3 : 2\n\n Option C: 3 : 4\n\n Option D: 4 : 3\n\n Option E: 2 : 1",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Some hernias close themselves as late as ____ years of age.\\Question: Choose the right answer from options given a) no b) eight c) ten d) three",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Children can have ____ different forms of attachment to their mother.\\Question: Choose the right answer from options given a) eight b) three c) two d) zero",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If (x+4)2\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u221a=3(x+4)2=3, which of the following could be the value of x\u22124x\u22124?\n\n Option A: -11\n\n Option B: -7\n\n Option C: -4\n\n Option D: -3\n\n Option E: 5",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The area of the square formed on the diagonal of a rectangle as its side is 108 1/3 % more than the area of the rectangle. If the perimeter of the rectangle is 28 units, find the difference between the sides of the rectangle?\n\n Option A: 7m\n\n Option B: 6m\n\n Option C: 5m\n\n Option D: 2m\n\n Option E: 4m",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Body waves are of ____ types, compressional and shear .\\Question: Choose the right answer from options given a) seven b) four c) two d) eight",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: It is required to fix a pipe such that water flowing through it at a speed of 7 metres per minute fills a tank of capacity 880 cubic metres in 10 minutes. The inner radius of the pipe should be :\n\n Option A: \u221a2 m\n\n Option B: 2 m\n\n Option C: 1\u20442 m\n\n Option D: 1\u2044\u221a2 m\n\n Option E: None of these",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Full moons occurs once every twenty ____ and One half days.\\Question: Choose the right answer from options given a) ten b) nine c) eight d) four",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Colon cancer has ____ main symptom complexes.\\Question: Choose the right answer from options given a) four b) five c) two d) ten",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A man can row upstream at 25 kmph and downstream at 35 kmph, and then find the speed of the man in still water?\n\n Option A: 32 kmph\n\n Option B: 34 kmph\n\n Option C: 30 kmph\n\n Option D: 45 kmph\n\n Option E: 65 kmph",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A candidate got 35% of the votes polled and he lost to his rival by 2250 votes. How many votes were cast?\n\n Option A: 7500\n\n Option B: 2327\n\n Option C: 2997\n\n Option D: 2662\n\n Option E: 7121",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: if a person cover 3/5 part of his journey by train,7/20 part of his journey by bus and rest 6.5 km. by walk.what is total distance of his journey?\n\n Option A: 65 km\n\n Option B: 100 km\n\n Option C: 120 km\n\n Option D: 130 km\n\n Option E: 75 km",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The credit card and a global payment processing companies have been suffering losses for some time now. A well known company recently announced its quarterly results. According to the results, the revenue fell to $48 billion from $85 billion, a year ago. By what percent did the revenue fall?\n\n Option A: 20.8\n\n Option B: 30.4\n\n Option C: 43.5\n\n Option D: 32.5\n\n Option E: 33.8",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Parvoviruses fall into ____ main groups.\\Question: Choose the right answer from options given a) no b) seven c) five d) one",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Electrolytic capacitors have a finite lifetime, usually about ____ years.\\Question: Choose the right answer from options given a) zero b) ten c) four d) eight",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Surface water is classified into ____ different classes depending on the cleanliness of the water.\\Question: Choose the right answer from options given a) five b) two c) seven d) one",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Diuretics produce virtually ____ loss of calories, only loss of vital body fluids.\\Question: Choose the right answer from options given a) no b) one c) zero d) ten",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Find the number of square tiles to cover the floor of a room measuring 4.5 m * 9.5 m leaving 0.25 m space around the room. A side of square tile is given to be 25 cms?\n\n Option A: 422\n\n Option B: 576\n\n Option C: 429\n\n Option D: 428\n\n Option E: 413",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Ice worms are tiny, roughly ____ quarters of an inch in length.\\Question: Choose the right answer from options given a) one b) no c) three d) ten",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Exotic pheasants show a decline after about ____ years.\\Question: Choose the right answer from options given a) eight b) three c) five d) four",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A can do a piece of work in 4 hours; B and C together can do it in 3 hours, which A and C together can do it in 2 hours. How long will B alone take to do it?\n\n Option A: 1/19\n\n Option B: 1/11\n\n Option C: 1/12\n\n Option D: 1/17\n\n Option E: 1/14",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Pat, Kate, and Mark charged a total of 144 hours to a certain project. If Pat charged twice as much time to the project as Kate and 1/3 as much time as Mark, how many more hours did Mark charge to the project than Kate?\n\n Option A: 18\n\n Option B: 80\n\n Option C: 72\n\n Option D: 90\n\n Option E: 108",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Female elands reach sexual maturity at ____ years of age.\\Question: Choose the right answer from options given a) two b) three c) zero d) six",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Babies can lose heat rapidly, as much as ____ times more quickly than adults.\\Question: Choose the right answer from options given a) four b) nine c) three d) two",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: some digits were given like 0 2 2 3 3 4 4 then how many no will be there which is greater than 1 lac ,all numbers are distinct\n\n Option A: 530\n\n Option B: 540\n\n Option C: 550\n\n Option D: 560\n\n Option E: 570",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A company produces 65000 bottles of water everyday. If a case can hold 13 bottles of water .How many cases are required by the company to hold its one day production\n\n Option A: 2000\n\n Option B: 4500\n\n Option C: 5000\n\n Option D: 8000\n\n Option E: 9000",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: How many solutions are possible for the inequality | x - 1 | + | x - 6 | < 2?\n\n Option A: 3\n\n Option B: 2\n\n Option C: 1\n\n Option D: 0\n\n Option E: 4",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If x is an odd negative integer and y is an even integer, which of the following statements must be true?\nI. (3x - 2y) is odd\nII. xy^2 is an even negative integer\nIII. (y^2 ) is an odd negative integer\n\n Option A: I only\n\n Option B: II only\n\n Option C: I\n\n Option D: I and III\n\n Option E: II and III",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Corals can reproduce asexually by at least ____ described strategies.\\Question: Choose the right answer from options given a) four b) seven c) ten d) five",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Tadpoles take ____ to four months to complete their development.\\Question: Choose the right answer from options given a) three b) zero c) nine d) ten",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Calculate the average of first 14 even numbers is?\n\n Option A: 11\n\n Option B: 15\n\n Option C: 16\n\n Option D: 14\n\n Option E: 12",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: There are 3 people A,B & C. Rs.700 is divided among A,B & C so that A receives 1/2 as much as B and B 1/2 as much as C. What is the C's share is?\n\n Option A: Rs.100\n\n Option B: Rs.200\n\n Option C: Rs.400\n\n Option D: Rs.500\n\n Option E: Rs.550",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Anaerobic bacteria are most active over the weekend when ____ processes are running.\\Question: Choose the right answer from options given a) seven b) six c) no d) four",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A 3-letter code word consists of letters A, B. If the code includes all the two letters, how many such codes are possible?\n\n Option A: 72\n\n Option B: 48\n\n Option C: 6\n\n Option D: 24\n\n Option E: 18",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: In how many ways can the letters of the word, \u2018TECHNOLOGY\u2019 be arranged?\n\n Option A: 1804400\n\n Option B: 1814400\n\n Option C: 1714400\n\n Option D: 1704400\n\n Option E: 1724400",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Electric power means ____ gas or oil to spill, and no pollution in the air.\\Question: Choose the right answer from options given a) nine b) four c) six d) no",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The security gate at a storage facility requires a five-digit lock code. If the lock code\nmust consist only of digits from 1 through 7, inclusive, with no repeated digits, and\nthe first and last digits of the code must be odd, how many lock codes are possible?\n\n Option A: 120\n\n Option B: 240\n\n Option C: 360\n\n Option D: 720\n\n Option E: 1440",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: There are 14 players in a chess group, and each player plays each of the others once. Given that each game is played by two players, how many total games will be played?\n\n Option A: 91\n\n Option B: 30\n\n Option C: 45\n\n Option D: 60\n\n Option E: 90",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The diagonals of a rhombus are 12 cm and 20 cm. Find its area?\n\n Option A: 329\n\n Option B: 288\n\n Option C: 120\n\n Option D: 238\n\n Option E: 31",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If 23m \u2212 n = p, then which of the following represents the average (arithmetic mean) of m, n, and p, in terms of m?\n\n Option A: 2m \u22121\n\n Option B: 4m\n\n Option C: 6m\n\n Option D: m/5\n\n Option E: 8m",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Abortion is also common, with ____ in five pregnancies ending in abortion.\\Question: Choose the right answer from options given a) one b) four c) three d) zero",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: How many seconds will a 700 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?\n\n Option A: 25\n\n Option B: 30\n\n Option C: 42\n\n Option D: 45\n\n Option E: 50",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: For an employee to qualify for early retirement at a certain company, the sum of the employee\u2019s age and years of service must be at least 80, If Sue was K years old when she was hired by the company, what is the minimum age at which she could possibly qualify for early retirement.\n\n Option A: K+35\n\n Option B: (80+K\n\n Option C: 2K+35\n\n Option D: (70-K\n\n Option E: 2(70-K",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A rope of which a calf is tied is increased from 16 m to 23 m, how much additional grassy ground shall it graze?\n\n Option A: 1217\n\n Option B: 1219\n\n Option C: 1210\n\n Option D: 1212\n\n Option E: 858",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Lung disease is America's number three killer, responsible for ____ in seven deaths.\\Question: Choose the right answer from options given a) five b) nine c) one d) four",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Tenor clef is bass clef which has been transcribed up ____ notes, and is much less common.\\Question: Choose the right answer from options given a) five b) three c) one d) no",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: What amount does Kiran get if he invests Rs.8000 at 10% p.a. compound interest for two years, compounding done annually?\n\n Option A: Rs.9689\n\n Option B: Rs.9678\n\n Option C: Rs.9688\n\n Option D: Rs.9678\n\n Option E: Rs.9680",
+        "output": "Option E"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If N = 2^0.1 and N^b = 16, b must equal\n\n Option A: 3/80\n\n Option B: 3/5\n\n Option C: 40\n\n Option D: 5/3\n\n Option E: 80/3",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The ratio of cost price to the market price of an article is 4: 5. What is the profit percentage if the ratio of the profit percentage on selling the article to the discount allowed on it is 5: 4?\n\n Option A: 10%\n\n Option B: 12%\n\n Option C: 12.5%\n\n Option D: 15%\n\n Option E: 16%",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Each shelf of a bookcase contains 24 books. If the librarian took out 40 books and rearranged the remaining books so that all shelves but the last one contained 20 books and the last shelf contained 20 books, how many shelves does the bookcase have?\n\n Option A: A\n\n Option B: B\n\n Option C: C\n\n Option D: D\n\n Option E: E",
+        "output": "Option E"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: There are 21 balls in a jar: 14 red, 4 blue and 3 green. If a single ball is drawn from the jar, what is the probability of that it is either blue or red?\n\n Option A: 1/12\n\n Option B: 3/4\n\n Option C: 6/9\n\n Option D: 6/7\n\n Option E: 3/4",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: 2,5,10,17,?,41\n\n Option A: 26\n\n Option B: 27\n\n Option C: 29\n\n Option D: 25\n\n Option E: 28",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Orangutans are the most at risk of the world's ____ species of apes.\\Question: Choose the right answer from options given a) six b) five c) nine d) ten",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If a = 1, what is the value of \u2013(a^2 + a^3 + a^4 + a^5+a^6)?\n\n Option A: -14\n\n Option B: -4\n\n Option C: 0\n\n Option D: 4\n\n Option E: -5",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Fruit trees are usually safe after ____ years.\\Question: Choose the right answer from options given a) five b) four c) no d) three",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: At the wholesale store you can buy an 8-pack of hot dogs for $1.65, a 20-pack for $3.05, and a 250-pack for $22.95. What is the greatest number of hot dogs you can buy at this store with $250?\n\n Option A:  1,108\n\n Option B:  2,100\n\n Option C:  2,108\n\n Option D:  2,124\n\n Option E:  2,628",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Females generally give birth to only ____ or four surviving young during their reproductive life.\\Question: Choose the right answer from options given a) one b) four c) three d) five",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Two persons start running simultaneously around a circular track of length 300 m from the same point at speeds of 15 km/hr and 25 km/hr. When will they meet for the first time any where on the track if they are moving in opposite directions?\n\n Option A: 12\n\n Option B: 15\n\n Option C: 24\n\n Option D: 27\n\n Option E: 52",
+        "output": "Option D"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Genesis is the first of ____ books of the Torah called the Pentateuch.\\Question: Choose the right answer from options given a) eight b) five c) no d) three",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A gardener increased the length of a rectangle-shaped garden by 20 percent and decreased its width by 5 percent. The area of the new garden\n\n Option A: has increased by 18 percent\n\n Option B: has increased by 14 percent\n\n Option C: has increased by 7 percent\n\n Option D: is exactly the same as the old area\n\n Option E: cannot be expressed in percentage terms without actual numbers",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Goats can produce five to ____ litres of milk per day.\\Question: Choose the right answer from options given a) seven b) six c) eight d) one",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The sum and the product of two numbers are 12 and 20 respectively, the difference of the number is?\n\n Option A: 1\n\n Option B: 6\n\n Option C: 7\n\n Option D: 8\n\n Option E: 2",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Two pipes A and B together can fill a cistern in 4 hours. Had they been opened separately, then B would have taken 6 hours more than A to fill cistern. How much time will be taken by A to fill the cistern separately?\n\n Option A: 3\n\n Option B: 5\n\n Option C: 6\n\n Option D: 8\n\n Option E: 9",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Female cheetahs carry their young for a gestation period of around ____ months.\\Question: Choose the right answer from options given a) ten b) three c) no d) nine",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Normal cats have five front toes and ____ back toes.\\Question: Choose the right answer from options given a) six b) ten c) nine d) four",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A fruit salad mixture consists of apples, peaches, and grapes. There are 2 times as many pounds of apples as grapes and 3 times as many pounds of peaches as grapes. If a mixture that has an average (arithmetic mean) of 9 pounds per fruit, how many more pounds of apples than grapes does the mixture have?\n\n Option A: 15\n\n Option B: 12\n\n Option C: 9\n\n Option D: 6\n\n Option E: 3",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Nymphs emerge within five to ____ days.\\Question: Choose the right answer from options given a) seven b) four c) three d) one",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Wind erosion is a threat to soils in all ____ cropping systems and in pastures.\\Question: Choose the right answer from options given a) four b) ten c) nine d) seven",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Find the area of a cuboid of length 15cm , breadth 10 cm . and height 16cm.\n\n Option A: 2400 cm cube\n\n Option B: 2410 cm cube\n\n Option C: 2420 cm cube\n\n Option D: 2430 cm cube\n\n Option E: 2480 cm cube",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Sachin is younger than Rahul by 6 years. If their ages are in the respective ratio of 7 : 9, how old is Sachin?\n\n Option A: 16\n\n Option B: 18\n\n Option C: 28\n\n Option D: 30\n\n Option E: 34",
+        "output": "Option E"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A contractor undertakes to built a walls in 50 days. He employs 40 peoples for the same. However after 25 days he finds that only 40% of the work is complete. How many more man need to be employed to complete the work in time?\n\n Option A: 60\n\n Option B: 30\n\n Option C: 35\n\n Option D: 20\n\n Option E: None of these",
+        "output": "Option A"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Most modern computers have ____ bits to a byte.\\Question: Choose the right answer from options given a) five b) zero c) ten d) eight",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The salary of a person was reduced by 10%. By what percent should his reduced salary be raised so as to bring it at par with his original salary?\n\n Option A: 10.1%\n\n Option B: 9.68%\n\n Option C: 11.11%\n\n Option D: 8.62%\n\n Option E: 12.13%",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: When running a mile during a recent track meet, Nuria was initially credited with a final time of 6 minutes, 44 seconds. Shortly after her run, officials realized that the timing mechanism malfunctioned. The stopwatch did not begin timing her until 11/25 of a minute after she began to run. If the time was otherwise correct, how long did it actually take Nuria to run the mile?\n\n Option A: 5 minutes, 17.6 seconds\n\n Option B: 5 minutes, 21.8 seconds\n\n Option C: 5 minutes, 43.56 seconds\n\n Option D: 5 minutes, 44.44 seconds\n\n Option E: 7 minutes, 10.4 seconds",
+        "output": "Option E"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If the price of rice rises from Rs. 6 per kg to Rs. 8 per kg, to have no increase in his expenditure on rice, a person will have to reduce his consumption of sugar by\n\n Option A: 25\n\n Option B: 62\n\n Option C: 27\n\n Option D: 19\n\n Option E: 71",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: 1/6 = 4/5 . which method did you use to determine whether this proportion is true or false?\n\n Option A: true\n\n Option B: neutral\n\n Option C: false\n\n Option D: not sure\n\n Option E: none",
+        "output": "Option A"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "ADD is a neurological problem that affects at least ____ percent of the population.\\Question: Choose the right answer from options given a) zero b) ten c) eight d) five",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Parliamentary elections are held at least every ____ years.\\Question: Choose the right answer from options given a) five b) four c) six d) one",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The residents of the town Q participated in a survey to determine the number of hours per week each resident spent watching television. The distribution of the results of the survey had a mean of 21 hours and a standard deviation of 6 hours. The number of hours that Pat, a resident of town Q, watched television last week was between 1 and 2 standard deviations below the mean. Which of the following could be the number of hours that Pat watched television last week?\n\n Option A: - 30\n\n Option B: - 20\n\n Option C: - 18\n\n Option D: - 12\n\n Option E: - 6",
+        "output": "Option E"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Ms. Lopez deposits $ 140 in an account that pays 20% interest, compounded semiannually. How much money will there be in the account at the end of one year?\n\n Option A: $118.00\n\n Option B: $120.00\n\n Option C: $169.40\n\n Option D: $122.00\n\n Option E: $140.00",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: At what rate percent of simple interest will a sum of money double itself in 66 years?\n\n Option A: 6.54 %\n\n Option B: 4.54 %\n\n Option C: 1.51 %\n\n Option D: 1.94 %\n\n Option E: 5.54 %",
+        "output": "Option C"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The sum of first five prime numbers is:\n\n Option A: 28\n\n Option B: 29\n\n Option C: 24\n\n Option D: 22\n\n Option E: 43",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Find the amount on Rs.8000 in 9 months at 20% per annum, if the interest being compounded quarterly?\n\n Option A: 9261\n\n Option B: 1261\n\n Option C: 9621\n\n Option D: 9162\n\n Option E: 5000",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If the sides of a triangle are 65 cm, 60 cm and 25 cm, what is its area?\n\n Option A: 120 cm2\n\n Option B: 750 cm2\n\n Option C: 216 cm2\n\n Option D: 197 cm2\n\n Option E: 275 cm2",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "North Island is subtropical and has ____ extremes of heat or cold.\\Question: Choose the right answer from options given a) one b) three c) no d) zero",
+        "output": "c"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Three friends neha, sabi and mahi divide $1100 amongs them in such a way that if $5, $8 and $4 are removed from the sums that neha, sabi and mahi received respectively, then the share of the sums that they got will be in the ratio of 2 : 8 : 6. How much did mahi receive?\n\n Option A: $122\n\n Option B: $152\n\n Option C: $202\n\n Option D: $107\n\n Option E: $102",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Eastern cottontails have ____ different fur coats each year.\\Question: Choose the right answer from options given a) five b) two c) eight d) six",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Honeypot ants belong to any of ____ genera.\\Question: Choose the right answer from options given a) four b) nine c) zero d) five",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Natural light is a combination of ____ polarization states.\\Question: Choose the right answer from options given a) two b) three c) five d) one",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Larval stages extend upto ____ months and the pupal period for nearly three months.\\Question: Choose the right answer from options given a) three b) no c) six d) five",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Cleavage is distinct in ____ directions lengthwise, prismatic.\\Question: Choose the right answer from options given a) four b) two c) one d) six",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Heat pumps give off ____ fumes or harmful products of combustion.\\Question: Choose the right answer from options given a) four b) zero c) six d) no",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Women gain ____ years per child they had.\\Question: Choose the right answer from options given a) ten b) nine c) four d) two",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Narwhals only have ____ vestigial teeth.\\Question: Choose the right answer from options given a) five b) two c) four d) nine",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Man is a spiritual being revolving in ____ different planes.\\Question: Choose the right answer from options given a) six b) seven c) three d) four",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Plants can reach a height of ____ feet.\\Question: Choose the right answer from options given a) one b) two c) no d) eight",
+        "output": "b"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Bobcats are predators with ____ large canine fangs that pierce deep to hold prey.\\Question: Choose the right answer from options given a) zero b) one c) four d) two",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Damaging hail occurs an average of ____ days each year.\\Question: Choose the right answer from options given a) no b) seven c) four d) eight",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A train running at the speed of 60 km/hr crosses a pole in 12 seconds. Find the length of the train?\n\n Option A: 150 meter\n\n Option B: 200 meter\n\n Option C: 156 meter\n\n Option D: 168 meter\n\n Option E: 154 meter",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Some psychologists differentiate ____ forms of sexual guilt.\\Question: Choose the right answer from options given a) two b) six c) nine d) four",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Ethiopian women face a one in ____ chance of dying.\\Question: Choose the right answer from options given a) two b) nine c) zero d) eight",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: (935421 x 625) = ?\n\n Option A: 575648125\n\n Option B: 584638125\n\n Option C: 584649125\n\n Option D: 585628125\n\n Option E: None of these",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: In a group of ducks and cows, the total number of legs are 26 more than thrice the number of heads. Find the total number of cows.\n\n Option A: A\n\n Option B: B\n\n Option C: C\n\n Option D: D\n\n Option E: E",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is?\n\n Option A: 3/7\n\n Option B: 3/2\n\n Option C: 3/5\n\n Option D: 3/6\n\n Option E: 3/1",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Each factor of 240 is inscribed on its own plastic ball, and all of the balls are placed in a jar. If a ball is randomly selected from the jar, what is the probability that the ball is inscribed with a multiple of 15?\n\n Option A: 1/16\n\n Option B: 5/42\n\n Option C: 1/8\n\n Option D: 3/16\n\n Option E: 1/4",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Female sturgeon spawn only every ____ to seven years.\\Question: Choose the right answer from options given a) seven b) ten c) two d) four",
+        "output": "d"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: How many ways are there to award a gold, silver and bronze medal to 12 contending teams?\n\n Option A: 12 x 11 x 10\n\n Option B: 10!/(3!7!\n\n Option C: 10!/3!\n\n Option D: 360\n\n Option E: 300",
+        "output": "Option A"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Japanese archaeologists recognize, in general terms, four prehistoric and ____ historic periods.\\Question: Choose the right answer from options given a) seven b) ten c) four d) eight",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Most fats ingested are triglycerides i.e. ____ fatty acid chains connected to a glycerol molecule.\\Question: Choose the right answer from options given a) seven b) two c) three d) six",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Exports account for one out of ____ manufacturing jobs in the United States.\\Question: Choose the right answer from options given a) eight b) five c) two d) three",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Anand and Deepak started a business investing Rs. 22,500 and Rs. 35,000 respectively. Out of a total profit of Rs. 13,800, Deepak's share is?\n\n Option A: 8428\n\n Option B: 8199\n\n Option C: 8400\n\n Option D: 8419\n\n Option E: 8412",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Malnutrition already is a cause of over a third of deaths of children under ____ in Africa.\\Question: Choose the right answer from options given a) five b) zero c) no d) three",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The number of ways in which six boys and six girls can be seated in a row for a photograph so that no two girls sit together is?\n\n Option A: 6! * 7P7\n\n Option B: 6! * 7P6\n\n Option C: 6! * 7P1\n\n Option D: 6! * 7P5\n\n Option E: 6! * 7P2",
+        "output": "Option B"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Hair loss affects one out of three men and one in ____ women.\\Question: Choose the right answer from options given a) eight b) one c) five d) zero",
+        "output": "c"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Declensional patterns are different among ____ types of noun.\\Question: Choose the right answer from options given a) eight b) three c) one d) zero",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A shopkeeper sold an article for 240 after giving 20% discount on the labelled price and made 20% profit on the cost price. What would have been the percentage profit,had he not given the discount\u2019?\n\n Option A: 25%\n\n Option B: 50%\n\n Option C: 23%\n\n Option D: 28%\n\n Option E: None of these",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A printer numbers the pages of a book starting with 1 and uses 3189 digits in all. How many pages does the book have ?\n\n Option A: 1000\n\n Option B: 1074\n\n Option C: 1075\n\n Option D: 1080\n\n Option E: 1089",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?\n\n Option A: 40 sec\n\n Option B: 42 sec\n\n Option C: 45 sec\n\n Option D: 48 sec\n\n Option E: 49 sec",
+        "output": "Option A"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Two trains 190 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time which they take to cross each other is?\n\n Option A: 10.6 sec\n\n Option B: 18.8 sec\n\n Option C: 14.6 sec\n\n Option D: 10.8 sec\n\n Option E: 12.6 sec",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Cancer strikes one in three people and kills ____ in four.\\Question: Choose the right answer from options given a) one b) eight c) two d) zero",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Beer consists of ____ essential ingredients which categorizing a beverage as beer.\\Question: Choose the right answer from options given a) nine b) ten c) eight d) four",
+        "output": "d"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Most babies move into a normal, head-down position a by ____ weeks before birth.\\Question: Choose the right answer from options given a) three b) four c) nine d) two",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: The first three terms of a proportion are 4, 12 and 16. The fourth term is?\n\n Option A: 22\n\n Option B: 28\n\n Option C: 27\n\n Option D: 36\n\n Option E: 48",
+        "output": "Option E"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: If the function Q is defined by the formula Q = 5e/(4x(z^2)), by what factor will Q be multiplied if e is quadrupled, x is doubled, and z is tripled?\n\n Option A: 1/9\n\n Option B: 2/9\n\n Option C: 4/9\n\n Option D: 3/9\n\n Option E: 2/27",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: You choose at random ten points inside of a circle, so that no two of them are\non any diameter. What is the probability that the circle has some diameter, so that exactly\nfive points are on one side and exactly five points are on the other?\n\n Option A: 63/256\n\n Option B: 1/2\n\n Option C: 2/3\n\n Option D: 5/6\n\n Option E: 1",
+        "output": "Option E"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Plants have a long blooming period of ____ weeks.\\Question: Choose the right answer from options given a) six b) ten c) five d) eight",
+        "output": "a"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A and B together can complete a work in 12 days. A alone complete it in 20 days. If B does the work only for half a day daily, then in how many days A and B together will complete the work?\n\n Option A: 110 days\n\n Option B: 11 days\n\n Option C: 15 days\n\n Option D: 20 days\n\n Option E: 17 days",
+        "output": "Option C"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Most women can become pregnant in about ____ to three months after they stop taking the pill.\\Question: Choose the right answer from options given a) one b) ten c) two d) four",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Minerals can also have two, three, ____ or six cleavage planes.\\Question: Choose the right answer from options given a) four b) five c) eight d) one",
+        "output": "a"
+    },
+    {
+        "instruction": "Given a sentence with a missing word, pick the answer option that best fills out the missing word in the sentence. Indicate each answer with its index ('a', 'b', 'c', 'd').",
+        "input": "Statistics show that ____ out of every four people has a mental illness.\\Question: Choose the right answer from options given a) seven b) one c) eight d) five",
+        "output": "b"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: Ramu rides his bike at an average speed of 45 km/hr and reaches his desitination in four hours. Somu covers the same distance in six hours. If Ramu covered his journey at an average speed which was 9 km/hr less and Somu covered his journey at an average speed which was 10 km/hr more, then the difference in their times taken to reach the destination would be (in minutes)?\n\n Option A: 11\n\n Option B: 30\n\n Option C: 88\n\n Option D: 66\n\n Option E: 41",
+        "output": "Option B"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: In a fuel station the service costs $1.75 per car, every liter of fuel costs 0.65$. Assuming that a company owns 12 cars and that every fuel tank contains 55 liters and they are all empty, how much money total will it cost to fuel all cars?\n\n Option A: 320$\n\n Option B: 380$\n\n Option C: 420$\n\n Option D: 450$\n\n Option E: 480$",
+        "output": "Option D"
+    },
+    {
+        "instruction": "You are given a math word problem and you are supposed to make use of mathematical concepts like probability, combinatorics, linear equations, sequences/series, or simple operators like addition, subtraction, division, or multiplication to answer the given question. Choose the best option from the 5 given options and report that option.",
+        "input": "Question: A telephone company needs to create a set of 3-digit area codes. The company is entitled to use only digits 2, 4 and 6, which can be repeated. If the product of the digits in the area code must be even, how many different codes can be created?\n\n Option A: 27\n\n Option B: 22\n\n Option C: 24\n\n Option D: 26\n\n Option E: 30",
+        "output": "Option A"
+    }
+]

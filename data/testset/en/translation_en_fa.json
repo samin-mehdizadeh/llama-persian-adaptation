@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And Moses brought Aaron and his sons, and washed them with water.",
+        "output": "و موسی روغن مسح را گرفته، مسکن وآنچه را که در آن بود مسح کرده، آنها را تقدیس نمود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "adenoidal .",
+        "output": "شبيه غده ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them.",
+        "output": "مرد و زنی که صاحب اجنه یا جادوگر باشد، البته کشته شوند؛ ایشان را به سنگ سنگسار کنید. خون ایشان بر خود ایشان است.»"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "This Golden Week I went back home to plant rice.",
+        "output": "البته امروزه نیز این مزارع کوچک تصویر غالب مناطق روستایی ژاپن هستند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "At his lowest ebb, when his black suit was in pawn,",
+        "output": "وقتی به بدترین وضع دچار شده و لباس سیاهش را گرو گذاشته بود،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.",
+        "output": "و مصریان نیز بر قوم الحاح نمودند تاایشان را بزودی از زمین روانه کنند، زیرا گفتند ماهمه مرده‌ایم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites.",
+        "output": "از بنی بریعه، از حابر قبیله حابریان، از ملکیئیل قبیله ملکیئیلیان."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "she pretends to be so clean!",
+        "output": "!اون وانمود میکنه که خیلی تمیزه"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "she called him back again, when he had almost closed the door, with ;Sir Thomas, stop a moment",
+        "output": "لیدی برترام درست لحظه‌ای که سر تاماس داشت در را می‌بست او را صدا زد و گفت: سر تامان، یک لحظه …"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "So the idea here is that the ants are working so hard to hang on to the wall or the floor or whatever you call it that they're less likely to interact, and so the relationship between how crowded they are and how often they meet would be messed up.",
+        "output": "اینجا ایده این است که مورچه ‎ ها بسیار تلاش می ‎ کنند که به دیوار یا به کف سطح یا به هر آنچه آن را می ‎ نامید ، بچسبند و آنها کمتر متمایل هستند که ارتباط برقرار کنند بنابراین تناسب بین تراکم آنها و دفعات مواجهه آنها با یکدیگر خراب خواهد شد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "wait, damn it!",
+        "output": "!صبر کن، لعنتي"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "I am in the second year of my CSE and I want to crack GATE 2017. How do I start my preparation? What topics should I be more concentrated on?",
+        "output": "من در سال دوم CSE هستم و می خواهم در GATE 2017 موفق شوم. چگونه آمادگی خود را شروع کنم؟ روی چه موضوعاتی باید بیشتر تمرکز کنم؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And thy Lord knows all that their hearts conceal and all that they reveal.",
+        "output": "و پروردگارت آنچه را سینه هایشان پنهان می‌نماید و آنچه را آشکار می‌کند، می‌داند"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "What I can't yet do is make it water-resistant.",
+        "output": "چيزي كه هنوز بهش نرسيدم, پايداری در مقابل آب است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "he doesn't like your radical views, and he thinks you are lazy.",
+        "output": "او از نظرات رادیکال تو خوشش نمی‌آید و گمان می‌کند تو آدم تنبلی هستی،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "From Azerbaijan to Senegal, everyone sympathizes with the protesters in Taksim Square, not with Erdogan, concludes Hakan Günes, Professor of Political Science at the University of Marmara.",
+        "output": "«از آذربایجان تا سنگال، همه با معترضان در میدان تکسیم هم‌دردی می‌کنند نه با اردوغان»، نتیجه‌گیری هاکان گونس، استاد علوم سیاسی دانشگاه مرمره"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And when he would have spoken the words froze on his tongue,",
+        "output": "و هنگامی‌که سخن می‌گفت، کلمات بر زبانش منجمد می‌شد؛"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But now that you have given me, of your own free will, so much of your confidence, will you not give me a little more",
+        "output": "اما اکنون که به میل خودت تا این حد به من اعتماد کرده‌ای، آیا می‌خواهی اندکی بر آن بیفزایی،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.",
+        "output": "هماناهفت سال فراوانی بسیار، در تمامی زمین مصرمی آید."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The day after, I came back and they were already scratched.",
+        "output": "روز بعد که آمدم همه اش خط خطی شده بودند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "It was the kind of voice that the ear follows up and down,",
+        "output": "صدایش از آن نوع صداهایی است که گوش همه زیر و بم‌های آن را دنبال می‌کند،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "because my babys clothes are going to be clean anyway .",
+        "output": "چون لباساي بچه من در هر صورت تميز ميشن ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:",
+        "output": "هر گاه به نظر آقایش که او را برای خودنامزد کرده است ناپسند آید، بگذارد که او را فدیه دهند، اما هیچ حق ندارد که او را به قوم بیگانه بفروشد، زیرا که بدو خیانت کرده است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites.",
+        "output": "و بنی زبولون برحسب قبایل ایشان: از ساردقبیله ساردیان و از ایلون قبیله ایلونیان و ازیحلیئیل قبیله یحلیئیلیان."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "(It is the practice of those) who preach the Messages of Allah, and fear Him, and fear none but Allah. And enough is Allah to call (men) to account.",
+        "output": "[آری این روش خداست درباره] آنان که همواره پیامهای خدا را به مردم می‌رسانند و از [عظمت و مقام] او می‌ترسند و از هیچ کس جز او واهمه ندارند و برای حسابرسی [کار با ارزش اینان] خدا کافی است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Syria: Iraqi Refugee Crisis · Global Voices",
+        "output": "عراق: مشکلات پناهندگان در سوریه"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Where can I get very cost-effective envelope printing service in Sydney?",
+        "output": "از کجا می توانم سرویس چاپ پاکت نامه بسیار مقرون به صرفه در سیدنی دریافت کنم؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "We are ahead of Ukraine.",
+        "output": "Cafe با کنایه توئیت کرده:"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "but never daring to go beyond her.",
+        "output": "اما هرگز جرات جلو رفتن از او را به خود نداد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies.",
+        "output": "وموسی به قوم گفت: «این‌روز را که از مصر از خانه غلامی بیرون آمدید، یاد دارید، زیرا خداوندشما را به قوت دست، از آنجا بیرون آورد، پس نان خمیر، خورده نشود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "ill take you . i can walk .",
+        "output": "خودم می برمت . خودم می تونم راه برم ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Or lest ye should say: \"Our fathers before us may have taken false gods, but we are (their) descendants after them: wilt Thou then destroy us because of the deeds of men who were futile?\"",
+        "output": "یا نگویید: پدرانمان پیش از ما مشرک بودند، و ما فرزندانی پس از آنان بودیم [و راهی جز تقلید از آنان نداشتیم] آیا ما را به خاطر آنچه باطل گرایان انجام دادند، هلاک می‌کنی؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "We ask not only that Mr. Makhmalbaf stand with the Boycott, Divestment, and Sanctions Movement, but that he be a messenger of liberation for everyone, including both Palestinians and Iranians.",
+        "output": "ما نه تنها از آقای مخملباف می‌خواهیم تا به جنبش فراگیر «بایکوت، عدم سرمایه‌گذاری و تحریم دولت اسرائیل» بپیوندند، بلکه از ایشان می‌خواهیم تا پیام‌آور آزادی برای همگان از جمله مردم فلسطین و ایران باشند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "two , ten shots were fired .",
+        "output": "دو: 10 تا گلوله شليک شد ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But he luffed the boat less delicately,",
+        "output": "اما قایق را با ظرافت کمتری هدایت می‌کرد،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "What we can measure is that tangible stuff at the bottom of the pyramid.",
+        "output": "چيزي كه ما مي ‌ تونيم اندازه ‌ گيري كنيم آن چيزهاي عینی است كه در پايين هرم قرار دارد (نيازهاي فيزيولوژيك)."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and so ended all the hopes his selfish vanity had raised in Maria and Julia Bertram.",
+        "output": "و به این ترتیب هر نوع خودنمایی و جلوه‌فروشی‌اش نیز برای جلب علاقه ماربا برترام و جولیا برترام به پایان رسیده بود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Though this release represents news of great importance and a victory for all supporters of freedom of conscience and free speech, the support committee will remain active as long as all charges against Jabeur Mejri are not dismissed and as long as he is not rehabilitated.",
+        "output": "اگرچه این آزادی اهمیت زیادی داشته و بیانگر پیروزی بزرگی برای همه حامیان آزادی عقیده و بیان است، کمیته حمایت، تا زمان رفع کلیه اتهامات علیه مجری و بازگشت او، فعال باقی خواهد ماند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "ok , icon , souvenir , is there third thing .",
+        "output": "باشه . شمايل ، سوغاتي و سومين چيز ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "It took centuries, even, for humans to realize what we had been ignoring for so long.",
+        "output": "قرن ‌ ها طول کشید ، حتا ، برای انسان ‌ ها که بفهمن چه چیزی را این همه مدت نادیده می ‌ گرفتیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "It was a habit he developed, of incubating and maturing his thought upon a subject, and of then rushing into the type writer with it.",
+        "output": "به این روش عادت کرده بود فکری را که دربارة ی موضوعی در سر می‌پروراند مدتی کشت می‌داد تا رشد کند آنگاه می‌رفت سراغ ماشین تحریر،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "I was so disgusted I spent my money on this thing.",
+        "output": "واقعاً از اين كه همه پولم را صرف اين كرده بودم ، احساس انزجار مى ‌ ‌ كردم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And you can watch the boats passing by too.",
+        "output": "می‌توانم رفت و آمد قایق‌ها را هم ببینم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "There is broad doubt that the new strategy will be sufficient to rein in Pakistan, seen as backing the Taliban and other militant groups in its bid to peg back Indian influence in the country the two South Asian rivals sandwich.",
+        "output": "شک و تردید‌های زیادی وجود دارد که این استراتیژی پاکستان را از حمایت گروه‌های تروریستی باز دارد، کشور که از گروه طالبان و گروه‌های دیگر حمایت می‌کند تا مانع نفوذ هند در افغانستان شود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.",
+        "output": "وبرایش آتش دانی مشبک برنجین بساز و بر آن شبکه چهار حلقه برنجین بر چهار گوشه‌اش بساز."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "According to all that thou desiredst of the LORD thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, neither let me see this great fire any more, that I die not.",
+        "output": "هنگامی که نبی به اسم خداوند سخن گوید، اگر آن چیز واقع نشود و به انجام نرسد، این امری است که خداوند نگفته است، بلکه آن نبی آن را از روی تکبر گفته است.پس از او نترس."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "On the Day of Judgment wilt thou see those who told lies against Allah;- their faces will be turned black; Is there not in Hell an abode for the Haughty?",
+        "output": "و روز قیامت کسانی را که بر خدا دروغ بستند می‌بینی که صورت هایشان سیاه است؛ آیا در دوزخ جایگاهی برای متکبران نیست؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Which is a good solar panel installation provider near Millbrae, California CA?",
+        "output": "ارائه دهنده نصب پانل خورشیدی خوب در نزدیکی Millbrae، California CA کدام است؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The researchers took into account both economic and non-economic factors of happiness, which overlap with what can be considered the determining factors of migration: absolute and relative income, demographic and social characteristics, social development, relationships with others and characteristics of the place where one lives, as well as variables like distance or a common border and language.",
+        "output": "پژوهشگران هم عامل اقتصادی و هم غیر اقتصادی خوشحالی را در نظر گرفته‌اند که هر دوی این عوامل دلایل اصلی مهاجرت را پدید می‌آورند: درآمد کلی و قیاسی، خصوصیات دموگرافیک و اجتماعی، توسعه اجتماعی، رابطه با دیگران و خصوصیات محل زندگی فرد، به علاوه متغیرهایی نظیر مسافت یا مرزهای مشترک و زبان."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "@Raafatology: Stupid people think the US foreign policy would have changed had Romney won.",
+        "output": "@Raafatology: مردم احمق فکر می‌کنند سیاست خارجی آمریکا در صورت پیروزی میت رامنی تغییری می‌کرد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "We want to take all of our existence and wrap it around that new knowledge and make all of these connections and it becomes more meaningful.",
+        "output": "می خواهیم که تمام وجودمان را بگیریم و دور این دانش جدید بپیچیم و کلی رابطه حولش بسازیم و آن را معنی دار کنیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And the sky will be rent asunder, for it will that Day be flimsy,",
+        "output": "و آسمان بشکافد و در آن روز است که از هم گسسته و متلاشی گردد؛"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and Jo tramped about the room, calling Laurie names.",
+        "output": "و جو نیز در حالی‌که باز هم نام لاری را به زبان می‌آورد، طول و عرض اتاق را می‌پیمود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "(When they did not eat), He conceived a fear of them. They said, \"Fear not,\" and they gave him glad tidings of a son endowed with knowledge.",
+        "output": "و [در دلش] از آنان احساس ترسی کرد. گفتند: مترس. و او را به پسری دانا مژده دادند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and that's why i wanted to give you this wooden ring.",
+        "output": "و اين دليليه که من مي خوام بدم به تو اين حلقه چوبي راgive you this wooden ring."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "O Mankind! The Messenger hath come to you in truth from Allah: believe in him: It is best for you. But if ye reject Faith, to Allah belong all things in the heavens and on earth: And Allah is All-knowing, All-wise.",
+        "output": "ای مردم! البته پیامبری از سوی پروردگارتان به درستی و راستی به سوی شما آمد؛ پس به او ایمان آورید که به خیر شماست. و اگر کفر ورزید [بدانید که خدا از شما و ایمانتان بی نیاز است] زیرا آنچه در آسمان‌ها و زمین است، در سیطره مالکیت و فرمانروایی خداست، و خدا همواره دانا و حکیم است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "This post is part of our special coverage The Death of Osama Bin Laden.",
+        "output": "این مقاله بخشی از پوشش خبری ما از مرگ اساما بن لادن است"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Allah puts forth a Parable a man belonging to many partners at variance with each other, and a man belonging entirely to one master: are those two equal in comparison? Praise be to Allah! but most of them have no knowledge.",
+        "output": "خدا [برای فهماندن حقیقت توحید و شرک] مثلی زده است: مردی را که اربابانی ناسازگار و بداخلاق در [مالکیت] او شریک اند، و مردی که فقط برده یک مالک است، آیا این دو برده از جهت فرمان گرفتن و فرمان بردن با هم یکسانند؟ [موحدان که بنده خدای یکتا هستند، دارای زندگی منظم و پاک و آخرتی آبادند، و مشرکان که فرمان بران اربابان گوناگونند، دارای زندگی پریشان و آخرتی خراب اند.] همه ستایش‌ها ویژه خداست. بلکه بیشترشان [به آثار و منافع بندگی خدا] معرفت و آگاهی ندارند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "EyeOfShaka wrote：",
+        "output": "EyeOfShaka نوشته است:"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "THE court martial was held on Tuesday morning.",
+        "output": "دادگاه نظامی در صبح روز سه شنبه تشکیل شد؛"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "We need to start embracing the beauty of balance.",
+        "output": "ما باید زیبایی بالانس داشتن رو دریابیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "we have one advantage .",
+        "output": "ما يک امتياز داريم ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "but his impulsive wife wanted to cross the boulevard so that he could sign the only thing she thought appropriate, given the fact that she did not have a book:",
+        "output": "ولی همسرش با نهایت هیجان می‌خواست از خیابان بگذرد و چون کتابی همراه نداشت، بخواهد تنها چیزی را که به نظرش مناسب می‌رسید امضاء کند:"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "So I wanted to build something where you could have this kind of interaction on any tabletop surface.",
+        "output": "پس من می خواستم همچین چیزی رو که چنین برهمکنشی داشته باشه بر روی هر میزی بسازم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "He further adds:",
+        "output": "او اضافه می‌کند:"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "There were many moments when I gave up, sinking into a dark abyss.",
+        "output": "لحظات زیادی بودند که من ناامید شده بودم ، غرق در ورطه تاریکی بودم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "well , its good you have troops , .",
+        "output": "، خب ، خوبه که شما ارتش داريد ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "I also learned that many of those who had known me for a long time found it impossible to abandon the idea of Martin they had in their heads.",
+        "output": "همچنین فهمیدم برای خیلی از کسانی که من را برای مدت طولانی می ‌ شناختند غیر ممکن بود که مارتینی را که می ‌ شناختند رها کنند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and he could be intolerable",
+        "output": "و گاه پیش می‌آمد که غیرقابل تحمل بشود"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And now the land of his heart's desire had vanished, like the fairyland of golden sunset dreams that fades away when the darkness comes;",
+        "output": "ولی اکنون دنیای آرزوی او همچون دنیای افسانه‌ای رؤیاهای طلایی شفق که با فرا رسیدن تاریکی فنا می‌شود، محو شده بود؛"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "So as you can see, I've been a design thinker for nearly all my life.",
+        "output": "پس همونطور که می بینید ، من در تمام عمر یک متفکر طراح بودم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "i see you managed to hold on to your best friend, there.",
+        "output": "من ديدم كه اسلحه رو نشونه گرفتي"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "but I do know that in all Washington ,",
+        "output": "ولی این را می‌دانم که در تمام واشنگنتن،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "nor notice the rotary motion of Bernard Higginbotham's finger,",
+        "output": "یا حرکت چرخشی انگشت برنارد هیگینبوثام را،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "rhino is awesome he is so awesome .",
+        "output": "رينو فوق العاده ست اون عاليه ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "i can't prepare medicine with salty water",
+        "output": "من نمیتوانم دارو را با آب شور درست کنم"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Laurie leisurely departed to recover the lost property, and Jo bundled up her braids, hoping no one would pass by till she was tidy again.",
+        "output": "چون‌که طولی نکشید که رقیب مسابقه‌اش با موهای هوارفته، چشمان برافروخته و گونه‌های سرخ و صورتی شاد که دیگر اثری از ناامیدی قبلی در آن نبود، به او رسید."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Soon shall We cast terror into the hearts of the Unbelievers, for that they joined companions with Allah, for which He had sent no authority: their abode will be the Fire: And evil is the home of the wrong-doers!",
+        "output": "به زودی در دل‌های کافران ترس می‌اندازیم؛ زیرا چیزی را که خدا بر [حقانیت] آن دلیلی نازل نکرده، شریک خدا قرار داده‌اند، و جایگاهشان آتش است؛ و بد است جایگاه ستمکاران."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,",
+        "output": "وگروه قلیل خواهید ماند، برعکس آن که مثل ستارگان آسمان کثیر بودید، زیرا که آواز یهوه خدای خود را نشنیدید."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The next — second — equation says that there is no magnetism other than that.",
+        "output": "بعدی — دومین معادله میگه که مغناطیس دیگری غیر از اون وجود نداره."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.",
+        "output": "و به الاغ او چنین کن و به لباسش چنین عمل نما و به هر چیز گمشده برادرت که از او گم شود و یافته باشی چنین عمل نما، نمی توانی از او روگردانی."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "As if we are really in a desperate need for another Music Video Channel !!\tزینوبیا در مورد کانال موزیک جدید برای کشورهای عربی یعنی ام تی وی عربی می‌نویسد.\nAnd it is not like any other channel it is the MTV Channel directed to the Arab world, writes Zeinobia, from Egypt.",
+        "output": "بلاگر می‌گوید انگار ما نا امیدوارانه منتظر کانال موسیقی و موزیک جدیدی بودیم. به گفته بلاگر هشتاد در صد برنامه‌های این کانال موسیقی غربی و بیست در صد آثار هنرمندهای عرب خواهد بود"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram.",
+        "output": "زیرا از سرصخره‌ها او را می‌بینم. و از کوهها او را مشاهده می‌نمایم. اینک قومی است که به تنهایی ساکن می‌شود، و در میان امتها حساب نخواهد شد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "yeah , it was making a funny noise .",
+        "output": "آره ، صداي عجيبي ميده ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But as the noise of war rises from both sides, so does activism for peace.",
+        "output": "اما همزمان با بلند شدن صدای جنگ از دو طرف، فعالان هم برای صلح تلاش می‌کنند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "the people of jol bon were dying.",
+        "output": "مردم جول بون مي مردند"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But Beth, though yearning for the grand piano,",
+        "output": "اما در این میان فقط بت بود که در حالی‌که آرزوی پیانوی بزرگ را در دل می‌پروراند،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "so I suppose we must, but it doesn't seem quite right to me.'",
+        "output": "خوب ما هم همین کار را داریم می‌کنیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "What are some of the weirdest movies of all time?",
+        "output": "برخی از عجیب ترین فیلم های در طول همه ی زمانها  کدام هستند؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Now, we've had distributed computing before, of course.",
+        "output": "الان هم البته همان محاسبات توزیعی را داریم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "So I let him have the two stories,",
+        "output": "بنابراین من هر دو داستان را به وی سپردم،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
+        "output": "و اما بنیامین، برادر یوسف رایعقوب با برادرانش نفرستاد، زیرا گفت مبادازیانی بدو رسد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And he cast for it four rings of gold, to be set by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it.",
+        "output": "و کرسی رحمت را از طلای خالص ساخت. طولش دو ذراع و نیم، و عرضش یک ذراع و نیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Why do North Kerala people prefer to eat leghorn chicken, that is used only for egg-laying purposes else where?",
+        "output": "چرا مردم North Kerala ترجیح می دهند مرغ leghorn بخورند ، که فقط برای اهداف تخم گذاری در جاهای دیگر استفاده می شود؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "They say: \"What! when we die and become dust and bones, could we really be raised up again?",
+        "output": "گفتند: [که] آیا زمانی که بمیریم و خاک و استخوان شویم حتما برانگیخته می‌شویم؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And Remeth, and En-gannim, and En-haddah, and Beth-pazzez;",
+        "output": "و به حبرون ورحوب و حمون و قانه تا صیدون بزرگ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "but I daren't show it; He would be angry.",
+        "output": "اما یارای نشان دادن آن را ندارم، او خشمگین می‌شود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Half an hour later Martini entered the room, and, startled out of the silence of half a life time,",
+        "output": "نیم ساعت بعد، مارتینی به اتاق داخل شد، و از سکوتی که نیمی از عمر خود را در آن گذرانده بود خارج شد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Only three of this quartet are football World Cup record holders, and only one of them has never appeared in a World Cup final.",
+        "output": "تنها سه تن از این چهار نفر دارای رکوردی در جام جهانی هستند و فقط یکی از آنها در فینال جام حضور نداشته است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Then which of the favours of your Lord will ye deny?-",
+        "output": "پس کدامیک از نعمت‌های پروردگارتان را انکار می‌کنید؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Simplify your complicated interests, feelings, thoughts, wishes, aims,",
+        "output": "علایق، احساسات، افکار، خواسته‌ها و هدف‌هایت را ساده و مختصر کن،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "In Gardens of Bliss:",
+        "output": "در بهشت‌های پر نعمت اند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "which, in my hurry and trouble of mind,",
+        "output": "که در آن حالت شتابزدگی و آشفتگی،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and has a great deal of feeling.;",
+        "output": "خیلی هم بااحساس است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt.",
+        "output": "و پسران روبین: حنوک و فلو و حصرون و کرمی."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and converted many seventeenth century relics into Venetian basilicas.",
+        "output": "نه‌تنها آن‌ضرابخانه را به‌شکل خانه‌ای بسیار زشت تغییر شکل داده بود بلکه بیش از چهار بنای تاریخی را هم که متعلق به قرن هفدهم بودند، به صورت کلیساهای ونیزی درآورده بود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.",
+        "output": "این است خدمت قبایل بنی جرشون در خیمه اجتماع. و نظارت ایشان به‌دست ایتامار بن هارون کاهن باشد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.",
+        "output": "«بنی‌اسرائیل را بگو: هر کسی ازبنی‌اسرائیل یا از غریبانی که در اسرائیل ماوا گزینند، که از ذریت خود به مولک بدهد، البته کشته شود؛ قوم زمین او را با سنگ سنگسار کنند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Baidu's doodle offered quite a contrast from the Women's Day artwork at Google.",
+        "output": "نقاشی روی بیدو با کار هنری روی گوگل در روز زن، تفاوت زیادی داشت."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "wed love a table for two . the name .",
+        "output": "ما يک ميز براي 2 نفر ميخوايم اسم ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Uzbekistan: Another Voice Silenced · Global Voices",
+        "output": "ازبکستان: مرگ خبرنگار"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The curtain, over which she had presided with such talent and such success, went off with her to her cottage, where she happened to be particularly in want of green baize.",
+        "output": "پرده‌ای که آن طور با ذوق و شوق بر دوختنش نظارت کرده بود به خانه او منتقل شد، چون اتفاقا توی خانه خودش به ماهوت سبز احتیاج داشت."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "While this was passing, the rest of the party being scattered about the chapel,",
+        "output": "در این موقع، بقیه توی نمازخانه پخش شده بودند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And so there's been that significant increase.",
+        "output": "و بنابراین افزایش قابل توجهی داشتیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and, above all, such a need that the play should be at once both tragedy and comedy,",
+        "output": "و از همه مهم‌تر، می‌بایست نمایشنامه‌ای پیداکنند که در آن واحد هم تراژدی باشد هم کمدی،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and a sudden stop full in front of the great mansion, and a protracted, hardy gaze towards it.",
+        "output": "بعد راه رفتن با گام‌های مردد بر روی چمن و بعد توقف ناگهانی در برابر پیشنمای آن عمارت بزرگ، باز هم متوجه ساختن نگاه طولانی و جسارت آمیز دیگری به طرف آن."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The only explanation he could think of, one that could not be denied,",
+        "output": "تنها منطقی که هیچ‌کس دیگر نیز آن را رد نمی‌کرد،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": ";I hope your neck doesn't stiffen up,; the editor wished solicitously: ;What do you say we all go out and have a drink on it not the neck, of course, but the little rough house?;",
+        "output": "سردبیر با دلواپسی گفت امیداورم گردنت یبکبری خشک نشود موافقی همگی برومی جایی و سر همین شرط ببنیدم و مشروبی بخوریم؟ البته نه سر گردن بلکه سر این دعوای کوچولو که داشتیم"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.",
+        "output": "و چون موسی به فراز کوه برآمد، ابر کوه را فرو گرفت."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "We started with a seed swap, really simple stuff, and then we took an area of land, a strip on the side of our main road, which was a dog toilet, basically, and we turned it into a really lovely herb garden.",
+        "output": "ما با مبادله دانه گیاهان شروع کردیم ، یه کار خیلی ساده ، و سپس یه تکه زمین را برداشتیم ، یه نوار باریک درحاشیه ‌ ی جاده اصلی ، که اساسا که توالت سگها بود. و اون را به یه باغچه سبزیجات دلپذیر تبدیل کردیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "the fbi is now arresting me , and they want you , too .",
+        "output": "اف بي اي ميخواد منو دستگير کنه و اونا تو را هم ميخوان ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Photo shared by @Tita_Batres on Twitter",
+        "output": "به اشتراک گذاشته شده توسط @Tita_Batres در توئیتر"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But yet our tourism industry is busy promoting all the wrong things.",
+        "output": "اما با این حال صنعت گردشگری ما چیزهای اشتباهی را ترویج می ‌ کند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And thus have We, by Our Command, sent inspiration to thee: thou knewest not (before) what was Revelation, and what was Faith; but We have made the (Qur'an) a Light, wherewith We guide such of Our servants as We will; and verily thou dost guide (men) to the Straight Way,-",
+        "output": "و همان گونه [که بر پیامبران پیشین وحی کردیم] روحی را [چون قرآن] از امر خود به تو وحی کردیم. تو [پیش از این] نمی‌دانستی کتاب و ایمان چیست؟ ولی آن [کتاب] را نوری قرار دادیم که هر کس از بندگانمان را بخواهیم به وسیله آن هدایت می‌کنیم؛ بی تردید تو [مردم را] به راهی راست هدایت می‌نمایی."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "What do these “critics” think was patriarchal? I wouldn’t call it that, but even if that’s the right word, what would be so bad? All the cultures of the world value a modest and chaste vision of women, wives, mothers, and guardians of tradition.",
+        "output": "این «منتقدین» چه چیزی را پدرسالارانه مید‌انند؟ من این کلمه را صحیح نمی‌دانم، ولی‌ حتی اگر این کلمه درستی‌ باشد، آیا خیلی‌ بد می‌شود؟ تمام فرهنگ‌های دنیا تصور پاکدامنی و حیا را از زنان، مادران، و محافظان سنت، گرامی‌ می‌دارند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;",
+        "output": "و بر کسی‌که ازبرص باید تطهیر شود هفت مرتبه بپاشد، و حکم به طهارتش بدهد. و گنجشک زنده را به سوی صحرا رها کند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "This is Tbilisi Calling was particularly happy that the main winner of the Social Innovation Camp was an Armenian environmental activist.",
+        "output": "بعد از ۲ سیکمپ بین المللی می‌توان با اطمینان گفت که انجام پروژه در -۳ روز امکان پذیر است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "At the time of writing this post, they have multiplied to around 3,500 and growing.",
+        "output": "در زمان نوشتن این پست تعدادآن‌ها ۳۵۰۰ نفر است و همچنان در حال افزایش است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And recite what is rehearsed to you in your homes, of the Signs of Allah and His Wisdom: for Allah understands the finest mysteries and is well-acquainted (with them).",
+        "output": "[ای همسران پیامبر!] و آنچه را از آیات خدا و حکمت در خانه‌های شما می‌خوانند به یاد داشته باشید؛ یقینا خدا لطیف و آگاه است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "This sentiment of an impending crackdown on netizens is a recurring theme this morning.",
+        "output": "فعال دیگری، الا الشیبانی در پاسخ به او می‌گوید:"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Russia: Rating Western Democracies? · Global Voices",
+        "output": "روسیه: سازمانی برای ارزیابی دمکراسی"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "They threatened to disrupt the event and hold more protests if the government will allow the contest to continue.",
+        "output": "آن‌ها دولت را در صورت ادامه اجازه به ادامه این برنامه، تهدید به اخلال و تظاهرات بیشتر کرده‌اند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "How can we understand laws and institutions, religions and customs, without understanding, not merely the nature of the creatures that made them,",
+        "output": "چگونه می‌توانیم قوانین و نهادها ادیان و رسوم را بشناسیم بی‌آنکه نه فقط ماهیت اشیاء و موجودات تشکیل دهنده‌ی آن‌ها را بشناسیم،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Milk in Japanese supermarket For decades food prices in Japan have been in stasis, which is strange for a country that imports almost every staple other than rice. Not any longer.",
+        "output": "در طی ده سال در ژاپن قیمتهای مواد غذایی در یک وضعیت ثابتی بوده است چیزی که برای کشوری که بجز برنج تمامی مواد غذایی خود را وارد می‌کند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "he only knew that in all his life there had been nothing more terrible.",
+        "output": "تنها می‌دانست که در همه عمرش چیزی از آن وحشتناک‌تر وجود نداشته است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Sabbah urges his readers to sign an anti-war petition.",
+        "output": "وی همچنین پتیشنی را منتشر کرده و از مردم خواسته تا آن را به علامت مخالفت با جنگ با ایران امضا کنند"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "What are the best books to give as gifts for the holidays in 2016?",
+        "output": "بهترین کتابهایی که به عنوان هدیه برای تعطیلات سال ۲۰۱۶ اهدا می شوند کدام است؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "How do you track a phone through Google Earth?",
+        "output": "چگونه تلفن را از طریق Google Earth ردیابی می کنید؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "LS: You know, they look really impressive in our experiments, but think about what they look like in real life, right?",
+        "output": "لارا: میدونی ، در آزمایش ‌ های ما بسیار چشمگیر به نظر می ‌ آیند ، اما در مورد این فکر کن که در زندگیِ واقعی چگونه به نظر می ‌ آیند ، درسته ؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "What had been done could be done again,",
+        "output": "کاری را که انجام داده بود دوباره می‌توانست انجام دهد،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.",
+        "output": "آن مردان به وی گفتند: «ما از این قسم تو که به ما دادی مبراخواهیم شد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "well goodbye .",
+        "output": "بسيارخوب ، خداحافظ ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "id tell you that you make me a better person .",
+        "output": "تو کاري کردي که من آدم بهتري بشم ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "it was a road or a track: it led straight up to the light,",
+        "output": "جاده یا رد پا بود، و مستقیما به منشأ آن نور منتهی می‌شد"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "In reality, there are more direct and ordinary words - pidarast, gomik, pedik, sodomit, .",
+        "output": "در حقیقت عبارات رایج‌تر و درست‌تری برای خطاب قرار دادن این افراد وجود دارد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.",
+        "output": "آه‌ای خداوندچه بگویم بعد از آنکه اسرائیل از حضور دشمنان خود پشت داده‌اند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "So we can have people explore an environment and see the location they have to remember.",
+        "output": "ما میتونیم مردمی را داشته باشیم که محیطی را کشف میکنند و مکانی را که مجبور به یاداوری باشند را ببینند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "HISTORY IN THE MAKING.",
+        "output": "تاریخ در حال آفرینش است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "air line .",
+        "output": "سرويس هوائي ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Writers of a new report by the Annenberg School’s Iran Media Program, “Whither Blogestan: Evaluating Shifts in Persian Cyberspace” (PDF) join Global Voices on GV Face this week to discuss their findings.",
+        "output": "نویسندگان گزارش جدید تهیه شده توسط برنامه رسانه‌ای دانشگاه آننبرگ در مورد ایران با عنوان «ارزیابی تغییرات فضای مجازی فارسی» در این هفته، در برنامه رودررو-صداهای جهانی از یافته‌های خود در این مورد سخن می‌گویند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And he put the staves into the rings on the sides of the altar, to bear it withal; he made the altar hollow with boards.",
+        "output": "ستونهای آنها بیست بود، و پایه های آنها بیست بود، از برنج و قلابهای آنهاو پشت بندهای آنها از نقره."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And one kid of the goats for a sin offering; beside the continual burnt offering, and the meat offering thereof, and their drink offerings.",
+        "output": "و هدایای آردی و هدایای ریختنی آنها برای گاوها وقوچها و بره‌ها به شماره آنها برحسب قانون."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And I'd like to tell this bastard that his threat won't scare me and I'm ready to sacrifice myself.”",
+        "output": "و دلم می‌خواهد به این هیولا بگویم که تهدیدش به‌هیچ‌وجه مرا نترسانده و من برای قربانی شدن آماده‌ام."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And I seek refuge with Thee O my Lord! lest they should come near me.",
+        "output": "و پروردگارا! به تو پناه می‌آورم از اینکه [شیطان‌ها] نزد من حاضر شوند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "this still nature painting sucks .",
+        "output": "اين نقاشي خيلي عجيبه ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "When the popular uprising started in Syria in March, 2011, Refugees of Rap used their music in the struggle against dictatorship.",
+        "output": "هنگامی که شورش‌های مردمی در مارس ٢٠١١ در سوریه آغاز شد، پناهندگان رپ از موسیقیشان برای مبارزه علیه دیکتاتوری استفاده کردند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "i'll wreak your vengeance and fulfill your dreams",
+        "output": "من انتقام تو را خواهم گرفت و رویای تو را به حقیقت میرسانم"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "He had felt his pulse quicken a trifle at the business manager's brusqueness, and upon him he kept an alert eye,",
+        "output": "مارتین احساس کرد که نبضش در اثر لحن ناخوشایند مدیر امور اداری تندتر می‌زند و چشمانش را هشیارانه به او دوخته بود،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And if he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;",
+        "output": "وقربانی جرم را ذبح نماید و کاهن از خون قربانی جرم گرفته، بر نرمه گوش راست و شست دست راست و شست پای راست کسی‌که تطهیرمی شود بمالد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and she said, therefore, ;It is a pity you should not join them.",
+        "output": "گفت: حیف است نزدشان نروند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and will be happy to take the part of any old duenna or tame confidante, that you may not like to do yourselves.;",
+        "output": "و دوست دارد نقش هر گیس‌سفید یا محرم راز را که بخواهید بازی کند، نقش‌هایی که خودتان احتمالا دوست ندارند بازی کنید."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "What is it like to attend GDC?",
+        "output": "حضور در GDC چیست؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Eighteen months later, it's talking to you, and babies' first words aren't just things like balls and ducks, they're things like \"\" all gone, \"\" which refer to disappearance, or \"\" uh-oh, \"\" which refer to unintentional actions.",
+        "output": "۱۸ ماه بعد ، با ما صحبت می ‌ کند ، و اولین کلمه ‌ های کودکان فقط چیزهایی مثل توپ و اردک نیست ، چیزهایی مثل « رفت » است که به ناپدید شدن باز می ‌ گردد ، یا « اوه-اوه » که به فعالیت ‌ هایِ غیرعمدی باز می ‌ گردد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "so did you get the map? yes",
+        "output": "پس نقشه رو گرفتید؟ بله"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.",
+        "output": "و اما موسی گله پدر زن خود، یترون، کاهن مدیان را شبانی می‌کرد، و گله را بدان طرف صحرا راند و به حوریب که جبل الله باشد آمد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:",
+        "output": "و نان فطیر و قرصهای فطیر سرشته به روغن ورقیقهای فطیر مسح شده به روغن. آنها را از آردنرم گندم بساز."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "I think that if we reduce, reuse, refuse and recycle — right at the end there — recycling is the last point I want to make; but it's the four R's, rather than the three R's — then I think we're going to be on our way.",
+        "output": "فکر می کنم اگر ما کاهش ، استفادۀ مجدد ، امتناع و بازیافت داشته باشیم — درست می رسیم به اونجا که باید باشیم. بازیافت آخرین نقطه ایست که میخوام عملیش کنم. اما چهار \"\" R \"\" به جای سه \"\" R \"\" هستند. (reduce, reuse, refuse) اونوقت فکر میکنم ما در مسیرمون پیش می ریم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The blue line shows you people's responses on the average of all the harm questions.",
+        "output": "خط آبی پاسخ مردم را بطور متوسط به سوالهای مربوط به « آسیب » نشان می دهد. خط آبی پاسخ مردم را بطور متوسط به سوالهای مربوط به « آسیب » نشان می دهد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But actually in mature ecosystems, you're just as likely to find examples of symbiotic relationships.",
+        "output": "اما در یک اکوسیستم کامل شما می توانید مثال هایی از روابط همزیستی را بیابید."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and to rise to that sublimated realm where dwelt the upper classes.",
+        "output": "بپالاید و به عرصه متعالی که جایگاه طبقات بالا بود دست یابد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Behold! he approached his Lord with a sound heart.",
+        "output": "هنگامی که با دلی پاک به سوی پروردگارش آمد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "So he patiently broke twig after twig till he had made a little hole through which he peeped, saying imploringly,",
+        "output": "بنابراین صبورانه شروع به شکستن شاخ و برگ‌ها نموده و آن‌قدر این کار را ادامه داد تا این‌که روزنه‌ای کوچک باز نمود و از داخل آن نگاهی به داخل باغ انداخت و التماس‌کنان گفت:"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.",
+        "output": "از سی ساله و بالاتر تا پنجاه ساله هرکه به خدمت داخل می‌شد تا در خیمه اجتماع مشغول شود."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "It's as much a part of your stress response as the adrenaline that makes your heart pound.",
+        "output": "مانند آدرنالین که باعث تپش قلب شما می ‌ شه اکسیتوسین در پاسخ به استرس شما سهم زیادی داره."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "When you plan a vacation, do you plan it yourself or use a travel agent?",
+        "output": "هنگام تعطیلات برنامه ریزی می کنید ، آیا خودتان آن را برنامه ریزی می کنید یا از یک نمایندگی مسافرتی استفاده می کنید؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But, with very little local reporting on the incident, many such as 27 months in Azerbaijan were at first unsure what exactly had happened.",
+        "output": "اما اخبار محلی در این مورد بسیار کم بوده و بسیاری مانند بلاگر ۲۷ ماه در آذربایجان در ابتدا مطمئن نبودند که چه اتفاقی افتاده است."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.",
+        "output": "و اسرائیل به یوسف گفت: «همانا من می‌میرم، و خدا با شما خواهدبود، و شما را به زمین پدران شما باز خواهد آورد.و من به تو حصه‌ای زیاده از برادرانت می‌دهم، که آن را از دست اموریان به شمشیر و کمان خودگرفتم.»"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "The trumpet shall be sounded, when behold! from the sepulchres (men) will rush forth to their Lord!",
+        "output": "و در صور دمیده شود، ناگاه همه آنان از قبرها به سوی پروردگارشان می‌شتابند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "not at all",
+        "output": "مسئله ای نیست قربان"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "and Mrs. Norris thought it an excellent plan, and had it at her tongue's end, and was on the point of proposing it,",
+        "output": "خانم نوریس هم فکر خانم گرانت را خیلی پسندید و کفت که نزدیک بود خودش دهان باز کند و چنین پیشنهادی بدهد که خب،"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "So if a husband divorces his wife (irrevocably), He cannot, after that, re-marry her until after she has married another husband and He has divorced her. In that case there is no blame on either of them if they re-unite, provided they feel that they can keep the limits ordained by Allah. Such are the limits ordained by Allah, which He makes plain to those who understand.",
+        "output": "پس اگر [بعد از دو طلاق و رجوع، بار سوم] او را طلاق داد، آن زن بر وی حلال نخواهد بود، مگر آنکه با همسری غیر از او ازدواج کند. و اگر [همسر دوم] او را طلاق داد بر وی و شوهر اول گناهی نیست که به یکدیگرباز گردند، در صورتی که امیدوار باشند حدود الهی را [در روش همسرداری] رعایت می‌کنند. و اینها حدود خداست که آن را برای گروهی که دانایند بیان می‌کند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "But on this Day the Believers will laugh at the Unbelievers:",
+        "output": "پس امروز همواره مؤمنان به کافران می‌خندند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And we used to deny the Day of Judgment,\tو همواره روز جزا را انکار می‌کردیم///و همواره روز جزا را انکار می‌کردیم///و روز قیامت را دروغ مى‌انگاشتیم.///و همواره روز جزا را تکذیب مى‌کردیم///و روز جزا را دروغ مى‌شمردیم،///و پیوسته روز جزا را تکذیب مى‌کردیم.///و ما روز جزا را تکذیب می‌کردیم.///و روز جزا را دروغ می‌انگاشتیم‌///و همواره روز جزا را انکار می‌کردیم،///و بودیم تکذیب می‌کردیم به روز دین‌///«و با روز جزا (همان را) تکذیب می‌کرده‌ایم.»\nUntil there came to us (the Hour) that is certain.\"",
+        "output": "تا آنکه مرگ ما فرا رسید."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "If ye did well, ye did well for yourselves; if ye did evil, (ye did it) against yourselves. So when the second of the warnings came to pass, (We permitted your enemies) to disfigure your faces, and to enter your Temple as they had entered it before, and to visit with destruction all that fell into their power.",
+        "output": "اگر نیکی کنید به خود نیکی کرده‌اید، و اگر بدی کنید به خود بدی کرده‌اید. پس هنگامی که [زمان ظهور] وعده دوم [برای عذاب و انتقام] فرا رسد، [پیکارگرانی بسیار سخت گیر بر ضد شما برمی انگیزیم] تا شما را [با دچار کردن به مصایب سنگین و گزند و آسیب فراوان] غصه دار و اندوهگین کنند و به مسجد [الاقصی] درآیند، آن گونه که بار اول درآمدند تا هر که و هر چه را دست یابند، به شدت در هم کوبند و نابود کنند."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "naiad .",
+        "output": "مهروي شناگر ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man's life) to employ them in the siege:",
+        "output": "و بنی لاوی کهنه نزدیک بیایند، چونکه یهوه خدایت ایشان رابرگزیده است تا او را خدمت نمایند، و به نام خداوند برکت دهند، و برحسب قول ایشان هرمنازعه و هر آزاری فیصل پذیرد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Not that they hate katakana itself. There was a time when foreign words introduced in Japan were literally translated, and allocated existing kanji (Chinese script) and hiragana (Japanese script) words to match their actual meanings.",
+        "output": "در آغاز، وقتی‌ کلمات بیگانه به زبان ژاپنی معرفی‌ می‌شدند، اول عینا ترجمه می‌شدند و یک کانجی موجود (خط/ حروف چینی‌) و هیراگانا موجود (خط/ حروف ژاپنی) که معنی‌ اصلی‌ انهار را توضیح میداد به آنها اختصاص داده میشد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Because you might think that diversity has nothing to do with you, but we are all part of this system and we can all be part of that solution.",
+        "output": "زیرا ممکن است گمان کنید که تنوع به شما ربطی ندارد ، ولی همه ما بخشی از این سیستم هستیم و همه ما می ‌ توانیم بخشی از راه حل باشیم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "her face again red with maiden shame that she should be telling such things.",
+        "output": "و دوباره صورتش در اثر شرمندگی دخترانه‌ای که او را به گفتن چنین سخنانی واداشته بود سرخ شد"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "nelson , if you leave now , everything we had will be perfect forever .",
+        "output": "نلسون ، اگر تو الان بري همه چي براي هميشه عالي باقي ميمونه ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "A future free from wars, blood and disputes. A future full of achievements and development.",
+        "output": "آینده‌ای عاری از جنگ، خون و جدل."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the LORD, to make an atonement for the Levites.",
+        "output": "زیرا که جمیع نخست زادگان بنی‌اسرائیل خواه از انسان و خواه از بهایم، از آن من‌اند، در روزی که جمیع نخست زادگان را درزمین مصر زدم، ایشان را برای خود تقدیس نمودم."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Some Russian liberals like journalist Dmitri Bavyrin also had no problem with the removal of a democratically elected president, as long as that president was an Islamist.",
+        "output": "تعدادی از روزنامه نگاران روسی مانند دمیتری باویرین (Dmitri Bavyrin) نیز هیچ مشکلی با برکناری رئیس جمهوری که به صورت دموکراتیک انتخاب شده است ندارد، البته مادامی که رئیس جمهور اسلام گرا باشد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "the jostling stevedores, the flaming passion in the Mexican's face,",
+        "output": "و آمد و شد مباشران بارگیری و باراندازی شهوتی که از چهره‌ی مکزیکی شعله‌ور می‌شد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "as parents have compassion on their children .",
+        "output": "و همون طوري که والدين نسبت به فرزندش ، مهر ورزي ميکنه ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "How much does it take to put an ad on tv in india?",
+        "output": "گذاشتن یک تبلیغ در تلویزیون در هندوستان چقدر طول می کشد؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "in fact , there are few people in england .",
+        "output": "در واقع کمتر افرادي در انگلستان وجود دارند ."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "Let not the strutting about of the Unbelievers through the land deceive thee:",
+        "output": "رفت و آمد کافران در شهرها [با وسایل و ابزار فراوان و شوکت ظاهری] تو را به طمع نیندازد."
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "How do I prepare for interviews?",
+        "output": "چگونه می توانم برای مصاحبه آماده شوم؟"
+    },
+    {
+        "instruction": "In this task, you are given a question in English, and your task is to translate it into Persian.",
+        "input": "It snows so heavily there, the installation was almost immediately buried.",
+        "output": "آنقدر برف در آنجا شدید است که تأسیسات به سرعت در زیر برف مدفون شد."
+    }
+]
