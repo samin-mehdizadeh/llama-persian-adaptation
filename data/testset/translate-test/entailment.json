@@ -1,0 +1,1002 @@
+[
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: If you don't drink like you know you used to drink, eh, you go out and you want to party and that's what I guess you do when you're young and stupid. Second sentence: Adults also drink a lot and have parties.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Don't be pessimistic. Second sentence: Be pessimistic.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: I am not worried about my youth. Second sentence: I am worried about my youth.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: And their children live there now. Second sentence: Their children live there well.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The magazine's humor often relied on racist and sexist stereotypes, such as wide-grinned and watermelon-eating blacks. Second sentence: This magazine depended on this kind of humor.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: There are no stocks that might ever come back, just lots of options that are as worthless as Cook's American Business Alliance. Sentence 2: Cook's American trade alliance caused the stock to return.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The armed forces of the leadership of the Soviet Union wanted to preserve the Soviet Union and the Communist Party with this coup, but they got the opposite result. Second sentence: The Soviet Communist Party was removed from power due to the mistake of the armed forces.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "Sentence 1: But they did this all season and had all these situations and then at the end of the season, they found out that Pam was all a dream Sentence 2: Before the whole season was revealed, it was revealed to be a dream who had feet",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Your guess is as good as mine. Second sentence: I don't know how many votes he won.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In itself, the discrepancy has no obvious significance, although it is said by theorists that TP leaked from more than one source. The second sentence: The difference is not important.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Some higher education institutions offer one-year short courses that students receive a certificate after successfully completing the course. Second sentence: None of the higher education institutions offer one-year short courses.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: But the explanation is institutional, not ideological. Second sentence: Many experts believe that it is impossible to separate institutional from ideological issues in this situation.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In the past, two big spoons were used to shape the meringue. Second sentence: But later, the famous French chef named Marie-Antoine Carme used a rolling pin and a pastry funnel to shape it, and this method became common.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Today, the reinforced concrete replica only surrounds the five-story, 42-meter (138-foot) tall tower, which is surrounded by ivy-covered moats and planks. Second sentence: The fortifications around the tower are completely new.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: After his preliminary education, when his father was the great ambassador of Iran in the Ottoman court, despite his parents' interest in his education in France, he went to Nizam High School in Istanbul, Turkey in 1291, but after two years, he went to He came to Iran because of the start of the war and joined the army with the rank of an officer, and after these days he was sent to the officer school in Switzerland, and then in 1302, he went to France as one of the students sent to France and went through the supplementary course of the Cavalry Academy and Iran returned. Second sentence: Two years after going to Istanbul to continue his education, the war started and he came to Iran.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Since the gate of Provence is orange, from the north, make the proper entrance to the city at the location of the three-arched arch de triomphe. The second sentence: The gate of Provence is orange.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In the United States, the carrier remains on the road, stops at a mailbox on the side of the road, and places the letter in it without leaving the vehicle. Second sentence: US shipping companies always get out of their vehicles when they deliver mail.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: During the time of Sultan Muhammad Fatih, Constantinople was captured by Muslims; After that, Constantinople was called Islambul and then it was renamed to Istanbul. Second sentence: In present-day Istanbul, you can see the architecture and sculpture of the ancient Greeks.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Buda, which used to be the capital of the Kingdom of Hungary, was merged with Post and Óbida on November 17, 1873, and the city of Budapest was officially formed after that. Second sentence: Budapest emerged from the combination of cities in Hungary.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: I hope you can see the world from my point of view. Second sentence: There was a hint of menace in his voice when he said, \"I hope you can see the world through my eyes.\"",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Lili has a good relationship with all the members of the group and is the only one to whom they tell all their personal issues, but still, she is not a good secret keeper and reveals many secrets in different situations, but she is very kind. Second sentence: Li Li is not a good secret keeper and that's why most people refuse to share their personal issues with him.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: No, there is no exception at all. The second sentence: But I am not sad or worried at all.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: However, a change does not appear to have a negative impact because, contrary to current policy, awarding frequent-flyer miles to an individual is consistent with the airline's position. Second sentence: People are groups of people or businesses that work as a team to achieve a goal.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: After Ghanbari's return, it was not immediately clear what the results of these meetings were. Second sentence: The results of the recent meetings are still unclear.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: It is impossible to imagine that housing facilities will cause increasing inflation. Second sentence: As a result of providing housing facilities, increasing inflation will not occur.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Abad is considered one of the most talented native writers of the period after the literary boom of Latin America. Second sentence: Abad is a North American writer.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In the first free elections in 1946, he was able to win the third place in the elections after the parties of the German Socialist Union and the Christian Democrats. Second sentence: Elections are one of the important pillars of democracy in advanced countries.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: APHIS conducted an environmental assessment and determined that the actions required or authorized by this rule would not pose a significant risk to the introduction. Second sentence: They were very cautious in their assessments.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Glendalough is part of the Wicklow Mountains National Park, an area of ​​about 20,000 hectares (49,421 acres), which includes most of the Wicklow Highlands, with spectacular scenery, wildlife and rare plants. Second sentence: Glendalough has an area of ​​20,000 hectares and has spectacular scenery.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "1st sentence: yes but well they vary from place to place it's hard to tell how well kept and how old they are and these are probably one of the best ones I've found and oh 2nd sentence: it's hard to tell How it is preserved and their age because they are very different in different places.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The reason and date of the establishment of this village is not very clear, but it is likely that it is nearly eight hundred years old and has been called Chipakandeh, Chubakandeh, Choukandeh, and finally Jfakandeh. Second sentence: The age of this village is estimated to be at least several thousand years",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He thought that the husbands of the wives would be the ones who would abuse the argument about the difficulty of infidelity. Second sentence: Husbands never cheat on their wives.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: They ate in silence and enjoyed the cool shade of the tree. Second sentence: They were standing under a tall oak tree quietly enjoying the sunlight.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Asteroid 266983 is the 266983 asteroid that was discovered on November 30, 2005. Second sentence: The amount of new information and newly discovered planets and stars is very large and surprising.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He said sorry. A man's voice beside him made him turn and leave. Second sentence: He was terrified by that man and turned to leave when the man said he begged for forgiveness.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He looked at Mueller as if Sgt\nHe looks at his men as if they were the focal point of any future attack. Second sentence: Mueller had something interesting in him that made him attract everyone's attention.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The important debate that exists these days is that it is said that the person who is the president now is not the reason, so for the next round, Salatah must be confirmed. Second sentence: The president will not be disqualified.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Undoubtedly, the continuous depletion of resources also destroys human well-being, livelihood resources are destroyed, lands remain barren, and resources become increasingly expensive, scarce and inaccessible, and in such a situation, the difference between resources is revealed. Second sentence: We need to preserve resources to continue our survival.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Giambattista Tiepolo (March 5, 1696 - March 27, 1770) with the full name Giovanni Battista Tiepolo was a great Italian painter and engraver of the 18th century. Second sentence: Italians respect art and pass it.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: 5 million Americans who live in households whose income is below the poverty level. Second sentence: 5 thousand Americans earn a lot of money.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The director's skill is shown in paying close attention to details. The second sentence: --",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: where more than one family is in the same house. Second sentence: When more than one family is in the same house.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: After about 30 years of his death, the theaters were destroyed, the actors were dismissed and the playwrights were sent to exile. Second sentence: Even 30 years after his death, the theaters were still standing.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The length of the tree is considered short among sakura trees and reaches about 10 meters. The second sentence: Despite the height of 10 meters, Sekora trees are very resistant to diseases, insects and changes in the environment.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The main difference between the petrochemical industry of Iran and Saudi Arabia is also in the provision of feed, which sanctions have caused this part of the industry to not fully develop, and now our distance with them is not comparable. Second sentence: The distance between Iran and Saudi Arabia in the petrochemical industry has increased.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He smiles but his eyes are closed. Second sentence: His eyes widened when he smiled.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Right, uh, well, you know that's just like saying there's a lot of work that needs to be done here in this country and you know if you could think of something like like an institute of peace . I mean, it would be very helpful if this organization only helped, for example, only old people. Second sentence: There are many things we need to do in this country.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Forster-Nietzsche was two years younger than his older brother. Second sentence: Forster-Nietzsche was two years older than his younger brother.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: For certain types of work performed in an agency, GAO may initially provide only telephone message or e-mail notification. Second sentence: GAO may only issue telephone or email messages.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Paul Louis Adrien Henri Imans (; – ) was a politician from Belgium and a member of the Liberal Party of this country.\nHe was the second president of the League of Nations and served as its president again between 1932 and 1933.\n  Second sentence: Between 1932 and 1933, the head of the League of Nations,\nIt was Paul Louis Adrian Henri Emans.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Today, as always, the traditional occupations of fishing and agriculture sustain Martinique's fragile existence, and the delicious sugar cane juice helps. Second sentence: Martinique earns more from fishing than from agriculture.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First statement: First, we used three surrogate functions of concentrated response (CR) to estimate premature mortality. Second sentence: No focused response (CR) was used for that event.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The preparations for the movement of the Ottoman army from Istanbul to the territory of Iran began right from the beginning of Muharram 986 with the transfer of the army's tent and barracks to Eskdar. But before the movement of the army, since it was intended to be a war with an Islamic country and the Muslim nation, Shaykh al-Islam Shamsuddin Ahmed Ghazizadeh issued a fatwa according to the tradition of his predecessors, while declaring the war against the Safavids legitimate, \"the order of the killers and the killed.\" And also the captives and looted property\" also made it clear. The second sentence: war with a Muslim nation required the issuance of a fatwa.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This movie was supposed to be released on November 14, 2014, but its release date was changed to October 17, 2014. The second sentence: The film was released according to the original schedule.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: NVR generally does not have a recording hardware but the software usually runs on a specific hardware with an operating system. Second sentence: NVR has powerful recording hardware",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Perhaps the most controversial question that could be asked of him was the question of whether or not he would participate in the 2016 elections. Second sentence: He did not participate in the 2016 elections.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The citizens of the United States of America have the right to praise themselves for being able to present to mankind an example of a great and liberal policy that is worthy of imitation. Second sentence: The citizens of the United States are supposed to be proud of themselves.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Khalid chased the Iranians, but he got help from Iranian forces and Khalid's work became difficult. Second sentence: It didn't take long for help to reach the Iranian forces.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: An official in the Ministry of Industry, Mines and Trade announced the government's plan to distribute 300,000 tons of sugar in the market and said: It is supposed to be distributed in the market in the coming days; But this has not happened yet and the market price has reached 4 thousand tomans. The second sentence: Sugar became 4 thousand tomans",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: At the end of his life, he faced the rebellion of Sultan Muhammad, the son of Baisanqar and ruler of Ray, and despite his illness, he marched there in 850 AH with the encouragement of his powerful wife Goharshad Agha Begum, who had real power with the king. Second sentence: Because of his illness, he refused to march.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: First, in the body, the precursor of the hormone, that is, angiotensinogen, is made by the liver and then released in the blood. Second sentence: The production of this hormone is done by the liver and then it is poured into the blood.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In Texas, the legislature was instrumental in making changes to the state's benefit programs through provisions in several sections of the law. Second sentence: The legislature was effective in making changes in the benefits program.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: In several verses, the Qur'an introduces itself as the seal of the divine books and rejects the revelation of the divine book after itself. Second sentence: Although the Qur'an has rejected the holy books after it, the creation of new religions and new writings still continues.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Spain, Chile, Switzerland and Honduras teams were present in this group and at the end of the tournament, the Spanish team was the first and then the Chilean team made it to the elimination stage of the cup, and the two teams of Switzerland and Honduras won the third place and Fourth, they were prevented from continuing the World Cup. Second sentence: The Swiss team won the third place",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Xavier went to Hirado city in Hizen Province (Nagasaki Province) after preaching Christianity in Kagoshima Island. Second sentence: Xavier first went to the city of Hirado and then to the island of Kagoshima.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: On the evening of the third day of Shahrivar, while the advance of the British and Soviet forces continued in the north and south of Iran, Rajab Ali Mansour decided to resign after seeing the critical situation. Second sentence: Rajab Ali Mansour fled after seeing the possibility of Iran's defeat.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: These two quantities may change over time (in AC power) or remain at a certain level (direct current). Second sentence: These two quantities have a specific relationship with each other.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The court judge announced a short break and after 90 minutes, the trial started again and Ramsey Clark started his defense. Second sentence: The court verdict was issued in favor of the defendant.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Not nearly as much as I would like. I mean, I like to be busy, and oh second sentence: If my job wasn't so busy, I would work more.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The share of the gross national reserve that is used to replace the reduced capital has increased over the past 40 years. Second sentence: The gross national reserve was the highest this year.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: She is also the older sister of actress Emma Bulger. Second sentence: But Bulger has an older sister",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: They watched me regularly for weeks. Second sentence: They left me alone for weeks.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The place was a living tomb... Second sentence: It was nothing more than a living tomb.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Yes, I just wish it was a little easier, you know. Second sentence: I want this to be easier",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: But here the author tried to make human suffering acceptable and smooth with the idea of ​​a just, benevolent and all-powerful God in a series of long poems and speeches. The second sentence: The author tried to smooth the suffering of humans with the idea of ​​a just God.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: JW Westcott II is a ship whose length is\nThis ship was built in 1946. Second sentence: Many ships have been built.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Instead, Intel makes real things. Second sentence: Instead, according to the news, Intel makes real things.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: A dual camera is used in this phone, which has recently been welcomed by smartphone manufacturers and their users. Second sentence: Users have not shown interest in dual camera.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The head of the Iranian Statistics Center said: According to international standards, a person who has worked for one hour in the reference week is considered employed, but his employment is incomplete. The second sentence: According to the statement of the head of the Iranian Statistics Center, the weekly working hours of people have no effect on the definition of their employment.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: He was actually Tsunetomo's senior, and it was this person who eventually gave young Tsunetomo a simple job in the emir's office. Second sentence: Young Tsune Tomoi was not happy with what fate had brought him.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: We were also expected to go to school, learn a profession and work in the same profession, but we didn't do that. Second sentence: We used to go to school and work in the same profession we studied.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Naghme Music Academy will hold the play at its place. The second sentence: This play will be held at a distance of two intersections from Naghme Music Academy.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Because he was afraid of being persecuted by Adolf Hitler's government in Nazi Germany. Second sentence: The fear of being chased by the Nazi forces had robbed him of a good night's sleep.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Juan del Granado studied at the University of San de Andres (UMSA) in La Paz and received a law degree. Second sentence: He was a painter and had a big gallery in Paris.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The king of Jerusalem claimed that he was the head of the crusader kingdoms of the east; And he gave himself the right to ask their rulers to send him reinforcements in military operations; But this sovereignty was not realized, except in cases where the king had enough power to impose his opinion. The second sentence: Eastern countries did not listen to the king of Jerusalem, while he considered himself the lord of all.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: John fled behind a building that was not yet on fire, the house where Susan had stayed a few days before, and prayed to any god who might listen that no more enemies would be found behind it. Second sentence: Every building was on fire.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This album was released in May and June 1978 in Great Britain and the United States of America; It reached number 17 in the UK and number 29 on the US Billboard charts. Sentence 2: Great Britain placed 17th and the United States placed 29th in the tournament",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The federal government of Syria is a system that was formed by the French protectorate over Syria by the decree of Henri Gourat on June 28, 1922. The House of Representatives of the federal government and the federal president, Sohbi Barakat, were personally chosen by Henry Goro. The second sentence: And after that, the House of Representatives of the federal government and the federal president, Sohbi Barakat, were personally chosen by Henry Goro.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He was here for less than two days and\nNow he knows and wants this city as his home\nprotect it Second sentence: This man left the city after 24 hours.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Probably very probably very hmm Second sentence: Probably yes, very uh uh",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He said, his problem is the current hiring freeze imposed on all city agencies. Second sentence: He had difficulty finding a job due to the stoppage of employment.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Yes, these people, they have big speakers because they have a democratic system just like ours where they elect their own mayors and councilors, which is really kind of funny and kind of an invasion of your privacy, and they're in These streets are going down with these really loud speakers. Second sentence: Those people with loudspeakers are very annoying.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: After this attack, Kiafakhreddin Jalal and then Kiavashtasef were killed along with their children. The second sentence: After killing Abdullah, he ordered revenge.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: And you must have cranberry sauce. Currently, I like the jelly version. Second sentence: I only like homemade cranberry sauce, not the jelly kind.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: I could. Second sentence: I am able",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "Sentence 1: A number of related measures can be used to measure changes in visibility associated with reduced concentrations of fine particles. Second sentence: The first method is the best method for application.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Where is the door to Mr. Inglethorpe's room? Second sentence: The door of Mr. Inglethorpe's room has a strong lock.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: During the reign of Fath Ali Shah Qajar, many parts were added to the garden. Almost all these parts are only the product of this era and after him these gardens were not taken care of. Second sentence: With the death of Fath Ali Shah, the work of taking care of the garden and its trees was abandoned and even parts of the garden were lost.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: After many years, in the 1993 Asian Nations Cup, Iranian basketball reached its turning point and grew significantly. Second sentence: Iranian basketball was at its turning point every year.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The prosperity of this port in the Mediterranean region made Trieste the fourth largest city in the Austro-Hungarian Empire after Vienna, Budapest and Prague. Second sentence: Tricity was located in Hungary and in the heart of Europe.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This is the most accessible case of the walled villages of the new regions. Second sentence: access to other villages in the new areas is hardly possible.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: His activity was mostly concerned with keeping Athenianism (against Asianism) in a high position. Second sentence: The collapse of the Roman Empire was related to many issues.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In addition to the mandapa hall for the worshipers, four Sikara domes were also raised from the entrance porch. a bigger hall for dancing girls; And the inner sanctum, surrounded by a guard to walk in front of the image of the gods. Second sentence: Visitors are not allowed to walk around the image of the gods, but must sit quietly in front of it.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The American team has won the championship trophy 31 times, but since 1995, it has not been able to achieve this victory. Second sentence: The American team has won 31 times since 1995.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Guess whoever did this thought Johnny was wolf meat, just \"got his horse\" and left him there. Second sentence: Suppose the person who did this thought Johnny was dead, took his horse and left him.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Wrestling also won three gold medals in the London Olympics. Second sentence: After 3 years, he stood on the podium of the world championship.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: After a missile test of this country, the Security Council has imposed new sanctions against it, and North Korea has then announced that it is considering an attack on the United States. Second sentence: North Korea reacted against the sanctions by threatening America.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The design of the new building was the subject of a competition that was won by the Spanish architect and designer Enrique Miallas. Second sentence: The design of the new building was drawn by an English architect.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: After Ghanbari's return, it was not immediately clear what the results of these meetings were. Second sentence: On Wednesday, Ghanbari went on a multi-tasking mission.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: We sent this letter to the lady who is the so-called commissioner, who organizes the exhibition, and is in charge of supervising the work, and also to the head of the Louvre Museum, but I told you that we did not receive a reply. Second sentence: The Louvre responded to our letter quickly",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: You must click on the FIFA Online link, which you will find on the left (under THE BASICS). Second sentence: You must click on the FIFA link on the right, above THE BASICS.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: His wife Minou Delnawaz is also an active member of Mujahideen. Second sentence: He and his wife are the main members of the Mojahedin group.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The US military says it is investigating the allegations, which were reported by the US magazine Newsweek, but has not found any evidence of wrongdoing. The second sentence: The American magazine Newsweek has presented documents about the accusations of the American army soldier.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: After this war, due to the display of the great superiority of the cavalry; Roman infantry legions were never formed again. Second sentence: Combat systems are changing and transforming every day.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: This story is the life story of Poulad Marzban, who returns to Iran after many years to take care of his sick grandmother, unaware that a series of events will lead him to a surprising abyss. Second sentence: After Poulad Marzban returns to Iran, he experiences strange incidents that endanger his life.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Surviving cells are cells that retain all reproductive and functional activities after radiation, while cell death is characterized by the loss of function in differentiated cells and the loss of reproductive activity in undifferentiated cells. will be The second sentence: survival or death of the cell has no effect on its functional and reproductive activities.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "Sentence 1: Such a program, along with appropriate measures to address local concerns, would provide significant health benefits and keep electricity prices reasonable even as we increase energy supplies. The second sentence: Insurance benefits are very important, however, they provide a lot of economic savings.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The titles alone—Mars Probe Find Kittens and Catred Schredinger (which includes Rain Rain Bonac Sacajawea and Banana Wittgenstein)—show Martin's penchant for gleeful humor. The second sentence: Martin's works are considered by many.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: It was at this time that the earthquake happened. Second sentence: Ardabil earthquake was one of the saddest earthquakes.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: On the contrary, the increase in government savings increases the resources available for investment and may have a downward pressure on the interest rate. Second sentence: To increase savings, the interest rate must be increased.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The time for Eid al-Fitr prayer is from sunrise to noon, but it is recommended to pray the Eid al-Adha prayer after sunrise, and on Eid al-Fitr, it is recommended to break the fast after sunrise and pay Zakat al-Fitr, and then perform the Eid prayer. fulfilled The second sentence: The time for the Eid al-Fitr prayer is before sunrise until noon, but it is obligatory to pray the Eid al-Adha prayer after sunrise, and on Eid al-Fitr it is obligatory to break the fast after sunrise and pay the Zakat al-Fitr, and then pray the Eid prayer. fulfilled",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Following the coup and after the Tudeh party organization collapsed inside the country, Qureshi was arrested again in late 1994-2005 and remained in prison until 1999. Second sentence: The prisoners have not been released yet.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: While the normal IQ is in the range of 90 to 110, it refers to the range between 71 and 84 borderline intelligence, which means that these people are not mentally retarded, but they are not very successful in terms of academic progress. Second sentence: borderline intelligence, natural intelligence and emotional intelligence are different types of intelligence",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Winemakers use different types of rotations, but they all work the same. Second sentence: A good wine is that which is crushed with a better wheel.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In fact, most of the septa are curved and create a soap bubble or honeycomb appearance, but seeing one or two straight septa can help in the differential diagnosis of this tumor. Second sentence: Strange changes in cells are always a sign of cancer.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: So very much very much. I think it's very divided. Oh, the country takes some, the city takes some, and the government takes some. Second sentence: None of these are divided among anything.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Yes, there are quite a few of these people Second sentence: They are everywhere, you can't hit the ball without hitting one.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: On the other hand, he could have used his speech to the Christian Coalition last Friday to criticize religious intolerance. Second sentence: He could talk about the tolerance of the coalition.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Erlenborn, former member of the United States Second sentence: Erlenborn was never in the United States.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: I see. Second sentence: I was blind.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The issue of greenhouse gas emissions should be addressed with regard to climate change, which is currently being done by the working group of the president's cabinet. Second sentence: Greenhouse gases and climate change are handled by the president's cabinet.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: In the 11th edition of the Asian Games in Sri Lanka, where 18 teams from 15 countries participated, he won the Asian championship by defeating his tough opponents and won the gold medal. Second sentence: He became the champion of the Asai tournament.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: \"Cromowich\" is a city in Germany, which is located in \"Rendsburg-Eckernforde\". The second sentence: The language of the \"Kromoish\" people is French.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He was crying as if his mother had beaten him. Second sentence: He was crying as if his heart was broken.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In a separate attack on the capital highway, armed men attacked two cars that were probably carrying civilian contractors. Second sentence: There were many flights in the capital airport this morning.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Ahmad Khorram also became the governor of Hamedan after being the governor of Khuzestan and was elected as the minister of road and transportation in the second government of Seyyed Mohammad Khatami. Second sentence: Ahmad Khorram also became the governor of Sistan and Baluchistan after being the governor of Khuzestan.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: In his later years, Chambers became more skeptical about the path that the American civil rights movement took. First, he distanced himself from Joe McCarthy, then from Richard Nixon, and even from William Buckley, Jr. of the National Review. But ultimately, Chambers' importance lies not in his politics but in his romantic appetite for psychological excesses and underground politics. Second sentence: Chambers built a wall between himself and McCarthy and Nixon.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Mehdi Roshanzamir died in Tehran at the age of 80 and was buried in the tomb of poets in Tabriz. Second sentence: Roshanzamir taught at Tabriz University for 27 years and also composed and wrote.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Jude law was born in the south of London. He is the second child of the family and has a sister named Natasha. Second sentence: Jude Law was born in a single-child family in South London",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This vast desert is located in the eastern region. Second sentence: Oman is one of the successful countries of the Arab world.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The main fields in theoretical linguistics include syntax, phonology, morphology and semantics. Second sentence: unlike semantics, fields such as sociology of language and psychology of language are outside the field of theoretical linguistics.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: One of the most important work steps is strengthening the walls and roof of the tunnel after digging. The second sentence: Strengthening the walls and roof of the tunnel after digging is not important.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Now the conservatives are responding to the attacks. Second sentence: Conservatives now argue.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Today, in an interview with IANA reporter, the leader of the country's cotton plan announced the beginning of cotton harvesting in the country and said: this year, about 70% of the country's land has been dedicated to cotton cultivation, which is a small amount of decrease compared to last year. has Second sentence: The majority of the country's land is dedicated to rice cultivation.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: He learned the basics of music from his father \"Shahriar Fariosfi\" and mother \"Fahima Esmaili\" and after that he entered the Tehran Music Conservatory. Second sentence: Paniz Feriosfi learned music officially at the music conservatory, but his first teachers were his parents.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Muhammad said: You and your friends are not welcome. Second sentence: Muhammad said that people are not welcome here.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: According to IRNA news agency, Iranian medalist wrestlers from world championships and Olympic games will be employed by the oil company from now on. The second sentence: Iran's medal winning wrestlers are employed by the oil company",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: All those stories of Apaches going close to the fort guards... Why, only last year a young Rhubarb boy had his throat slit in the hay field in front of his house! Second sentence: Rivas' son was killed a year ago.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: I don't want to now because I don't know anyone equipped to handle this. Second sentence: It will take about two weeks to create one.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: \"Gordon\" stops the murder of the mayor of \"Gotham\" and gets shot himself, and everyone thinks that he is dead. Second sentence: \"Bruce\" decides to admit that he is \"Batman\", but instead \"Dent\" says that he is \"Batman\".",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Sometimes such funds are allocated for retraining IT to existing non-technical personnel. Second sentence: Sometimes funds are allocated to retraining existing non-technical personnel so that they can learn how to program their computers.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Did they have a clue or that 103 things will remain in the category of undiscovered crimes. Second sentence: These evil people are getting more inexperienced every year.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: I never want to leave Canada, because I get disappointed every time. Second sentence: There is no way I will ever travel outside of Canada again because the situation is hopeless.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The United States tried to kill Saddam Hussein with airstrikes on March 20th and April 7th, but Abu Dhabi TV later broadcast a video tape in which Saddam Hussein was apparently killed in a Baghdad neighborhood on April 9th. A group of people could be seen. Second sentence: Saddam Hussein was killed in one of the US air strikes on April 7th.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The Justice Project will receive $49,000. Second sentence: The Justice Project will raise approximately $50,000.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: A narrow cobbled path of 587 steps leads from the town to the small harbor below, which is now home to a herd of donkeys waiting to ferry passengers into town. Second sentence: A fleet of donkeys transport passengers from this city to the port.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Ibn Zubair accepted his proposal and set the destination of Mukhtar's soldiers in Wadi al-Qarai, which is a village located in the north of Madinah, but Mukhtar instead sent three thousand warriors under the command of Sharhbil bin Wares and told them to enter Madinah and wait for orders. Stay next. Mukhtar's ultimate goal was to remove Ibn Zubair from power. Second sentence: Mukhtar wanted to consolidate Ibn Zubair's power.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: It's now a quiet residential haven, favored by artists and tourists looking to escape the crowds. Second sentence: This is a noisy residential area that is popular with musicians.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The first song that was made from this album (Playing with Fire) was not noticed, but the second song was a great success and opened its place among the top 100 songs of the American Billboard. Second sentence: The first song of this album was very successful and ranked among the top 100 songs in America.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This center has around 100 employees, including lawyers and support staff, in 10 branches. Second sentence: These 10 branches had nearly 100 employees.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Also, in the revision of 2013, the Eastern Conference was divided into two eight-team divisions. Accordingly, the Atlantic Division retained its name, but the Northeast Division was renamed the Metropolitan Division, and the Southeast Division was disbanded. Second sentence: In 2013, the Northeast was dissolved, but the Eastern Conference was divided into two eight-team divisions.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This album is the first release of the group by \"Peaceville Records\" after the termination of cooperation with \"Candlelight Records\" and \"Century Black\". Second sentence: The songs of this album were on the special chart for six months.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Velázquez's incongruous image of the ugly Queen Mariana of Austria with El Gerso's image of the great mystic Christ in Cruz Ribera made the people in the club laugh. Second sentence: El Greco was a very famous Spanish painter whose works were often religious.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Respond with kindness and you will soon feel better. Second sentence: You won't find a friendlier group.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: You did not mention his name this afternoon, or I would have suggested that you approach him as an acquaintance for more information with my card. Second sentence: He and I are good friends.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The Turks have not only not obtained a license and gone through the legal procedure to establish a commercial center in Iran and supply their products, but also have not made a commitment to produce inside, even in the future. Second sentence: A Turkish company has illegally established a business center without obtaining necessary permits.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Mustafa Moin's qualifications were first rejected by the Guardian Council to run for the presidential election, then he returned to the electoral contests with the government decree of the Supreme Leader, he was one of the seven main candidates of the contests. The second sentence: Mustafa Moin withdrew from the competition due to disqualification.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: According to the report of Gartner Institute, by 2018, more than 18 billion devices will be connected to the Internet, of which 9 billion of these connections to the network are due to the connection of objects, and in another estimate, the same institute has announced that by 2020, about There will be 26 billion IoT devices. Second sentence: 18 billion devices will be connected to the Internet by 2018",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: \"Kalach-na-Dono\" city is located in Russia and in Volgograd Oblast. Second sentence: Russia is one of the third world countries economically.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: After the murder of Shamsuddin Ali, he was chosen as the leader of Sarbadaran's government and gave the command of the army to Haider Kasab. Second sentence: Haider Kasab was a religious, pious, brave, just person and a close relative of Amir Masoud, who originally came from the village of Karab in Beyhaq.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The resources required to install control technologies to achieve emission reductions under the Clear Skies Act are estimated and compared to their current market availability. Second sentence: Installing control technologies to reduce emissions requires resources.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Age, health and willingness to pay the risk of death, temporary affairs Second sentence: Age, health and willingness to pay the risk of death and temporary affairs are very important topics that are talked about all over the world.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "Sentence 1: But these guys were actually on the road thousands of miles from home when they had to take their final exams and send them Sentence 2: These men are taking their midterms from home.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Vladimir Putin, the Prime Minister of Russia, accused the United States of being the cause of unrest and protests after the Russian parliamentary elections in that country. Second sentence: After the Islamic revolution, which happened in Iran in 1979, it seems believable that the Americans were involved in these protests.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Oh yeah they spent more money than any other team in the league last year and they were bottom of the league as you know so it's like I said spending money doesn't guarantee you win a Become a champion flag. It really doesn't. Second sentence: The amount of money you spend does not always indicate your level of success.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The waters of the Algarve provide some of the best fishing in Europe. Second sentence: Some of the best fishing in Europe can be found off the coast of Allegro.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: And well, I think I remembered everything now that it wasn't the deep, but the abyss. Second sentence: I don't remember anything about it.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Recently, some authors have provided brief information about this castle, which is mostly unique to its appearance and therefore cannot be relied on scientifically. Second sentence: The information provided was related to the age of the castle.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: One morning, after the saint had given his teachings, Molhasin Beshravieh got up at sunrise and went to the house of Saeed al-Ulama along with some of his Babi friends. The second sentence: After sunrise, they gathered in the house of Saeed al-Ulama and started revelation.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This hotel showcases a new type of super-star and small hotel that sells public office space to people who work remotely. Second sentence: People who work remotely buy public office space.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: In 640 AD, following the Arab attack on Iran, \"Saad Jarir\" stormed the city of Dinur and failed to conquer it, and then he went to Kermanshah and fell into the hands of the Arabs without a fight. Nevertheless, the Arabs completely destroyed the city of Kermanshah. they did; And its population was reduced and after that the residents of this city migrated to the city of Dinor. Second sentence: Saad Jarir could not conquer the city of Dinur.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: After this attack, Kiafakhreddin Jalal and then Kiavashtasef were killed along with their children. Second sentence: Father and son were killed.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: This park is located in the city of Srinagar in the state of Kashmir, India. Tulip festival is held in this park every year in April. Second sentence: The state of Kashmir is one of the famous and cultural states of India.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: There is an additional reporting standard for financial audits that are performed in accordance with GAGAS Second sentence: There are additional reporting standards for financial audits.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Isn't this the last bastion of America for gangsters, racists and hackers? Second sentence: This is the first wave of American racism.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: None of the peacekeepers were injured, but the explosion injured four people who were riding in a taxi and also three passers-by. Second sentence: A bomb that was attached to a bicycle in a busy street in the east of Kabul exploded minutes after a NATO soldier passed by and left casualties.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Unbar, Francisco! He called out in Spanish. Second sentence: He calls Francisco in Spanish.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: the main fuel of the natural gas power plant and\nIts alternative fuel is gas oil. Second sentence: Diesel cannot replace oil.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: No one was injured in boxing matches. Second sentence: Many people have been seriously injured in boxing matches.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Guerrilla forces usually use espionage, industrial sabotage and psychological propaganda and present themselves as a popular but suppressed political movement. The second sentence: psychological propaganda is one of the methods of guerrilla forces.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: To qualify for legal aid, a person's income must be at or below 125 percent of the poverty level, as determined by the federal government. The second sentence: regardless of the income level of people, they are not given legal aid.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: It is better to visit in spring and summer, you can enjoy the lilies and flowering bushes of the indoor gardens. Second sentence: It is better to visit during autumn and winter.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: Pundits Interprets, the final of the second sentence: the last Punditus Interprets",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Sydney's climate varies in different regions, although most of the time its climate is moderate. Second sentence: Most of the time, most Australian cities, including Sydney, are very cold.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: after the preface and the description of how the book was formed, in the first part about the art of prosody, in the second part\n The science of rhyme and criticism of poetry, and at the end of the book, the tools of poetry and criticism of poetry and types of plagiarism are mentioned. Second sentence: The last part of the book is about plagiarism.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Brittany's countryside is wilder and less civilized, with a similarly rugged coastline. Second sentence: The Brittany countryside is dull and ordinary.",
+    "output": "0"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: According to this forum, most companies don't want to get involved with these benefits because it's too difficult to track the miles or points earned. Second sentence: Many companies avoid unnecessary problems.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: The empire lost its ground in the Americas and the Pacific, and then suffered a humiliating defeat in Morocco at the hands of local rebels in 1923. Second sentence: Moroccan local rebels defeated it in 1923.",
+    "output": "1"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "First sentence: Because Mademoiselle Cynthia does not drink her coffee with sugar. Second sentence: Cynthia cannot have sugar in her coffee because of her diet.",
+    "output": "2"
+  },
+  {
+    "instruction": "Next, you will be shown two sentences. If these two sentences contradict each other, write the number 0, if they are the same, write the number 1, and if they have nothing to do with each other, write the number 2 in the output.",
+    "input": "The first sentence: The foundation of Chaghazanbil is a square of 20.105 x 20.105 meters. The second sentence: It means that the infrastructure of Chaghazanbil is twice the size of a football field.",
+    "output": "1"
+  }
+]

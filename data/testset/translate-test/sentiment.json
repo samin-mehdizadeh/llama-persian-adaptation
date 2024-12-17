@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Everything is great, as always, thank you very much for the good courier, Mr. Ali Beik Deli",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The quality of the food was awful.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I have received food several times so far, but every courier has come inappropriately. When someone is doing service work, it should be up to date. I was just explaining the area to the courier for 20 minutes. I really don't know why it is like this.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was really good, but I think the price is a bit unconventional compared to the size and type of food....",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "This type of pizza is more sauce than pizza. A kind of bad taste sauce is spread on the pizza dough in a large amount and it has very small pieces and little meat.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The quality of the food was acceptable, thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was great and very tasty. I reduced it by one star only because it had a lot of beans",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The smell of grilled fish was very strong",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I can say that it was very, very, very bad. It arrived completely cold and stale. Now, we could make spicy chicken, but the wings were inedible.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The food delivery was late and the food was cold",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was the worst food I have ever seen. It was inedible. After two hours of delay, the wrong food was sent and it was of very low quality.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Although it had a good taste, it was very loose and doughy.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Hello, don't worry, the pizza was delicious",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The food was light and tasty, and it arrived quickly, although I did not see any traces of the special sauce on it, in addition to the fact that the packaging was not of good quality.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "We have two days left to send, which is very little",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The sweets were of poor quality, I felt that I bought a blessing",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I am really satisfied with their handling and speed",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Be careful that all the sweets were damaged during the package transportation",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Chickens are fresh and delicious, nothing to do with fresh bread. My only criticism is that when I order two types of food, the presses must be separate. Two people on two separate floors in the office cannot eat together in the same dish. thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was very fresh and delicious. It arrived quickly and on time. Lotka sweets were really delicious, thank you.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Hello; This is the second time that the courier calls from the alley and says to pick it up or does not come up the two-story stairs. I don't know if I didn't understand the meaning of the courier at the door or what? Anyway, thank you for specifying the selection, let's see what the law really is... considering that it is not free and you will pay for the courier!",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I always shopped at Sweet Bliss and was satisfied, but this time it was not fresh and the sweets were frozen",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Overall, the pizza was not bad, but the amount of chicken on the pizza is too small.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Fresh, excellent, my packaging was good, fast delivery, the apple bread and cottage cheese were excellent, the pizza bread and cheese were also good.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The omelette was very cold",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "After being delayed twice, the food arrived cold and cold, and it said that the food was delivered to the courier in about 30 minutes, and there was no name or number of the courier... 12:15 after more than an hour and a quarter of placing the order?",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The cake is very small and I ordered two, but it is exactly like the picture",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Delicious sweets, polite courier.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The quality is average, but the courier's handling was very good and respectful, thank you for the courier",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Very tasty and tasty. The packaging and delivery speed are also excellent. Thank you to Islamic restaurant and Snapbox. Thank you very much to Snapfood",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "At the same time, the delivery time was fast, and the same products that are ordered are sent without shortages",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was so cold that it could not be eaten, it was already frozen",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Unfortunately, the grilled pizza was not good at all when I had bought it before. It was better. I had a guest. It was with barberry and sliced ​​almonds in the photo, but the sending of the pizza was simple, which made me very sad. My finger sausage was better before. We regret it. I bought it. Please take care, as far as I remember, simple tea was cheaper in my menu before, but now I didn't see it in my menu at all, and I had paid for tea with crimson, not simple tea.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Please use local couriers, it's better... The courier that came said you gave the wrong address! I said read the address from the mobile phone and it reads the address wrong...!",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "No matter how good the food is, what's the point of it arriving late and cold... this is the second time... what's the reason!? It will only make your customers jump",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The chicken was dry and undercooked, and the rice had an extra smell and taste. Wash the rice more",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The number of potatoes was really few and it can be said that they could be counted, the chicken was not cooked well and had no special taste, it just arrived hot.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Excellent and arrived on time, earlier than the supermarket on our street",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "There was nothing special that I wanted to suggest, it was ordinary",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Hello, Snapp Courier is very polite and respectful. The quality of the stuffing was not very satisfactory and the soup that was sent had a bad taste and seemed to be a mixture of leftover food that could not be eaten. Food packaging is also very bad, using the lowest quality plastic containers for hot food is very harmful for health, please correct it and use better containers. With good luck",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "If it was possible, I would definitely return the food, it was really poor quality",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The food, which is delivered cold after an hour, also for the sweets, they called ten times that they have this and they don't have that, I was completely confused and it arrived very late.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "You will love potatoes with mushroom sauce",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Good courier and food",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "We had ordered the same pizza before and it was very tasty and good, but this time the ingredients were raw and the cheese was white and almost uncooked, and the color of the potato had not changed at all. And it looks like it was poured on the potato, in my opinion, a little cheese should be poured on top of it so that the ingredients stick together a little and it will be better.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The sauce is really good for pizza",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The food was inedible",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "None of the chocolates seen in the photo were available in the box, they were not worth this price at all. There was only 1 chocolate in the box.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Everything was really good, from the taste and material of the pasta to the speed of delivery. thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was very, very bad and the smell of leftover and burnt sandwich fillet was really bad",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was the worst food I ate. Extremely greasy and tasteless. The size of a knuckle of oil was collected. It was really unlikely from your restaurant.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Please, according to the order and the type of food, the number of sauces should be appropriate for these two orders, as one pizza definitely needs four sauces, for this order, he left only two red and two white sauces, which was too little compared to the orders.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was just relatively expensive",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I had specified that the food should not be spicy and it was followed, the potatoes were crispy and the quantity and quality of the food was good. Excellent delivery.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The volume of soup-n-bet was halved compared to previous orders!",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was great, Rihon here, Rihon there, Rihon everywhere, sir, I am satisfied, thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Usually, they put a piece of sugar and chocolate and a spoon along with the coffee, but unfortunately, only the coffee was empty",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was so bad, I threw it all away",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The taste of the food was not good at all. I used to be a customer of this restaurant, but the taste of the food has changed a lot",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was spicy! be careful",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was very expensive considering the type of food",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Everything we bought was the same and it was very good. The behavior of the courier was also good. Overall, it was a good purchase.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I am not satisfied at all, the picture was something else",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The food was good, it arrived in less than the specified time, thanks bud",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The food was delivered cold, and the quality of the Moozozban sandwich was low and bad, and the sandwich had an unpleasant smell that could not be eaten at all.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Bad things:: Few sauces in the pizza dish, the pizza was crushed inside the box. Good things:: But the quality of the pizza was good.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "A complaint was registered by mistake and could not be changed",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "For some unknown reason, after I placed the order and confirmed it, and finally reached the payment stage, two tomans appeared in the payment stage. I looked and it said tax!! Since when do you calculate extra tax in Zodfood? But apart from this dish (garlic bread) it was good, I liked it, the beautiful boxes were part of my motivation to order from here - it was very big and filling (compared to the size expected from an appetizer) - I ate it as a meal ). It was cold, but the weather was cold, so I don't see this as a problem.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Greetings and thanks to the dear Snap Foodies and Jourkis, we saw the pictures of the breakfasts and ordered and were waiting to see what we got. They handed us some white paper envelopes, the lustful smell of which really increased our appetite. The quality components of each of the breakfasts arrived hot, very neat and without collapsing in aluminum containers, and the drinks were also well packaged. The amount of breakfast was very good - I had read so much in the comments that the amount was small, I was worried! Everything tasted great. And the mojito was natural and extremely delicious. I suggest that you definitely order.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The quality of the Turkish kebab was average. But the pizza dough had an inappropriate taste and was not cooked properly. The peculiarity of pepperoni is that it is slightly spicy, which was not felt at all in pizza. The accompanying sauces were bland and watery. The potatoes were of very poor quality, burnt or green.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I ordered 3 pieces of normal, but spicy was not sent to me, I could not eat, I threw away all the food",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Hello and don't be tired, the quality of your food was good, but if you pay attention to the other comments, the food that reaches the customer is cold. If you advise on this weakness, it will be very good, thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Your weakness is that you get so much courier money, but your courier doesn't come up and deliver it to your door, like a horn, and it stops at the bottom",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was the second time that Mexican pizza was delivered without salad, and unfortunately, this courier of this restaurant; He refused to bring salad",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I received the order very cold... and even worse was the low quality of the bread, which was clearly not fresh!!! After giving Bergerland a score (5 stars) every time... I finally got my reward.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "I received my order and I had paid the amount online. The courier of the restaurant did not accept the payment. He found out after contacting the restaurant. Please pay attention to how the orders were paid.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "You sent Nani's chocolate by mistake, this simple model of Nani sent is a thousand tomans cheaper than the term.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The meat of the burger was very hard and awful!!!",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was delivered on time but Bertoli's pizza lacked taste and original ingredients, only ham and cheese",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The quality of the salad has decreased a lot compared to before, and one third of the lettuce in my salad was frozen, and the broccoli on the salad was not steamed at all like before, it was raw and somewhat yellow, and the taste of the black olives on the salad tasted like metal. I was not satisfied at all.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The chicken thigh was not cooked and the soup was not included with the meal as stated in the coupon.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Both the pastry and the croissant were fresh and delicious, thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Hello, sorry, the pistachios were 50 grams short.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Thank you for your efforts, but the taste of the food was very bitter and bad, it was not edible at all.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was really very, very bad. In fact, the pasta dish was hard and tasteless. The chicken pieces were very small. In fact, there was no sauce at all, even though I told them to beat it too much, because it was packed so badly and the sauce was so loose and watery that it all spilled out. The first top packet was just the bottom of the container.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The quality of the food was really not good",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It's good, only pistachios are missing",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It arrived very late. The pizza was completely cold, the support of Snap Food was not good at all, they just respectfully said that we will follow up, but after a 90-minute delay, the food finally arrived.",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It arrived very quickly. I am satisfied. Thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The courier's behavior was too disrespectful and shameless. Even though there is only 6 steps from the door to the entrance of the company, they were standing at the door in the street and did not even enter the company's yard. After we said that you have to come to the door of the unit, saying in an ugly tone, should I turn off my engine light because you can't come to the door? You do not justify your picato? I am ready not to eat delicious food, but to be treated with respect. I am really sorry for your behavior. But the sandwich was delicious and it doesn't matter anymore.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Thank you for your service.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Please make the product search option like an application, it is really difficult to choose a product",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Add tomatoes and that's it!!!!!",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It was very fresh, thank you",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Excellent quality",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Unusable dried leftover sweets",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "Hello, don't worry, I wanted to thank you for your excellent food, it tasted great, the food was hot, and you sent the food on time.",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "There was a lot of mushrooms left, it was bad overall",
+    "output": 1
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "It only took a while, their food is always delicious",
+    "output": 0
+  },
+  {
+    "instruction": "Next, you will be shown a sentence. If the sentence was a positive comment, write the number 0 and if the comment was negative, write the number 1 in the answer.",
+    "input": "The garlic bread was good. The potatoes were great. Only the fried chicken was undercooked and a bit raw",
+    "output": 0
+  }
+]

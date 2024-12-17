@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اون مرده ، دكتر مراقبش فكر ميكنه مرگش به خاطر انسداد لوله هاي تنفسيش بوده",
+        "output": "he crashed. the attending thinks it was a pulmonary embolism."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "گذاشتن یک زندانی در یک اسکنر ام آر آی به اندازه کافی برای یک عصب شناس راحت است.",
+        "output": "It's easy enough for a neuroscientist to place a high-security inmate in an MRI scanner."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "Updated at ۱۹:۵۰ GMT",
+        "output": "Updated at 19:50 GMT"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "که دخترها اجرای تصمیمی را که چند لحظه‌ی قبل در اتاق خودشان گرفته بودند، بسیار مشکل یافتند.",
+        "output": "and anxiety that the girls found it very hard to keep their resolution."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و بعد؟",
+        "output": "and?"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و هنگامی که اردو کوچ می‌کند هارون وپسرانش داخل شده، پوشش حجاب را پایین بیاورند، و تابوت شهادت را به آن بپوشانند.",
+        "output": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "تا جووني بگير . در ضمن بهتره به لبات ماتيک بزني . تو که دلت نميخواد پيش آزگود بد جلوه کني .",
+        "output": "get it while youre young . fix your lips if you wanna look nice for osgood ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "خب ، تا دوشنبه به پول احتياج داري ، درست .",
+        "output": "well , if you need that kind of money by monday ."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "کوتوله قرمز چگونه کار می کند؟",
+        "output": "How does red dwarf work?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و مانند جزمیمون گمان می‌کردند شدت عشق‌شان چندان است که هیچ یک از عاشق و معشوق‌ها در جهان به گردشان نمی‌رسند،",
+        "output": "and dogmatically believing that they loved to a degree never attained by lovers before."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "ما بطور معنی داری هزینه سرمایه گذاری کمتری در تجهیزات کارخانه مان داریم. ما بطور قابل توجهی هزینه سرمایه گذاری کمتری در تجهیزات کارخانه مان داریم.",
+        "output": "We have significantly lower capital costs in our plant equipment."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "فکر می ‌ کنم که حق با اوست. اهمیت این قضیه به این خاطر است که رفتار جنسی تکامل یافته ما با خیلی از جنبه ‌ های دنیای مدرن در تضاد است.",
+        "output": "I think that's true. This matters because our evolved sexuality is in direct conflict with many aspects of the modern world."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "و خب دانشمندان در آن زمان راستش در خفا این پیشامد را به فال نیک گرفتند ، چون راست را بخواهید — جسم مردها نسبتا یکدست است.",
+        "output": "And so the scientists at this time actually thought this was a blessing in disguise, because let's face it — men's bodies are pretty homogeneous."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "و به نوعی می خواست شما را به خنده در آورد پس مشکلی که به او معرفی کردیم این بود:",
+        "output": "So the problem we introduced to him was this: he's just moved house."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "و گویند: «سپاس خدایى را که وعده‌اش را بر ما راست گردانید و سرزمین [بهشت‌] را به ما میراث داد، از هر جاى آن باغ [پهناور] که بخواهیم جاى مى‌گزینیم.» چه نیک است پاداش عمل‌کنندگان.",
+        "output": "They will say: \"All praise be to God Who has fulfilled the promise He had made to us, and bequeathed to us this land for dwelling in the garden wheresoever we like.\" How excellent the recompense for those who act!"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "تاریخ در حال آفرینش است.",
+        "output": "HISTORY IN THE MAKING."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "و گروهى از متأخران.",
+        "output": "And a crowd of the later."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "باید به یکی بگم ، باید به کانگرو بگم .",
+        "output": "i could tell anyone and its to the kangaroo ."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "واسیران و غارت و غنیمت را نزد موسی و العازارکاهن و جماعت بنی‌اسرائیل در لشکرگاه درعربات موآب، که نزد اردن در مقابل اریحاست، آوردند.",
+        "output": "And they warred against the Midianites, as the LORD commanded Moses; and they slew all the males."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "پس متوجه باشید تا جمیع این فرایض و احکامی را که من امروز پیش شمامی گذارم، به عمل آورید.",
+        "output": "Behold, I set before you this day a blessing and a curse;"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و نوح بعد از طوفان، سیصد و پنجاه سال زندگانی کرد.پس جمله ایام نوح نهصد وپنجاه سال بود که مرد.",
+        "output": "And Noah lived after the flood three hundred and fifty years."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "ما می خواستیم آن خانه را از نو بسازیم ، اما هشت ماه بعد از این که اسباب کشی کردیم ، من دچار حمله ای شبیه به سکته شدم ، که در اثر مشکلی که زمان تولد به آن دچار شدم ، اتفاق افتاد.",
+        "output": "We were looking forward to rebuilding it, but eight months after we moved in, I suffered a stroke-like attack caused by a birth defect."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اما این‌که آیا وبلاگ نویسی او به خشونت‌های مذهبی و نفرت‌پراکنی دامن زده است هنوز اثبات نشده است.",
+        "output": "But whether his blogging has anything to do with inciting religious violence and hatred is yet to be proven."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "سوگند به آسمان بارش‌انگیز،",
+        "output": "So I call to witness the rain-producing sky,"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "کریس اندرسون: بسیار خوب ، بنابر این شما مالیات هر هزینه ای را بر کربن را پشتیبانی نمیکنید. کریس اندرسون: بسیار خوب ، بنابر این شما مالیات هر هزینه ای را بر کربن را پشتیبانی نمیکنید.",
+        "output": "CA: All right, so you don't support a carbon tax of any kind or a price on carbon."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "در ۱۲ سال نخست پس از حمله واشنگتن بر افغانستان، ارتش امریکا حد اقل هشت محفل عروسی را بمباران نموده‌اند.",
+        "output": "In the first 12 years since Washington led an invasion of the country, the U.S. military bombed at least eight wedding parties."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "تایپوگرافی: شناسایی Typeface: فونتی که لوگوی FIAT بر اساس آن است چیست؟",
+        "output": "Typography: Typeface Identification: What is the font that the FIAT logo is based off of?"
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "اى کسانى که ایمان آورده‌اید، چرا چیزى مى‌گویید که انجام نمى‌دهید؟",
+        "output": "O you who believe, why do you profess what you do not practise?"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و روسا به ایشان گفتند: «بگذارید که زنده بمانند.» پس برای تمامی جماعت هیزم شکنان و سقایان آب شدند، چنانکه روسا به ایشان گفته بودند.",
+        "output": "And the men took of their victuals, and asked not counsel at the mouth of the LORD."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "یوزف پیر و پیتر رو در رویشان شدند.",
+        "output": "when old Joseph and Peter faced them:"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اولين کاري که ميکنم اينه که ميايستم روي پاهام .",
+        "output": "this is the first thing: im standing up ."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "چرا ؟",
+        "output": "Why?"
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "براى آنان در زندگى دنیا عذابى است، و قطعا عذاب آخرت دشوارتر است، و براى ایشان در برابر خدا هیچ نگهدارنده‌اى نیست.",
+        "output": "For them is punishment in this world; and the punishment of the world to come is far more severe. They will have no one to save them from God."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "وقتی‌ که چرخه شروع شود، نابود کردن آن خیلی‌ سخت می‌شود.",
+        "output": "And once the cycle started, it has been hard to break."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "بسیار خوب، من هر دو طرف رو درک میکنم",
+        "output": "ok. i understand both sides"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "بعد خندید، خنده‌ای بی معنی، کوچک و دل انگیز.",
+        "output": "then she laughed, an absurd, charming little laugh,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "عراباوی (انگلیسی) گزارش می‌دهد که",
+        "output": "However in this update, he says that the strike was contained."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "منم با مامور فرانسيس موافقم",
+        "output": "i'm inclined to agree with agent francis."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "در حقیقت، جوانان ایرانی سعی می‌کنند تا جایی که امکان دارد، بهتر زندگی کنند، بنابراین به طریقی آنها بسیاری از قوانین را نقض می‌کنند، آنها مبارزه می‌کنند برای بدست آوردن امکاناتی که ممنوع هستند.",
+        "output": "On the other hand, Iranian youth has managed to live as best as it is possible, so somehow they break many laws, they have fought for their space against so many prohibitions."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "ما همگی ساکنین این دنیا هستیم.",
+        "output": "We are all inhabitants of this world."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "یک پروژه متن باز خوب در GitHub برای مبتدیان برای همکاری چیست؟",
+        "output": "What's a good open source project on GitHub for beginners to contribute to?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اتاق زیر شیروانی برای همین بود.",
+        "output": "So the room was an attic"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "يه احساس عجيب غريبي دارم ، انگار يک قدرت شيطاني داره منو كنترل ميكنه .",
+        "output": "i just got a weird feeling something bad is heading my way ."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "ویدئو: این دزد دریایی اولیه. اسمش ایوانه.",
+        "output": "Rebecca Saxe (Video): This is the first pirate. His name is Ivan."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "منظورم این است ، این یکی از نگرانی ‌ های بیشتر افرادی است که تازه شروع به کار می کنند ، که نگران سوء استفاده دیگران از کار آنها هستند ، ‌ درسته ؟",
+        "output": "I mean, that's one of the worries I think most people who start out have, is that they worry about somebody taking advantage of their work, right?"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "مثلاً ، هر کدوم از این ناحیه ها دقیقاً چی کار می کنند ؟",
+        "output": "So for example, what does each of these regions do exactly?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "سوهان را انداخت و دست‌هایش را بی اراده به طرفین پرت کرد.",
+        "output": "He dropped the file and flung out both hands blindly,"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "بیادآور که یهوه خدایت در راه با مریم چه کرد، وقتی که شما از مصر بیرون آمدید.",
+        "output": "And if the latter husband hate her, and write her a bill of divorcement, and giveth it in her hand, and sendeth her out of his house; or if the latter husband die, which took her to be his wife;"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "هنگام سحر طاقتش تمام می‌شد و دلش می‌خواست با اولین گدایی که در خیابان جلویش سبز می‌شد،",
+        "output": "that by dawn she could not bear the desire to go to bed with the first beggar she met on the street,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "در بلاگ گی روفین می‌خوانیم (انگلیسی) که کشور کوبا در حال تصویب قانونی است تا زوج‌های همجنس گرا به توانند با یکدیگر به صورت قانونی ازدواج کنند و بچه به فرزندی قبول کنند.",
+        "output": "Following Fidel Castro’s...Cuban revolution, LGBT people were persecuted and imprisoned. Now the Communist Party is set to bring forward a law which would legalise same-sex unions, grant adoption rights to same-sex couples and give lesbians access to reproduction services."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "آسودگي .",
+        "output": "comfort ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "گاهی هم از آقای ییتس دلبری می‌کرد، خودش را سرحال نشان می‌داد و فقط با او حرف می‌زد و به مسخره کردن بازی بقیه مشغول می‌شد.",
+        "output": "or allowing the attentions of Mr. Yates, was talking with forced gaiety to him alone, and ridiculing the acting of the others."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و تابوت شهادت و عصاهایش و کرسی رحمت.",
+        "output": "Thus was all the work of the tabernacle of the tent of the congregation finished: and the children of Israel did according to all that the LORD commanded Moses, so did they."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و ذریت تو مانند غبار زمین خواهند شد، و به مغرب ومشرق و شمال و جنوب منتشر خواهی شد، و ازتو و از نسل تو جمیع قبایل زمین برکت خواهندیافت.",
+        "output": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و همه پولهايه جمع شده .",
+        "output": "and the savings too , huh ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "رفتنشان به چمنزار منسفیلد باعث شد که روز بعد هم به فکر جایی جز همان جا نیفتند.",
+        "output": "and the having been to Mansfield Common disposed them all for going somewhere else the day after."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "حکم شفقت بر اساس اعترافی بوده که به گفته وکلای او پلیس بعد از ۹ روز شکنجه از او گرفته است.",
+        "output": "Shafqat's sentence was based off a confession that his lawyers say the police got after nine days of torture."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "برای دکترش قضیه رو تعریف کرد ، و دکترش یه گزارش از این موضوع در ژورنال دارویی کانادا تحت عنوان « همخوابی به عنوان یک درمان بالقوه برای سکسکه ‌ های غیرقابل کنترل » چاپ کرد. در ژورنال دارویی کانادا تحت عنوان « همخوابی به عنوان یک درمان بالقوه برای سکسکه ‌ های غیرقابل کنترل » چاپ کرد.",
+        "output": "He told his doctor, who published a case report in a Canadian medical journal under the title, \"Sexual Intercourse as a Potential Treatment for Intractable Hiccups.\""
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "پس لابان به یعقوب دررسید و یعقوب خیمه خود رادر جبل زده بود، و لابان با برادران خود نیز درجبل جلعاد فرود آمدند.",
+        "output": "And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "حال که تو را به من بازگردانده است، چگونه می‌توانم به او شک آورم؟",
+        "output": "how can I ever doubt Him any more, now that He has given you back to me?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "این حرکات از آن‌جا آغاز شد که اسلام‌گرایان ادعا کرده بودند بلاگرهایی که جنبش در حال گسترش شهبگ را حمایت می‌کنند (جنبشی که خواستار اشد مجازات برای جنایتکاران جنگی این کشور که برخی از آنان رهبران رده بالای بزرگترین حزب سیاسی اسلامی کشور به نام جماعت اسلامی هستند) بی‌خدا و ضد اسلام هستند و به پرورش عناصر ضد اجتماعی می‌پردازند.",
+        "output": "This development comes after Islamists had claimed that bloggers who support the ongoing Shahbag movement - which demands capital punishment for the country's war criminals, some of which are high-ranking leaders of the country's largest Islamist political party Jamaat-e-Islami - are atheist and anti-Islamic, and foster anti-social elements."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و ابراهیم آن موضع را «یهوه یری» نامید، چنانکه تا امروز گفته می‌شود: «در کوه، یهوه، دیده خواهد شد.»",
+        "output": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "چرا ۱۳۰۰۰۰ سرباز آنجا ‍ ‍ پیاده کرده ‌ ایم ؟",
+        "output": "Why have we got 130,000 troops on the ground?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "ما ميتونيم به اونها با آتش توپ کشتيها حمله کنيم .",
+        "output": "we can attack them with fire ships ."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "و کسانى‌اند که چون به آیات پروردگارشان تذکر داده شوند، کر و کور روى آن نمى‌افتند.",
+        "output": "Who, when reminded of their Lord's revelations, do not fall for them like the deaf and blind;"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و سبب بوجود آمدن طوفان در آن طرف دنيا ميشه .",
+        "output": "and causes a hurricane on the other side of the world ."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "چون محل آرمیدن را دید که پسندیده است، و زمین را دلگشا یافت، پس گردن خویش را برای بار خم کرد، و بنده خراج گردید.",
+        "output": "Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "پس جای مناسبی برای شروع است.",
+        "output": "So that would be a good place to start."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": ". آره ، تيکشو بزن ! قطعا يه بيمه ميخوام",
+        "output": "yeah, check it. definitely gonna want some of that!"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "حد همسایه خود را که پیشینیان گذاشته‌اند، در ملک تو که به‌دست تو خواهد آمد، در زمینی که یهوه خدایت برای تصرفش به تومی دهد، منتقل مساز.",
+        "output": "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "هر روز به چشم کودکی که من بودم ، می دیدم که هزاران مرد از تپه پایین می آمدند تا در بارانداز کار کنند.",
+        "output": "Every morning as a child, I'd watch thousands of men walk down that hill to work in the shipyard."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "خدا به ابراهیم گفت: «درباره پسر خود و کنیزت، بنظرت سخت نیاید، بلکه هر‌آنچه ساره به تو گفته است، سخن او رابشنو، زیرا که ذریت تو از اسحاق خوانده خواهدشد.",
+        "output": "And the thing was very grievous in Abraham's sight because of his son."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "حنیف کاشانی گزارش می‌دهد:",
+        "output": "Hanif Z.Kashani reported:"
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "مى‌خواهند که از آتش بیرون آیند، در حالى که از آن بیرون آمدنى نیستند، و براى آنان عذابى پایدار خواهد بود.",
+        "output": "They would like to escape from the Fire, but will never succeed, and their suffering will be constant"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "این برنامه زیاد توجه مارتین را جلب نکرد تا آنکه فهمید روت هم دوچرخه دارد و می‌خواهد به گردش برود.",
+        "output": "which did not interest Martin until he learned that Ruth, too, rode a wheel and was going along."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "باب بیگلو در حال حاضر یک ماده آزمایشی در فضا دارد",
+        "output": "Bob Bigelow currently has a test article in the orbit."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "اى کسانى که ایمان آورده‌اید، قطعا باید غلام و کنیزهاى شما و کسانى از شما که به [سن‌] بلوغ نرسیده‌اند سه بار در شبانه روز از شما کسب اجازه کنند: پیش از نماز بامداد، و نیمروز که جامه‌هاى خود را بیرون مى‌آورید، و پس از نماز شامگاهان. [این،] سه هنگام برهنگى شماست، نه بر شما و نه بر آنان گناهى نیست که غیر از این [سه هنگام‌] گرد یکدیگر بچرخید [و با هم معاشرت نمایید]. خداوند آیات [خود] را این گونه براى شما بیان مى‌کند، و خدا داناى سنجیده‌کار است.",
+        "output": "O you who believe, let your dependants and those who have not yet reached the age of puberty, ask permission (to enter your presence) on three occasions: Before the early morning prayer; when you disrobe for the mid-day siesta; and after prayer at night. These are the three occasions of dishabille for you. There is no harm if you or they visit one another at other times (without permission). God thus explains things to you clearly, for God is all-knowing and all-wise."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "ولی نگذاشت تا انگشتانش در انگشتان او حلقه شوند،",
+        "output": "But he did not allow their fingers to intertwine;"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "پس بنفش دعوا کردن است ، و قرمز بخشیدن پول است ، و سبز احتکار کردن است. و اولین چیزی که میبینید این است که شروع کنید به داشتن یک ارتباط متفاوت با اعداد.",
+        "output": "So purple is \"\" fighting, \"\" and red is \"\" giving money away, \"\" and green is \"\" profiteering. \"\" And what you can see straight away is you start to have a different relationship to the numbers."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "، میدونم مدتی هست که اون رو داری ...ولی چرا تو",
+        "output": "i know you had that for a while, but why do you..."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "واز اردن عبور کرده، به اریحا رسیدید، و مردان اریحا یعنی اموریان و فرزیان و کنعانیان و حتیان و جرجاشیان و حویان و یبوسیان با شما جنگ کردند، و ایشان را به‌دست شما تسلیم نمودم.",
+        "output": "And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "غریبی رااذیت مرسانید. و بر او ظلم مکنید، زیرا که درزمین مصر غریب بودید.",
+        "output": "Thou shalt not suffer a witch to live."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "اینانند پسران اسماعیل، و این است نامهای ایشان در بلدان وحله های ایشان، دوازده امیر، حسب قبایل ایشان.",
+        "output": "And Mishma, and Dumah, and Massa,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و برخاست و پر پر زنان رفت؛ همچون پرنده‌ای که لحظه‌ای بر شاخه‌ای می‌ساید و بر می‌خیزد و پر پر زنان می‌رود.",
+        "output": "and rose and fluttered away, as a bird touches a branch and rises and flutters away."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "وقت من تمومه، جان.‏",
+        "output": "my time is over, john."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و آنچه داشت به‌دست یوسف واگذاشت، و از آنچه با وی بود، خبر نداشت جز نانی که می‌خورد. و یوسف خوش اندام و نیک منظر بود.",
+        "output": "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "کسانى که ایمان آورده و هجرت کرده‌اند و در راه خدا با مال و جان خود جهاد نموده‌اند و کسانى که [مهاجران را] پناه داده‌اند و یارى کرده‌اند، آنان یاران یکدیگرند؛ و کسانى که ایمان آورده‌اند ولى مهاجرت نکرده‌اند هیچ گونه خویشاوندى [دینى‌] با شما ندارند مگر آنکه [در راه خدا] هجرت کنند؛ و اگر در [کار] دین از شما یارى جویند، یارى آنان بر شما [واجب‌] است، مگر بر علیه گروهى باشد که میان شما و میان آنان پیمانى [منعقد شده‌] است، و خدا به آنچه انجام مى‌دهید بیناست.",
+        "output": "Those who accepted the faith and set out of their homes, and fought in the way of God wealth and soul, and those who gave them shelter and helped them, are friends of one another. You are not responsible for protecting those who embraced the faith but did not leave their homes, until they do so. In ease they ask for your help in the name of faith, you are duty bound to help them, except against a people with whom you have a treaty; for God sees all that you do."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و از سبطبنی نفتالی رئیس فدهئیل بن عمیهود.»اینانندکه خداوند مامور فرمود که ملک را در زمین کنعان برای بنی‌اسرائیل تقسیم نمایند.",
+        "output": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "و بگو: «[هر کارى مى‌خواهید] بکنید، که به زودى خدا و پیامبر او و مؤمنان در کردار شما خواهند نگریست، و به زودى به سوى داناى نهان و آشکار بازگردانیده مى‌شوید؛ پس ما را به آنچه انجام مى‌دادید آگاه خواهد کرد.»",
+        "output": "Say to them: \"Act. God will see your conduct, and so will His Apostle and the faithful; for you will in the end go back to Him, who knows the unknown and the known, who will tell you of what you were doing.\""
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "آنها را جز به حق نیافریده‌ایم، لیکن بیشترشان نمى‌دانند.",
+        "output": "We created them with definite purpose; but most of them do not understand."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "با ممنوعیت رمزگذاری به نفع نظارت جمعی و هک گروهی ، قطعاً ستاد ارتباطات دولت و آژانس امنیت ملی می ‌ توانند جاسوسی شما را بکنند.",
+        "output": "By banning encryption in favor of mass surveillance and mass hacking, sure, GCHQ and the NSA can spy on you."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "شما ابزارهاي جديدی براي انسانها در دنياي درر حال توسعه داريد.",
+        "output": "You get new tools for people in the developing world."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اوه ، لريمرده .",
+        "output": "oh , larry , is it ."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "بنابراین ، در مورد این موضوع در وبلاگم نوشتم در پرتال تحلیل های کمی داده باز شهر نیویورک ، و وزارت حمل ونقل پاسخ داد ، و آنها گفتند ، تا زمانی که وزارت حمل ونقل هیچ گونه شکایتی درباره این مکان ، دریافت نکرده است ما نشانه گذاری مسیر را بررسی خواهیم کرد و هر گونه تغییرات مناسبی را اعمال میکنیم \"\" و من با خودم فکر کردم این یک پاسخ معمولی دولتی است ، باشه ، و زندگی من به حرکت ادامه داد.",
+        "output": "So I wrote about this on my blog, on I Quant NY, and the DOT responded, and they said, \"\" While the DOT has not received any complaints about this location, we will review the roadway markings and make any appropriate alterations. \"\" And I thought to myself, typical government response, all right, moved on with my life."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "گردباد دريائي .",
+        "output": "waterspout ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "تکنيک ما هنوز کامل نشده بود .",
+        "output": "our technique has not been quite perfected ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "نوعی خوشگلی دارد که توجه آدم را جلب می‌کند.",
+        "output": "a sort of beauty that grows on one."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "همه اینها طبیعی بود.",
+        "output": "It was all very normal."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "شايد تو باران بيرون می رفت.",
+        "output": "Maybe it's going to rain."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "چرا که خداوند کتاب [تورات‌] را به حق نازل کرده است، و کسانى که در باره کتاب [خدا] با یکدیگر به اختلاف پرداختند، در ستیزه‌اى دور و درازند.",
+        "output": "That is because God has revealed the Book containing the truth; but those who are at variance about it have gone astray in their contrariness."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "چیزی که او گفت و چیزهایی که از دیگران یاد گرفتم این بود که ما انتخاب و به اصطاح تصمیم برای مردن به وسیله خودکشی را ازهمان راهی که تصمیم به چه ماشینی راندن یا کجا برای شب شنبه رفتن ، نمیگیریم.",
+        "output": "What she said and what I've learned from others is that we do not make the so-called decision or choice to die by suicide in the same way that we choose what car to drive or where to go on a Saturday night."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و کم‌کم نگرانی حاصل از این تأخیر که یا در اثر طوفان،",
+        "output": "and anxious fears of delay in the storm,"
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "به هر چه مى‌وزید آن را چون خاکستر استخوان مرده مى‌گردانید.",
+        "output": "Which turned everything it touched to ashes."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "چرا Ned Stark مردان بیشتری را به برج جوی نیاورد؟",
+        "output": "Why didn't Ned Stark bring more men to the Tower of Joy?"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "اما لاویان خدمت خیمه اجتماع را بکنند و متحمل گناه ایشان بشوند، این در قرنهای شما فریضه‌ای ابدی خواهد بود، و ایشان در میان بنی‌اسرائیل ملک نخواهندیافت.",
+        "output": "And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و خدا به وی گفت: «نام تو یعقوب است اما بعد از این نام تویعقوب خوانده نشود، بلکه نام تو اسرائیل خواهدبود.» پس او را اسرائیل نام نهاد.",
+        "output": "But Deborah Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allon-bachuth."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "چگونه می توان نامه عملکرد متقابل برای نیروی هوایی LOR را نوست؟",
+        "output": "How do you write an Air Force LOR rebuttal letter?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "سيستم مبصر .",
+        "output": "monitor system ."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "و به یقین، انسان را از عصاره‌اى از گل آفریدیم.",
+        "output": "We created man from the finest extract of clay,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "عشق به شخص دیگر و اهمیت ندادن به کرافرد نوعی مصونیت به فانی می‌داد و باعث می‌شد کرافرد نتواند آرامش فکری او را به هم بزند،",
+        "output": "With all the security which love of another and disesteem of him could give to the peace of mind he was attacking, his continued attentions continued,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "من، که تن در دادن به سرنوشت فقیرانه را موعظه می‌کردم،",
+        "output": "I, who preached contentment with a humble lot,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اما حالت قیافه‌اش نمودار محتاط بودن او بود،",
+        "output": "but her expression was more reserved,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "محل سکونت آقای الیور ثروتمند و دخترش، دیده می‌شد.",
+        "output": "Mr. Oliver and his daughter lived."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "کافیه",
+        "output": "that's enough"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "خوب ، نسبت کمر به مفصل ران درک از فاصله را پیش بینی کرد.",
+        "output": "Well, waist-to-hip ratio predicted perceptions of distance."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "تو خيابون ، سوارت ميکنم .",
+        "output": "i will pick you up , on that street ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و امیدوارم که مگ نیز همیشه به خاطر داشته باشد که بچه‌ها همیشه باید بچه باشند و زیاد هم لازم نیست که ادای آدم‌بزرگ‌ها را در بیاورند.",
+        "output": "and I hope Meg will remember that children should be children as long as they can.'"
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "آیا می توانم واتس اپ کسی را هک کنم؟",
+        "output": "Can I hack WhatsApp of someone?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "فقط از رفتن انصراف بديد",
+        "output": "just refuse to go."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و خداوند موسی را در عربات مواب نزداردن، در مقابل اریحا خطاب کرده، گفت:",
+        "output": "And they departed from Iim, and pitched in Dibon-gad."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اما چیزی خواسته بود و بیهوده به دنبالش رفته بود تا آنکه به روت برخورده بود.",
+        "output": "but he had wanted something that he had hunted vainly for until he met Ruth."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "من که به خاطر ماریا نگران نیستم …",
+        "output": "and I am not at all afraid for her,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "مصر: خالد حمزه را آزاد کنید",
+        "output": "Egypt: Free Khaled Hamza · Global Voices"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "احساس می‌کرد خالی شده است، درونش به تمامی تخلیه شده است.",
+        "output": "feeling hollowed out, utterly empty within."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "آیا ارزش دارد که  هزینه دکترا را از جیب خود پرداخت کنم؟",
+        "output": "Is it worth it to pay for PhD from my pocket?"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "اون فرود بمب در شهر ناگاساکی رو دیده بود.",
+        "output": "He saw the bomb go off at Nagasaki."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "net، توضیح داد که چرا بسیاری از مرم شروع به دفاع از خانم لم کردند:",
+        "output": "Lau Kwai-bill, a writer at citizen media portal inmediahk.net, explained why so many people support Lam:"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "الان انسان ‌ ها چهار برابر زمان انشتین هستند.",
+        "output": "There are four times as many people alive today as Einstein."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "رابرت فراست: آیا فضانوردان برای شرایطی آموزش داده می شوند که ممکن مثل فیلم جاذبه به تنهایی در مخمصه گیر کرده باشند؟",
+        "output": "Robert Frost: Do they train astraunauts of what to do in situations where astraunauts may find themselve alone like in the movie Gravity?"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "(خنده ی حاضرین) همکاران من ، با افزایش گشتاور ایستایی یک دانشجو ، این محدودیت را امتحان کردند ، آن ها به او یک دم وصل کردند و او را مجبور کردند از میان یک سری موانع پیچ در پیچ عبور کند ، تا همان طور که حدس زده اید ، بفهمند تا چه حد از قدرت انجام مانور او کاهش پیدا می کند. (خنده ی حاضرین)",
+        "output": "(Laughter) My colleagues actually went on to test this limitation, by increasing the moment of inertia of a student, so they had a tail, and running them through and obstacle course, and found a decrement in performance, like you'd predict. (Laughter)"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "تا شما راتعلیم ندهند که موافق همه رجاساتی که ایشان باخدایان خود عمل می‌نمودند، عمل نمایید. و به یهوه، خدای خود، گناه کنید.",
+        "output": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "زوئي ، زوئي ، اوه ، زوئي .",
+        "output": "zo� zo� oh , zo� ."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "و امروز هرگز [پشیمانى‌] براى شما سود نمى‌بخشد، چون ستم کردید؛ در حقیقت، شما در عذاب، مشترک خواهید بود.",
+        "output": "But nothing will avail you on that day, for you were unjust, and you will be partners in the punishment."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "ببخشید ، کاپیتان .",
+        "output": "excuse me , captain ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اما، جین، این آرزوهای تو برای داشتن روابط خانوادگی و سعادت تملک یک خانه را از راه دیگری جز راهی که تو در نظر داری می‌توان برآورده کرد:",
+        "output": "But, Jane, your aspirations after family ties and domestic happiness may be realised otherwise than by the means you contemplate:"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و بر پایهای خود کفشهای مندرس و پینه زده و بر بدن خود رخت کهنه وتمامی نان توشه ایشان خشک و کفه زده بود.",
+        "output": "And all Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of the LORD, as well the stranger, as he that was born among them; half of them over against mount Gerizim, and half of them over against mount Ebal; as Moses the servant of the LORD had commanded before, that they should bless the people of Israel."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "به این روش عادت کرده بود فکری را که دربارة ی موضوعی در سر می‌پروراند مدتی کشت می‌داد تا رشد کند آنگاه می‌رفت سراغ ماشین تحریر،",
+        "output": "It was a habit he developed, of incubating and maturing his thought upon a subject, and of then rushing into the type writer with it."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "از آن‌ زمان، اسکانتلبری و عادل قیص، که در بغداد زندگی می‌کند، به طور منظم برای آموزش رقص با هم از طریق اسکایپ در تماس هستند.",
+        "output": "Since then, Scantlebury and Aadel Qies, who's based in Baghdad, have been connecting on Skype regularly for dance lessons."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "دو خود ما تعریف متفاوتی از خوشبختی ‌ دارند.",
+        "output": "Now, the two selves bring up two notions of happiness."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "من این نمایش را نمی‌شناسم، اما همان طور که ماریا گفته،",
+        "output": "I do not know the play; but, as Maria says,"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "بعضی از مردم قانون کلمه عبور راحتی داشتند ، که ما بهش ۸ ساده میگیم ، و در این قانون کلمه عبور شما باید حداقل هشت حرف داشته باشه.",
+        "output": "So some people had a pretty easy policy, we call it Basic8, and here the only rule was that your password had to have at least eight characters."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "در برابر هیأت امنا و در برابر مطبوعات حزبی یا مطبوعات هر دو حزب پیشانی بر خاک می‌ساییم",
+        "output": "and to the Board of Regents, and to the party press, or to the press of both parties.;"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": ". ولي بخاطر اون خودتو اذيت نکن",
+        "output": "but don't beat yourself up about it."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "البته هوا گرم بود اما هر جا گه پا می‌گذاشتند بالاخره گذرگاه‌های خنک و سایه‌دار هم پیدا می‌شد.",
+        "output": "and though the weather was hot, there were shady lanes wherever they wanted to go."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "اما فقط اگر مالاريا را بيرون كنيد ، مرگ ناشى از چيزهاى ديگه هم پايين مياد.",
+        "output": "But just if you take malaria out, deaths from everything else go down."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "مارتین با سر پاسخ داد و در همان حال متفکرانه به خواهرش می‌نگریست و او نیز تکه‌های دستنوشت مارتین را یکی‌یکی در آورده و مچاله کرد و توی جیب کتش گذاشت و این مدرک عینی موفقیتش در این مأموریت به شمار می‌رفت،",
+        "output": "He nodded his head, regarding her thoughtfully as she gathered the torn pieces of manuscript and tucked them into the pocket of her jacket ocular evidence of the success of her mission."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "...پیشرفتی که او در کسب مهارت نشان داده",
+        "output": "she has shown in the process of perfecting her skills through..."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "قطع کردن یک سیم شاید بی ‎ اثر باشد.",
+        "output": "Cutting one wire might do nothing."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": " معنی واقعیش این است که اگر مراقب رفتارت نباشی مجازات می‌شوی.\tThe underline meaning is that if you don't behave, I will punish you.\nچن وانیانگ (Chen Wanying) پروفسور دانشگاه HK می‌گوید:\tProfessor Chen Wanying at HK University commented :\nقانون برای ایجاد فضایی جهت مقابله با شایعات لازم است اما ما باید فضایی برای حرف زدن و کاوش مردم ایجاد کنیم وگرنه شرایط برای نوآوری و توسعه ملی مساعد نخواهد بود.\tLaw is needed to create an atmosphere to combat rumors, but we need to create a space for people to speak and explore, or it not conducive to innovation and national development.\nبوسیدن در خیابان‌های مصر\tKissing on Egyptian Streets · Global Voices\nعکس دو جوان مصری که در خیابان در حال بوسیدن یکدیگر هستند در فیسبوک دست به دست می‌چرخد و واکنش‌های خشمگینانه و ستایشگرانه را توامان به همراه داشته است.\tA photograph circulating on Facebook of two young Egyptians kissing in the street stirred both outrage and admiration.\nزمانی که احمد الگوهری این عکس را همخوان کرد، یکی از کامنت‌های زیر این عکس، بازنشر کنندگان آن را متهم به «نداشتن مردانگی» کرد.\tShared by Ahmed ElGohary, a commentator objected to 'the lack of manhood' entailed by sharing such photo.\nتعداد دیگر از کامنت‌ها زیبایی این عکس و حس انقلابی آن را ستایش کردند.\tOthers praised the beauty of it and its revolutionary sense.\nدو عاشق مصری در حال بوسیدن یکدیگر در خیابان، بازنشر شده توسط احمد الگوهری http: //tinyurl.\tTwo young lovers kiss on the street in Egypt, shared by Ahmed ElGohary http://tinyurl.com/l3rozz9\ncom/l۳rozz۹ ابراز علاقه در فضاهای عمومی در مصر پذیرفته شده نیست. این قضیه تا آنجا پیش می‌رود که ممکن است کسانی که آشکارا در خیابان الکل می‌نوشند و یا ابراز علاقه می‌کنند براساس قوانین مربوط به بر هم زدن زیبایی شهر مورد پیگرد قرار گیرند.\tPublic display of affection is widely frowned upon in Egypt, as laws of public indecency could be used to prosecute those who publicly show affection or drink alcohol on the streets.\nالگوهری متن آهنگ «در خیابان» یوسرا الهواری را در کنار این عکس بازنشر می‌کند.\tAlongside the photo, ElGohary shared lyrics of Youssra El Hawary's song On The Street.\nالهواری یکی از خوانندگان مستقل نسل جدید خوانندگان مصری است و آهنگ‌هایش در یوتیوب بیننده بسیار دارد.\tEl Hawary an upcoming independent singer and her songs proved a youtube success.\nدر متن این آهنگ می‌شنویم:\tOn The Street's lyrics read:\nبعضی آدم‌ها به یکدیگر در خیابان دشنام می‌دهند، یکدیگر را می‌کشند\tSome people curse each other, kill each other on the street,\nبعضی آدم‌ها در خیابان روی زمین می‌خوابند\tSome people sleep on the floor on the street,\nبعضی آدم‌ها غرورشان را در خیابان به فروش می‌گذارند اما رسوایی آن است که روزی ما همه چیز را فراموش کنیم و یکدیگر را در خیابان ببوسیم!\tSome people sell their honor on the street, But it would truly be a scandal if one day we forgot and kissed each other on the street!\nآیا این ویدئوها به معنی حضور ایرانیان در جنگ سوریه است؟\tDo These Videos Show Iranians Fighting in Syria's War? · Global Voices\nاین موضوع که ایران از رژیم سوریه حمایت می‌کند کاملا واضح است. اما از حضور مستقیم آن‌ها در این میانه مدارک چندانی در دست نیست.\tThat Iran supports the Syrian regime is well known, but there has been little evidence of direct involvement on the ground.\nحالا یک سری ویدئو که گروهی نظامی فارسی زبان را در حال فعالیت و همکاری با نیروهای دولتی در داخل سوریه نشان می‌دهد در اینترنت پخش شده است.\tNow a series of videos purporting to show Persian-speakers dressed in military uniforms, operating inside Syria and working with government forces have gone viral.\nمشخص است که شورشیان سوریه محل نیروهای وفادار به رئیس جمهور بشار اسد را به تصرف درآورده و در آنجا به ویدئوهایی که به نظر می‌رسد مربوط به مشاوران نظامی ایرانی است دست یافته‌اند.\tApparently, Syrian rebels overran troops loyal to President Bashar al-Assad and obtained video footage of what appears to be Iranian military advisers working with Syrians. The man in the video above can be heard speaking Persian, and asks someone for a phone number in Tehran.\nاگرچه اثبات این ادعا به صورت مستقل امکان‌پذیر نیست اما به گفته نیویورک تایمز این ویدئوها به شکل وسیعی در رسانه‌های بین‌المللی پخش شده‌اند.\tAccording to the New York Times, the videos have been widely shared in international media although it is difficult to independently verify their claims.\nبر اساس گزارش‌های رسیده از ایران، وبلاگ The Lede حدس زده که فیلم توسط یک مستندساز ایرانی که در سوریه به قتل رسید ضبط شده است.\tBased on reports from Iran, The Lede Blog speculates that the footage may have been recorded by an Iranian documentary filmmaker who was reportedly killed in Syria.\nایرانی‌ها در جاده\tIranians on the Road\nفیلم بعدی گفتگویی میان دو ایرانی داخل یک اتومبیل است که از نیاز به نیروهای متخصص برای هدایت و رهبری حرف می‌زنند.\tAnother filmed conversation between two Iranians in a car says they need specialized people to be able to guide and lead.\nراننده می‌گوید به سختی این منطقه را پاکسازی کردیم.",
+        "output": "The driver says that \"that were cleaned out with difficulty from this part.\""
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "باید صدها هزار نفر نابینا وجود داشته باشند که این توهمات را تجربه میکنند ، ولی میترسند که اشاره ای به آنها کنند.",
+        "output": "There must be hundreds of thousands of blind people who have these hallucinations, but are too scared to mention them."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "که مریض‌ها را با داروهای گیاهی معالجه می‌کرد و اکنون پیر شده بود، پس از ماجرای عاشقانه و مخفیانه‌ی قدیمی، محرم اسرار مادر آن بیمار شده بود.",
+        "output": "an old homeopathic practitioner who had been Transito Ariza' s confidant ever since her days as a secret mistress,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "سامی بن غریب از صداهای جهانی گزارش می‌دهد مقامات بحرینی کمپینی را علیه سایت‌های خبری سیاسی و هوادار حقوق بشر آغاز کرده‌اند. این سایت‌ها مانند مرکز حقوق بشر بحرین، بحرین آن لاین و وب سایت روزنامه السحیفا فیلتر شدند. تمامی این سایت‌ها از سیاست‌های دولت انتقاد می‌کردند.",
+        "output": "“Bahraini authorities launched a campaign against political and human rights websites, which criticize government policies”, The Bahrain Youth Society for Human Rights reported today, providing a list of the blocked websites: Bahrain center for Human Rights (BCHR), Bahrain Forums, National Edifice Forums, Al-Saheefa newspaper website, Modern Discussion Rezgar website, the sarcastic Bahrain Times website, the liberal Annaqed website, The Arabic Network for Human Rights Information (HRinfo), Al-Duraz Forums, Bahrain Online."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "من بهت گفتم که تنها کسی که فکر می کنه هواپیمای قرع اقیانوس تقلبیه من هستم،‏",
+        "output": "i tell you that i'm one of the only people in the world"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "واسه چي . دستور بناپارت کوچيکه س .",
+        "output": "what for orders from little bonaparte ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "بقيه آماده باشيد .",
+        "output": "everybody else , be on alert ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "یک لحظه‌ی بعد وقتی دختر یا مادرش او را آقای ایدن صدا کردند،",
+        "output": "the next moment, when she or her mother addressed him as ;Mr. Eden,;"
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "آیا با توجه به نحوه محاسبه امتیازات ، از لحاظ ریاضی آیا امتیازی وجود دارد که گرفتن آن غیر ممکن باشد؟",
+        "output": "Is there any final score that it is mathematically impossible to achieve in a single game of bowling given the way scores are calculated?"
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "به جان تو سوگند، که آنان در مستى خود سرگردان بودند.",
+        "output": "Verily by your life they were utterly confused in their (lustful) drunkenness."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "«برو و به فرعون پادشاه مصر بگو که بنی‌اسرائیل را از زمین خود رهایی دهد.»",
+        "output": "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the LORD."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "ما با بهترین لباسهامون هستیم.",
+        "output": "We are in our best suits."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "مي دونم احساستون درست مثل خودمه، درست نمي گم؟",
+        "output": "i know you feel the same way as me. am i wrong?"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "طعام خدای خود را خواه از آنچه قدس اقداس است و خواه از آنچه مقدس است، بخورد.",
+        "output": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "این رو میدونم چون روی آب بازیافتی با استفاده از هر روشی که در علم مدرن می ‌ شناسیم مطالعاتی برای مدت ۱۵ سال داشته ‌ ام.",
+        "output": "I know, I've been studying recycled water using every measurement technique known to modern science for the past 15 years."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "بمزايده گذاشتن .",
+        "output": "auction ."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "وبعد از آنکه خداوند نهر را زده بود، هفت روزسپری شد.",
+        "output": "And the magicians of Egypt did so with their enchantments: and Pharaoh's heart was hardened, neither did he hearken unto them; as the LORD had said."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "آنچه شگفتی روت را برانگیخت این بود که مارتین بلافاصله از پا در نیامد،",
+        "output": "To Ruth's amazement, Martin was not immediately crushed, a"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "چه کسي در اين جزيره کونگ فوي خوبي داره .",
+        "output": "so who beat up these two who has the best kungfu on the island ."
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "چگونه metaanalysis را هجی می کنید؟",
+        "output": "How do you spell “metaanalysis”?"
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "در حالى که [از خدا] مى‌ترسید،",
+        "output": "And is also fearful (of God),"
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "اى بندگان من، امروز بر شما بیمى نیست و غمگین نخواهید شد.",
+        "output": "O My creatures, there will be no fear or regret"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "ممکنه از ریل خارج بشید.",
+        "output": "You can be thrown off the track."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "فرگشت فرهنگی فرزند خطرناکی برای هر گونه ‌ ای است که در سیاره ‌ شان آزاد گذاشته شود.",
+        "output": "Cultural evolution is a dangerous child for any species to let loose on its planet."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "در این کشور اگر ما در انتخابات برنده بشیم ما تمام هزینه دولت را که چیزی بالغ بر 25.000 پوند است را شفاف و به صورت انلاین و قابل جستجو در معرض عموم قرار خواهیم داد",
+        "output": "In this country, if we win the election, we are going to make all government spending over 25,000 pounds transparent and available online, searchable for anyone to see."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": " [او را به دریا افکندند] و عنبرماهى او را بلعید در حالى که او نکوهشگر خویش بود!",
+        "output": "Then he was swallowed by a large fish as he was worthy of blame."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "۳) ازدواجش رمانتیک نبوده و شوهرش هیچ کلمه عاشقانه وجذابی بلد نیست (یا بهانه‌های بد دیگر که من را دیوانه می‌کند)",
+        "output": "3. Marriage isn't romantic!? He doesn't know how any words of love and flirtation :( Or other lame excuses which just make me mad."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "برای او مسلم بود که پیشنهاد من برای او شوم است یا چنین معامله‌ای به سودش نیست حق با او بود.",
+        "output": "she was right, if the offer appeared to her sinister or the exchange unprofitable."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و یرموت را با نواحی آن و عین جنیم را بانواحی آن، یعنی چهار شهر.",
+        "output": "And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "اون شبي كه پنجره رو به روي من بستي يادمه ؟",
+        "output": "you remember that night you closed that window on me?"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "شما به چانگهي نفوذ ميكنين",
+        "output": "you will infiltrate into chunghae,"
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و هارون لاویان را از جانب بنی‌اسرائیل به حضور خداوند هدیه بگذراند، تا خدمت خداوندرا بجا بیاورند.",
+        "output": "Take the Levites from among the children of Israel, and cleanse them."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "کیست که غبار یعقوب را تواند شمرد یا ربع اسرائیل را حساب نماید؟ کاش که من به وفات عادلان بمیرم و عاقبت من مثل عاقبت ایشان باشد.»",
+        "output": "And the LORD put a word in Balaam's mouth, and said, Return unto Balak, and thus thou shalt speak."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و همان طور که مردد مانده بود، هواپیما از فراز میدان لادگیت گذشت.",
+        "output": "he thought and while he hesitated out flew the aeroplane over Ludgate Circus."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "در شهر ملعون، و در صحرا ملعون خواهی بود.",
+        "output": "And all people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و قورح بن یصهار بن قهات بن لاوی وداتان و ابیرام پسران الیاب و اون بن فالت پسران روبین (کسان ) گرفته،",
+        "output": "And the LORD spake unto Moses, saying,"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "یه جواب خوب می تونه این باشه \"\" بستگی داره که چی باشه ؟ \"\" بعضی ها فقط در صورتی حاظرن بخورنش که گوشت خوک باشه ، نه گوشت گاو",
+        "output": "Well, a good answer is, \"\" It depends. What is it? \"\" Some of you would eat it if it's pork, but not beef."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": " [تا آنان را] تذکر [دهند]؛ و ما ستمکار نبوده‌ایم.",
+        "output": "To warn. For We are never unjust."
+    },
+    {
+        "instruction": "متن داده شده از کتاب مقدس را از فارسی به انگلیسی ترجمه کن",
+        "input": "و مردی که با زنی همبستر شود و آن زن کنیز و نامزد کسی باشد، امافدیه نداده شده، و نه آزادی به او بخشیده، ایشان را سیاست باید کرد، لیکن کشته نشوند زیرا که اوآزاد نبود.",
+        "output": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the LORD."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "ادموند که مادیان را برده و بر کل تسنن نظارت کرده بود درست سر موقع با اسب برگشت،",
+        "output": "Edmund, who had taken down the mare and presided at the whole, returned with it in excellent time,"
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "و کمتر کسی پیدا می‌شد که نخواهد دستی بر آتش داشته باشد یا هنرنمایی کند.",
+        "output": "and there were few who did not wish to have been a party concerned, or would have hesitated to try their skill."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": " [آنان‌] کسانى‌اند که کوشش‌شان در زندگى دنیا به هدر رفته و خود مى‌پندارند که کار خوب انجام مى‌دهند.",
+        "output": "Theirs whose effort is misspent in pursuit of the pleasures of the world, even though they think they are doing good things.\""
+    },
+    {
+        "instruction": "در این کار، به شما یک سوال فارسی نشان داده می شود و تو باید آن را به انگلیسی ترجمه کنی",
+        "input": "احمقانه ترین کاری که به عنوان یک بچه انجام دادید چیست؟",
+        "output": "What is the most foolish thing you did as a kid?"
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "ودر انتها مورد علاقه شخصی من اون نر که اونجاست 4 ساعت پس از آزادیش با یک ماده وحشی از جنس خودش یار شد.",
+        "output": "And on the bottom, my personal favorite, the little male over there, four hours after his release he was together with a wild female."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "حالا مردم سوریه به دو گروه و شاید هم بیشتر تقسیم شده‌اند.",
+        "output": "People now in Syria are divided in two groups – maybe more."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "بازوشان را در کمر یک‌دیگر انداخته بودند و قلب‌شان با احساس تازه‌ای از همراهی آکنده شده بود،",
+        "output": "their arms around each other's waists, their hearts swelling with a new sense of companionship."
+    },
+    {
+        "instruction": "در ادامه به شما یک متن از قرآن به فارسی نشان داده می شود. آن را به انگلیسی ترجمه کن.",
+        "input": "و اى گناهکاران، امروز [از بى‌گناهان‌] جدا شوید.",
+        "output": "(And the guilty will be told:) \"O sinners, separate yourselves this day."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "دنيا در دستان توئه وتو اينو ميدوني .",
+        "output": "worlds in your pocket and you know it ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "، من ميخوام يک خرده در خونه بمونم و با خودم باشم .",
+        "output": "i want to stay at home for a bit , and be by myself ."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "عربیست می‌گوید که انتشارات برکلی آغاز به چاپ نشریه جدیدی به نام حقوق بشر در کشورهای اسلامی کرده است",
+        "output": "Readers may be interested to know that Berkeley Press has just launched the Muslim World Journal of Human Rights, notes The Arabist from Egypt."
+    },
+    {
+        "instruction": "جمله فارسی داده شده را به انگلیسی ترجمه کن",
+        "input": "همین دیروز توی کلاس، ترانچ بول یک پسری به اسم جولیوس روت وینکل را که داشت سر درس جغرافی لواشک می‌خورد، یک دستی بلند کرد و از پنجره شوت کرد بیرون.",
+        "output": "Only yesterday the Trunchbull caught a boy called Julius Rottwinkle eating Liquorice Allsorts during the scripture lesson and she simply picked him up by one arm and flung him clear out of the open classroom window."
+    },
+    {
+        "instruction": "جمله فارسی زیر را به انگیسی ترجمه کن.",
+        "input": "پس این خیلی حیرت آور است.",
+        "output": "So this is very surprising."
+    }
+]

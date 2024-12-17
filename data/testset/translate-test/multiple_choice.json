@@ -1,0 +1,1002 @@
+[
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the following keys are functional keys? <sep> (A) Ctrl, Shift, Alt (B) F12 to F1 (C) Alt, Ctrl (D) Spacebar, back space, Enter",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "- The ratio of the age of Venus to Sosan is 1. Maryam's age is twice the age of Sosan and Venus is 15 years younger than Maryam. What is Susan's age? <sep> (A) 24 (B) 20 (C) 25 (D) None",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the twenty-seventh surah of the Holy Quran? <sep> (A) Surah Israa (B) Surah Toba (C) Surah Al-Waqeh (D) Surah Nahl",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The melodious song of rowing rowers ............... stirs the azure sea <sep> (A) Silence (B) Waves (C) Water (D) Turbulence",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the numerical value of a+b for 2 = a and 3 = b? <sep> (A) 2 (B) 3 (C) 4 (D) 5",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Mahmoud spent all his money in three stages in the following order. The first time half of his money plus 200 rials, the second time half of the rest plus 200 rials, and the third time the remaining half plus 200 rials, how many rials did Mahmoud have? <sep> (A) 2400 (B) 2800 (C) 3200 (D) 3600",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If we cover half of a 5x9 hall with black stones with an area of ​​0.45 square meters and the other half with white stones with an area of ​​1/3 of the black stones, how many white stones are needed? <sep> (A) 50 (B) 24 (C) 150 (D) 96",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The term \"culture industry\" was first mentioned by which person or institution? <sep> (A) Adorno and Huer Kaheimer in the book \"Dialectic of Enlightenment\" (B) Edward Said in the book \"Oriental Studies\" (C) André Malraux in the book \"Anti-memories\" (D) UNESCO organization",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What has the Qur'an called the conquest of Khyber? <sep> (A) Fatah al-Mubin (B) Fatah Ahzab (C) Bayat Rizwan (D) Fatah al-Qarib",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "40 to 5 is equal to ...... <sep> (A) 220 (B) 300 (C) 100 (D) 200",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What number can be written next? ...,0,2,6,8,24,26 <sep> (A) 78 (B) 52 (C) 30 (D) 28",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "It is responsible for connecting and disconnecting the water circuit from the engine to the radiator. <sep> (A) Radiator (B) Water pump (C) Propeller (D) Thermostat",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Why are auxiliary memories used in computers? <sep> (A) Permanent storage of information that does not require electricity. (B) Large amount of information to be stored (C) The price of auxiliary memories is lower than the main memories. (D) All items",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The approvals of the Expediency Council must be approved by ......... <sep> (A) President's Council of Experts (B) President (C) Guardian Council (D) Leadership",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In a class with 27 students, 18 study English, 15 study German, 12 study both English and the rest study French. How many people study French? <sep> (A) 6 (B) 9 (C) 3 (D) None",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Who is Mr. World Player of the World? <sep> (A) Cristiano Ronaldo (B) Maradona (C) Lionel Messi (D) Ali Daei",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How often does the radiator water need to be checked? <sep> (A) Every day (B) Once in three days (C) Once in a week (D) Once in a month",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Public thoughts are: ......................... <sep> (A) Thoughts of social groups about collective interests (B) Thoughts that It temporarily includes a part of the society. (C) Thoughts that the ruling groups instill in the society in various ways. (D) relatively stable public opinion on public and national issues",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is a quadrilateral with only two parallel sides called? <sep> (A) Square (B) Trapezoid (C) Rhombus (D) Rectangle",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Three people have volunteered to represent the school, the total votes of the first and second candidates are 230, the total votes of the second and third candidates are 280, and the total of the first and third votes are 250. If 5% of the students are absent on the voting day, that school How many students does he have? <sep> (A) 360 (B) 380 (C) 400 (D) 420",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Antonyms of appeal <sep> (A) punishment (B) doing (C) beginning (D) reward",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "When we quote something from someone, we write it between which symbols <sep> (A) ( ) (B) \"‌\" (C) {} (D) [ ]",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How many years did the Prophet (PBUH)'s secret invitation to Islam last? <sep> (A) 7 years (B) 3 years (C) 23 years (D) 6 years",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What was the architecture of the Sassanid era? <sep> (A) Hetra city (Al-Hadara) (B) Persepolis, Biston (C) Firuzabad and Bishapur ruins (D) Pasargad and Naqsh Rostam",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Some softwares use ........ to communicate easily with the user. <sep> (A) Telephone lines and technology (ISDN) (B) Beautiful and diverse colors (C) Graphical user interface (GUI) (D) Reasonable price and copyright",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If half of Nargis's money is equal to one third of Bahram's money, how much is Nargis's money? <sep> (A) three second (B) four third (C) two third (D) three fourth",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Antonyms of macro <sep> (A) thin (B) delicate (C) short (D) tiny",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Iran is the largest country in the world in terms of size? <sep> (A) the eighth (B) the thirteenth (C) the seventeenth (D) the nineteenth",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What are the opposites of the words in question? cloudy <sep> (A) bright (B) transparent (C) translucent (D) smooth",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The constitutional decree was issued during the time of which king? <sep> (A) Naseruddin Shah (B) Muzaffaruddin Shah (C) Mohammad Ali Shah (D) Ahmad Shah",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the following graphs is important for checking data changes? <sep> (A) broken line (B) columnar (C) circle (D) bar",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The remainder of dividing which of the following numbers by 13 is equal to 5? <sep> (A) 86 (B) 122 (C) 66 (D) 62",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In the equation 9+?+6000=6+6893, instead of the sign ? What number should be put? <sep> (A) 89 (B) 890 (C) 893 (D) 899",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is another name for \"Khorasani style\"? <sep> (A) Esfahani (B) Turkestan (C) Iraqi (D) Indian",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which option is the same family incorrect? <sep> (A) time, waqif, time (B) total, comprehensive, complex (C) consumption, expenses, spending (D) great, bowing, great",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The price of three watches is equal to the price of 2 cameras, if the price of 7 watches is 420 Tomans, the price of one\r\nHow much is the camera?\r <sep> (A) 60 (B) 90 (C) 120 (D) 180",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Opposite of rejection <sep> (A) attract (B) attract (C) bond (D) support",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The area of ​​square 8, p is equal to the area of ​​square Q. What is the ratio of the diameter of square p to the side of square Q? <sep> (A) 4 (B) 2 (C) 3 (D) 1",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What are the following bit arrays?\r\n\"The seal of that seal, Foroghi, should not be lost.\"\r    The sun will not shine more or less\"\n <sep> (A) Punishment, allusion, irony, good interpretation (B) Metaphor, simile, equation style, allowed (C) Total pun, metaphor, contrast, good interpretation (D) Total pun, analogy, equation style, metaphor",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The perimeter of the rectangle is 72 meters, if its width is 11 meters, its length is 200 meters. <sep> (A) 25 meters (B) 9 meters (C) 20 meters (D) 36 meters",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The meaning of which verse is different from other verses? <sep> (A) Because if the sun passes over us, it will not go out of our nature. (B) There is no need to arrest the heavens. It remains (D) my fallen jewel in the eyes of the heedless, whoever comes across the road, it will fall on my head",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What are the opposites of the words in question? cloudy <sep> (A) bright (B) transparent (C) translucent (D) smooth",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In Gadam Bayt, \"Pronoun Mutation\" can be seen? <sep> (A) It is an adventure night and day, the passer-by who saw us in the water (B) The house of love will become the master, the arch of my friend's eyebrow became an engineer (C) The breeze of you when it passes by will be the treasure of Hafez Let a hundred thousand tulips grow from the soil of his body.",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which word is singular? <sep> (A) Aliens (B) Pests (C) Alvan (D) Member",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Approximately how many countries are there in the world? (A) 100 (B) 200 (C) 250 (D)",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The weight of a bullet is 1/2 the weight of another bullet, what is the ratio of the weight of the first bullet to the second? <sep> (A) 1 (B) 1/2 (C) 1/3 (D) 1/4",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In 31-day months, which days of the week are repeated five times? <sep> (A) Only days of the week that coincide with the first day of the month. (B) Only days of the week that coincide with the first and second day of the month. (C) Only days of the week that coincide with the first, second and third day of the month. (D) Cannot be determined.",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which word is plural <sep> (A) Pahlavan (B) Mazandaran (C) Yazdan (D) Divan",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which number is closest to 7? <sep> (A) 4 (B) 6 (C) 9 (D) 11",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The \"Inspection and Monitoring of the Price and Distribution of Goods and Services\" organization is subordinate to: <sep> (A) Ministry of Interior. (B) Department of Justice. (C) Ministry of Jihad Agriculture. (D) Department of Commerce.",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The capital of two partners is 1 in proportion to him, the profit of the second person in a transaction is 900 Tomans, the total amount of profit\r\nHow many tomans is it? How much is the total amount of interest?\r <sep> (A) 720 (B) 3600 (C) 1620 (D) 4500",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If the population of the earth is 7 billion and exponentially grows with a constant factor compared to the base population every year and doubles after 25 years in the next 70 years\nHow many billion people will the earth's population be?\n <sep> (A) 28 (B) 25 (C) 21 (D) 35",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the options is different from the other three options? <sep> (A) perception (B) knife (C) duck (D) stagnant",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which combination is different from the others? <sepA) Shaarhafiz (B) His sonnets (C) Borders of Iran (D) Famous poet",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What legacy of Sassanid civilization has been manifested in Islamic mosques? <sep> (A) dome (B) minaret (C) altar (D) porch",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which of the educational systems, goals and programs are prepared at the school level? <sep> (A) Totally Decentralized (B) Totally Centralized (C) Decentralized (D) Centralized",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If the population of the earth is 7 billion and grows exponentially with a constant factor compared to the basic population every year and doubles after 25 years, how many billion people will the population of the earth be in the next 70 years? <sep> (A) 28 (B) 25 (C) 21 (D) 35",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "According to the meaning of the sentence below, choose the appropriate word. I am sure that ..................... blackout is infinite. <sep> (A) Sawab (B) Sawab (C) Sawab (D) None",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which nation thought that the disease was caused by the entry of evil spirits in the body? <sep> (A) Sumer (B) Assyria (C) Elam (D) Egypt",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which word is wrong in Umayi? <sep> (A) Muzon (B) Marghar (C) Nahrasim (D) Rabi'a",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Someone from both sides of the line is the ninth person. How many people are in line? <sep> (A) 9 (B) 15 (C) 17 (D) 18",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the meaning of the words \"Mazgh, Labeh, Aqar, Latifeh\" respectively? <sep> (A) Swallowing - Supplication - Agricultural land - Narrow point (B) Chewing - Supplication - Water and Earth - Naughty speech (C) Engulfing - Impotence and incapacity - Water and Earth - Fine and narrow (D) Grinding Food under the teeth - begging - farming - tender and sweet",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Khosravi's border is between Iran and which country? <sep> (A) Turkey (B) Azerbaijan (C) Turkmenistan (D) Iraq",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "No student is a student, no student is illiterate, no student is illiterate. If we deduce the third sentence from the first and second sentences, the result\r\nOur take:?\r <sep> (A) Definitely true (B) Definitely false (C) May be true (D) May not be true",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which authority is responsible for explaining and interpreting the country's normal laws? <sep> (A) Guardian Council (B) Jurists of the Judiciary (C) Islamic Council (D) Executive bodies",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Some of the office employees have bachelor degrees, some employees are familiar with French. Some bachelors know French. If the first and second sentence\nIs the third sentence correct?\n <sep> (A) may be true may be false (B) never true (C) always true (D) not always true",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "On what date did the students of Tehran University protest against Nixon's visit? <sep> (A) 16 December 1332 (B) 28 August 1332 (C) 13 November 1332 (D) 16 December 1332",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which country has a military coup not happened? <sep> (A) Turkey (B) Greece (C) Iraq (D) Jordan",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the authority for granting government signs? <sep> (A) President (B) Leader (C) Chairman of Islamic Council (D) Minister of Interior",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "\"Insurance\" is a contract, the validity of which is ...................... <sep> (A) for life, subject to the payment of an insurance premium. (B) is for life. (C) a certain number of years, from the age of forty onwards. (D) How many years are certain until the premium expires?",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "All the options except the ................ option are similar in a way. <sep> (A) An exciting sermon (B) A cloud of effervescent musk (C) An instructive word (D) Desired life",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the meaning of the words \"Barak, Bigah, Pai Mardi, Tusni\" respectively? <sep> (A) fluff, long, pleading, rebellion (B) animal wool, early, mediation, disobedience (C) camel wool, late, intercession, rebellious (D) camel wool, late, helper Government, rebellion",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "\"Alexander Dubcek\" was the political leader of which country? <sep> (A) Romania (B) Hungary (C) Poland (D) Czechoslovakia",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The approvals of the Expediency Council must be approved by .......... <sep> (A) Council of Experts (B) President (C) Guardian Council (D) Leadership",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which answer should be removed so that the other three answers are in the same category? <sep> (A) Walnut (B) Orange (C) Tangerine (D) Coconut",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Out of 70 male students and 50 female students, 40% of girls and 50% of boys in one\r\nThey have participated in a scientific competition. Approximately how many percent of students have participated in this competition?\r <sep> (A) 40 (B) 42 (C) 45 (D) 46",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the meaning of the verse \"It's too early and difficult for you to fly/ New workers who want to work a lot\"? <sep> (A) to fly well (B) to be inexperienced and new (C) to be hard and difficult (D) to work a lot",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What are the opposites of the words in question? patient <sep> (A) impatient (B) quick-tempered (C) hot-tempered (D) bigoted",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The result of the expression 76-23 is equal to? (A) 43 (B) -43 (C) 53 (D) -53",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In the phrase \"every researcher in his work, to get familiar with research methods, ways to access various references and sources\r\nIt is necessary.\", how many single words and how many words are there, respectively?\r <sep> (A) thirty five - twenty three (B) thirty five - twenty four (C) thirty six twenty three (D) thirty six - twenty four",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "5 to 5 is equal to ...... <sep> (A) 15 (B) 30 (C) 20 (D) 25",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Bahare bought a bicycle with a 15% discount and sold it with a 10% loss for 306,000 Rials. How much is the original price of the bicycle? <sep> (A) 400000 (B) 382000 (C) 428600 (D) 504900",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "After two consecutive discounts of 15% and 10%, the price of an item is 30,600 Rials. What is the price of the product before the discount? <sep> (A) 40,000 Rials (B) 40,800 Rials (C) 23,409 Rials (D) None",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which pair of the following words is different from the rest of the options? <sep> (A) ease, ease (B) rise, want (C) Qada, food (D) eater, thorn",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which option means \"knowledgeable and knowledgeable\"? <sep> (A) owner (B) server (C) Fazel (D) Razi",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If r=5x, how many tenths of r is half of x? <sep> (A) 1 (B) 2 (C) 3 (D) 5",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How many three-digit numbers can be written with the numbers 3, 2, 1, 0 that are allowed to be repeated? <sep> (A) 9 (B) 24 (C) 36 (D) 48",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "\"Islamic Republic Day\" is parallel to: (A) 10th of Bahman (B) 22nd of Bahman (C) 12th of April (D) 12th of May",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The occupation regime of Grasrail does not have a common border with which country? <sep> (A) Iraq (B) Lebanon (C) Syria (D) Egypt",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In the following sentence, which is \"adjunct, adjective, and noun complement\" respectively?\r\n\"The study of Qur'an interpretations has given a special luster to the spirit of Hafez Shiraz's poems, and from the lyrical poetry of this incomparable poet, one can see\r\nHis specialty was in the discovery of mystical secrets.\r <sep> (A) Qur'an, this, discovery (B) Hafez, Irfani, sonnets (C) Shiraz, this poet, skill (D) Remuz, Bibaydil, discovery of mystical secrets",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which institution is the authority for approving the constitution? <sep> (A) Assembly of Experts (B) Referendum (C) Islamic Council (D) Expediency Council",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The battle of Salamis between the Achaemenids and which nation took place? <sep> (A) Greeks (B) Romans (C) Egyptians (D) Carthaginians",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "A motorcycle rider travels the distance between two cities at an average speed of 60 km/h and returns the same distance at an average speed of 40 km/h. His average speed for the entire round trip is: <sep> (A) 53 km in (B) 50 km/h (C) 48 km/h (D) 52 km/h",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The book Risalah Novin is the work of which character? <sep> (A) Mirzai Nouri (B) Imam Khomeini (C) Seyyed Ali Akbar Hosseini (D) Allameh Majlisi",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which one of the following events happened on the 8th of Shahrivar 1360? <sep> (A) The formation of Mustafafin Mobilization (B) The explosion of the office of the Islamic Republic Party (C) The liberation of Abadan from the siege of Baathist forces (D) The explosion of the Prime Minister's office and the martyrdom of Shahid Rajaei and Dr. Bahnar",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is a quadrilateral with only two parallel sides called? <sep> (A) Square (B) Trapezoid (C) Rhombus (D) Rectangle",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which chess piece cannot move in a straight line? <sep> (A) soldier (B) horse (C) minister (D)",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What kind of numbers am I? My thousandth place is 685, my millionth place is 307, and the rest of my numbers are 2 units more than the largest two-digit number. (A) 307685101 (B) 307685100 (C) 685307112 (D) 685307101",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The unemployment of production factors in society means that: <sep> (A) the level of actual production is lower than the level of potential production. (B) The government does not fulfill its economic duties. (C) The market for factors of production is in disequilibrium. (D) Demand in the market for factors of production is increasing.",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which country did the son's coup against the father take place? <sep> (A) Qatar (B) Saudi Arabia (C) Bahrain (D) Abu Dhabi",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The pronoun in the phrase \"Nematt\" is God's burden or \"Zadad\" outside. What is the role of <sep> (A) Object (B) Additive (C) Subject (D) Object",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "\"Bad flowers\" and the famous work of which poet is symbolism? <sepA) Stéphane Mallarmé (B) Charles Baudelaire (C) Ezrapond (D) Jean-Arthur Mbo",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What are the opposites of the words in question? macro <sep> (A) thin (B) delicate (C) short (D) tiny",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the following is not affiliated with the United Nations? <sep> (A) NATO (B) Security Council (C) UNESCO (D) Hague International Court",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How many chapters of \"Golestan\" are there? <sep> (A) to (B) eight (C) nine (D) seven",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Who was the president of the first term of the Islamic Council? <sep> (A) Ayatollah Beheshti (B) Ayatollah Karroubi (C) Ayatollah Rafsanjani (D) Ayatollah Natiq Nouri",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Who is Iran's first weightlifting gold medalist in the World Championships? <sep> (A) Mahmoud Namjoo (B) Ali Mirzaei (C) Mohammad Nasiri (D) Hossein Rezazadeh",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Who was the first president of the Revolutionary Council who was martyred by the Furqan group and the Imam called him his own body?\r\nIs?\r <sep> (A) Ayatollah Shahid Beheshti (B) Master Martyr Morteza Motahari (C) Ayatollah Dastghib ​​(D) Martyr Rajaee",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If the price of a car with 3% sales expenses is 27,295 tomans, what is the amount of sales expenses? <sep> (A) 795 Tomans (B) 1295 Tomans (C) 818.9 Tomans (D) None",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Someone bought sex for 2000 Rials and sold it for 2400 Rials. If he sells sex for 6000 Rials, how many Rials did he buy it for? <sep> (A) 5400 (B) 5200 (C) 5000 (D) 2800",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which verse's meaning is different from other verses? <sep> (A) We have made the face purple from the love of good people, the wit of the eyes that we have become young in old age (B) Old age has drawn a line on our face, so that I can read this line, what in the world should I draw (C) It is not old. who has white hair on his head, every young man who does not have love is old (D) even though I became old and tired and weak, whenever I remembered your face, I became young",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The resolution of the closed meeting of the Islamic Council must be approved. <sep> (A) two-thirds of the total representatives (B) three-quarters of the total representatives (C) 170 representatives (D) 220 representatives",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The American military attack on Tabas happened in the month of ............... <sep> (A) July 1359 (B) May 1359 (C) July 1358 (D) May 1358",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which province of Iran is the city of Gonabad? <sep> (A) East Azerbaijan (B) Chaharmahal and Bakhtiari (C) Kermanshah (D) Khorasan",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which one is not related to the rest <sep> (A) scholar (B) agent (C) known (D) scientist",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "One container is filled in one hour and the rest of the container will be filled in how many minutes? <sep> (A) 56 minutes (B) 80 minutes (C) 75 minutes (D) 105 minutes",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The administrative council was created during which Qajar king in Iran? <sep> (A) Naseruddin Shah (B) Ahmad Shah (C) Muzaffaruddin Shah (D) Fath Ali Shah",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In what year was the death of the great leader of the Islamic Revolution of Iran? <sep> (A) June 15, 1369 (B) June 14, 1368 (C) June 12, 1369 (D) June 14, 1369",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The result of the expression 5 + 12 is equal to? <sep> (A) 13 (B) 17 (C) 15 (D) 18",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which city is Ferdowsi's tomb? <sep> (A) Shiraz (B) Tus (C) Neishabur (D) Mashhad",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Professor \"Hasan Kasaei\" is known as the musician of which alto music? <sep> (A) trumpet (B) violin (C) reed (D) centaur",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the following actions is not one of Shapur II's actions? <sep> (A) being strict with Christians (B) punishing the Arabs of southern Iran (C) supporting Mazdak (D) winning over the Turks in northeastern Iran and defeating the Romans",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "About how many thousand years have passed since the life of the line? <sep> (A) 2000 years (B) 3000 years (C) 4000 years (D) 5000 years",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Pastor Institute is under which ministry or organization? <sep> (A) Presidential body (B) Ministry of Science and Research (C) Ministry of Health (D) Independent institution",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Sometimes a poet or writer expresses something indirectly to have a greater impact on the audience. .. they say <sep> (A) Simile (B) Exaggeration (C) Irony (D) Metaphor",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the most important and longest part of Shahnameh? <sep> (A) mythological section (B) heroic section (C) historical section (D) none",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the following options is related to the Sumerian civilization? <sep> (A) Ansi, Hammurabi, Larsa (B) Emory, Hammurabi, Ansi (C) Ansi, Gil Gemesh, Athens (D) Goti, Nineveh, Athens",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The result of the expression 20 + 130 is equal to? (A) 15 (B) 145 (C) 150 (D) 160",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In the text, \"Don't be blamed for this wrong thought in passing and striving for the reward, just like the purpose of the farmer in scattering\r\nLet the seed be the seed, which is his strength, but the straw, which is the grass of the world, will be produced accordingly. \"Zinhar, so that you don't make a mistake in making the baggage of the hereafter\" which word is spelled incorrectly?\r <sep> (A) follow (B) reward (C) wrong (D) lines",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How many sentences does the verse \"Sheikh laugh and say to him, O Salim, let this be the tree of knowledge, O scholar\"? <sep> (A) three sentences (B) four sentences (C) five sentences (D) six sentences",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "To connect to the Internet, the phone line should be connected to which of the following parts? <sep> (A) Printer (B) Scanner (C) Modem (D) Parallel Port",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The concept of the following bit is not related to which bit?\n\"Don't let my life burn once in a while, when your hope sometimes falls on him\"\n <sep> (A) Why did you give me hope that I won't be in pain? (B) Even with all my pain, there is still hope for a cure, which was the last one. Let the past life come back (D) for Jacob to be seen again",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The rapid progress of medical knowledge in the last quarter of a century makes every thinking person...",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which sentence is the \"compound noun\" as an additional dependent clause? <sep> (A) Use of deep and narrow meanings and expression of personal feelings (B) Poems full of novel and thought-provoking points of the poet (C) Short and deep poems of the great and famous Indian poet (D) Ruined life and the prey of liquid sparks the volcano",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the following words is singular? <sep> (A) hearts (B) early (C) world (D) deep",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "All the verses, except for the verse ..............., have meaning. <sep> (A) The love of the sea of ​​the shore has disappeared, when can you swim smartly (B) On the smart side of the Ninhad dynasty, the hand of love is that of the lover, leave your senses (C) Worship is a drunkenness in Kish Mehr-Brunand Zain Jirga of the sober ones (D) The tired ones should be taken care of and there was no strength",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "All the options except the ................ option are similar in a way. <sep> (A) century (B) paw (C) day (D) week",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which option is plural? <sep> (A) sky (B) stars (C) meadow (D) winter",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Philip Gonzalez is the prime minister of which country? <sep> (A) Nicaragua (B) Mexico (C) Spain (D) Orange",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "All the options are similar in some way except the option ............... <sep> (A) green leaf (B) red apple (C) round table (D) yellow face",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In all the verses, except the verse .............., it is mentioned about belonging and dependence in the concept of helplessness. <sep> (A) You don't have a foot to imitate or you have to remove your foot from this flower (B) Your feet are closed like a plant in the ground, you move your head to an uncertain wind (C) Whoever has feet, chews the food of whoever feet No, don't pity (D) because you can't stop? Your life is saddled with flowers, this life is very difficult",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How many years does it take to decompose plastic containers? <sep> (A) 50 years (B) 500 years (C) 5 thousand years (D) 50 thousand years",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Who is the author of the book \"Al-Arshad\"? <sep> (A) Sheikh Bahai (B) Sheikh Tusi (C) Sheikh Mofid (D) Sheikh Tabarsi",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "\"Sangar\" city is a function of which province of our country? <sep> (A) Sanandaj (B) Hamadan (C) Kermanshah (D) Ilam",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which group of Aryans were called Medes? <sep> (A) living in the east of Iran (B) living in the northeast of Iran (C) living in the south of Iran (D) living in the west of Iran",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the following numbers is smaller than 1? <sep> (A) 0 (B) 3 (C) 4 (D) 5",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which combination is different from the other three combinations? <sep> (A) desire of the heart (B) love of the friend (C) watching the heart (D) consolation of the heart",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The result of the expression 120 + 250 is equal to? (A) 368 (B) 360 (C) 370 (D) 371",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Most of the historical information of Ilam civilization was obtained from which region? <sep> (A) Shush (B) Hel Temti (C) This Shushink (D) Medekto",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which verse is there a \"spelling mistake\"? <sep> (A) You are also blowing a horn in your defeat, from a well, a tent is blowing (B) A garden of violets and manure has no smell, O Saba, make a carpet from that musk, its smell (C) Until she saw me, I fell in love with that Venus of Jebin. It was hard to be away from him (D).",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If Bahram has one third of Majid's money, and Majid's money is 4 times that of Jamshid's, Jamshid's money is one half of Hoshang's and Hoshang's money is 3000 Tomans, how many Tomans does Bahram have? <sep> (A) 2000 (B) 2400 (C) 2700 (D) 3000",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The relationship between the minute and the day is like the relationship: <sep> (A) The month is with the year (B) The week is with the year (C) The plane is with the force (D) The ship is with the sailor",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Taking a part of people's property or income according to their ability to pay for public expenses is called... <sep> (A) Khums (B) Zakat (C) Budget deduction (D) Tax",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "? and 232, 99, 28, and 11 <sep> (A) 891 (B) 385 (C) 896 (D) 402",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which bit has a conceptual affinity with the following bit?\r\n\"What should be his cuteness and lamentation on Iqbali and politeness that he has ever seen on a woman, neither this nose nor that nose\"\r\n <sep> (A) How can I not tremble at you, wherever you come, there will be thousands of bloody sight in your neck (B) Don't pray for five days of goodness and bad things until you close your eyes and see the end (C) Look You have turned your eyes to dirt, because you put a candle together, you will be buried (D) You should be healthy, keep your eyes away from the evil ones, you love, the carpet of good name is rolled.",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In the phrase \"By God's grace and providence, and to bear constant suffering, and to avoid legitimate fortunes and pleasures, and by leaving two jewels\nIn return for his life and youth, in front of the precious intellectual treasures of Iranians and the teaching of subversive health, a little strength and nobility of Bernakat and\nMinutes of Persian language and literature have been obtained for the number of lines. How many derivative, compound and derivative-compound words are there, respectively?\n <sep> (A) six - one - two (B) five - one - two (C) six - two - two (D) seven - two - one",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Antonyms of good nature <sep> (A) bad outcome (B) bad faith (C) bad attitude (D) bad thinking",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The sum of 3 consecutive numbers is 27. Which of them is divisible by 3? <sep> (A) Larger number (B) Smaller number (C) Middle number (D) All three",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the name of the famous work of the fourth Imam (AS)? <sep> (A) Sahifah Sajjadiyyah (B) Collection of hadiths and hadiths (C) Nahj al-Balagha (D) Tafsir and jurisprudential questions",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If the average of three consecutive numbers becomes 9. Which is twice the smaller number? <sep> (A) 20 (B) 18 (C) 17 (D) 16",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Who does the author of \"History of Sistan\" introduce as the first Persian Dari poet of the Islamic period? <sep> (A) Firouz Mashriqi (B) Abu al-Abbas Marozi (C) Mohammad bin Wasif Segzai (D) Hanzaleh Badghisi",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What are the opposites of the words in question? Ram <sep> (A) unruly (B) unruly (C) violent (D) disturbed",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Civil society refers to which field <sep> (A) The private sector of the government (B) The range between the individual and the government (C) The government and the masses (D) Beyond the government",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the principles of traditional management states that each subordinate should only take orders from a superior supervisor to perform his duties? <sep> (A) Unity of command (B) Hierarchy (C) Chain of command (D) Delegation",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The number p is equal to the average of the numbers 10, 12 and q. What is the value of q? <sep> (A) 10 (B) 11 (C) 12 (D) 13",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The result of the expression 24-243 is equal to? (A) 219 (B) -219 (C) 210 (D) -210",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What number should be written next....,1,2,8,48 <sep> (A) 384 (B) 288 (C) 61 (D) 96",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How is the first vice president elected? <sep> (A) with the proposal of the president and the approval of the Islamic Council (B) with the proposal of the president and the approval of the leadership (C) The president has absolute authority in his election. (D) With the recommendation of the Chief Justice and the approval of the President",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The price of two books and four autographs is equal to the price of three books and two autographs, so: <sep> (A) The price of one book and one autograph is equal. (B) The price of a book is higher than the price of an autograph. (C) The price of a book is lower than the price of an autograph. (D) The relationship between the price of a book and an autograph is not determined.",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "From whom is this sentence: \"A system without the support, vote and will of the people, is in fact nothing\" what does it refer to?\r\nhas it?\r <sep> (A) Imam Khomeini (RA) - Acceptability (B) Imam Khomeini (RA) - Legitimacy (C) Ayatollah Khamenei - Acceptability (D) Ayatollah Khamenei - Legitimacy",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Suez Canal connects which seas? <sep> (A) White Sea - Mediterranean Sea (B) Mediterranean Sea - Red Sea (C) Baltic Sea - White Sea (D) Baltic Sea - North Sea",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In a draw of 9+? +9784=5+9000 which of the following numbers should be replaced? Contract? <sep> (A) 784 (B) 78 (C) 775 (D) 780",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "If 5 = a+b, what is the value of a-b? <sep> (A) 2 (B) 3 (C) 4 (D) cannot be determined",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The result of the expression 4 + 3 is equal to? <sep> (A) 4 (B) 5 (C) 7 (D) 8",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In how many ways can a piece of 23-meter rope be divided into 2-meter and 7-meter ropes? <sep> (A) 1 (B) 2 (C) 3 (D) 4",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "A few words, right? (badafre: sin) (difference: going back and forth) (dir: monastery) (alhah: to insist) (misdemeanor: guilt) (qadum: coming)\r\n(Atab: blame) (Lat: slap) (conjugation: covering)\r <sep> (A) four (B) five (C) six (D) seven",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "\"UNESCO\" (United Nations Educational, Scientific and Cultural Organization) was founded in what year? <sep> (A) 1951 (B) 1948 (C) 1950 (D) 1946",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In recent years, Iran has been one of the world's largest importers of which goods? <sep> (A) Rice (B) Wheat (C) Dairy (D) Meat",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which word is less suitable with the other three words? <sep> (A) Chariot (B) Bus (C) Ship (D) Airplane",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What was the title of Nima Yoshij's first poem, which was completely free from imagination and weight arrangement and rhyming of the past?\n <sep> (A) moonlight (B) phoenix (C) legend (D) water in the anthill",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Compared to other countries in the world: <sep> (A) Iran is the largest producer of oil and gas. (B) Iran has the second rank in terms of gas reserves. (C) Iran is the largest exporter of oil and gas. (D) Iran ranks second in crude oil consumption in the world.",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the angle between the two hands of the clock at three and forty minutes? <sep> (A) 150 degrees (B) 140 degrees (C) 130 degrees (D) 125 degrees",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which option is not correct? <sep> (A) The existence of scattered islands and many mountains as well as tribal prejudices led to the emergence of the city government in Greece. (B) The city government of Sparta was famous for its interest in government and democracy and the spread of scientific and philosophical ideas. (C) Each of the Greek city-states had temples, markets, schools and neighborhoods. (D) The people of Crete were greatly influenced by the people of Egypt and Phoenicia.",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which authority is responsible for interpreting the constitution? <sep> (A) Islamic Council (B) Council of Leadership Experts (C) Guardian Council (D) None",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Currently, how many countries are members of the United Nations transnational unit? (A) 150 (B) 160 (C) 180 (D) 190",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which operation did the siege of Abadan fail? <sep> (A) Thaman al-Aima (PBUH) (B) Bait al-Maqdis (C) Fath al-Mubin (D) Tariq al-Quds",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the capital of Canada? <sep> (A) Ottawa (B) Toronto (C) Boston (D)",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which work can be considered the first Persian prose book that was published as an independent work? <sep> (A) Tabari's Tarikh (B) Afrin Nameh (C) Abu Mansoori's Shahnameh (D) Tabari's Commentary",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Which of the regional construction plans were prepared and implemented in the country's second construction plan? <sep> (A) Tehran province (B) Qazvin plain (C) Mughan plain (D) Khuzestan plain",
+    "output": "D"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What was the purpose of the Crusades? <sep> (A) Seizing the holy places of Palestine, especially Jerusalem (B) Seizing the markets of third world countries (C) Discovering new lands (D) Fighting the Ottoman Empire",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "In which of the following forms is the number forty million forty thousand forty written? <sep> (A) 40040040 (B) 40004040 (C) 40400040 (D) 40404040",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What percentage is 5000 times 5? <sep> (A) 100 (B) 1 (C) one tenth (D) one hundredth",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "To do such a delicate and precise work, that too by a person ................ seems unlikely <sep> (A) rough (B) rude (C) humble (D) ) Humble",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Can octopuses change their skin color? <sep> (A) Yes (B) No (C) (D)",
+    "output": "A"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "How many grammar mistakes are there in the following sentence? \"Suddenly, the teacher stood up and said: It was very organic, so far it was very interesting because you have achieved new ideas by thinking about the four words, but let the \"practice\" group also express their opinions. (A) 2 (B) 3 (C) 4 (D) 5",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the biggest desert city in Iran? <sep> (A) Bafaq (B) Kashan (C) Kerman (D) Yazd",
+    "output": "C"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "I did such a delicate and precise work, that too by an individual............... it seems unlikely. <sep> (A) harsh (B) rude (C) humble (D) despicable",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "Bahram Chobin's rebellion was during the time of which Sassanid king? <sep> (A) Khosrow Anoushirvan (B) Hermez (C) Bahram Gur (D) Qabad",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "The relationship of the clock with time is like the relationship of: <sep> (A) is a wind vane with wind (B) is a thermometer with temperature (C) is a compass with a pole (D) is an anemometer with heat",
+    "output": "B"
+  },
+  {
+    "instruction": "Next, you will be shown a multiple-choice question in Farsi, and you must answer the question based on your knowledge. Choose the correct option from the given options.",
+    "input": "What is the closest country to the North Pole? <sep> (A) Finland (B) America (C) Russia (D)",
+    "output": "C"
+  }
+]
