@@ -48,8 +48,8 @@ To simplify execution, bash scripts for running the codes are also provided. The
 
 Example:
 ```bash
-bash pretrain/run_pt.sh
-bash sft/run_sft.sh
-bash inference/inference.sh
+sbash pretrain/run_pt.sh
+sbash sft/run_sft.sh
+sbash inference/inference.sh
 ```
 
