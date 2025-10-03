@@ -1,6 +1,6 @@
 # <p align="center">Extending LLMs to New Languages: A Case Study of Llama and Persian Adaptation</p>
 ## Introduction
-This repository contains the code for the paper [Extending LLMs to New Languages: A Case Study of Llama and Persian Adaptation]
+This repository contains the code for the paper [Extending LLMs to New Languages: A Case Study of Llama and Persian Adaptation](https://arxiv.org/pdf/2412.13375)
 ## Abstract
 Large language models (LLMs) have made great progress in classification and text generation tasks. However, they are mainly trained on English data and often struggle with low-resource languages. In this study, we explore adding a new language, i.e., Persian, to Llama (a model with a limited understanding of Persian) using parameter-efficient fine-tuning. We employ a multi-stage approach involving pretraining on monolingual Persian data, aligning representations through bilingual pretraining and instruction datasets, and instruction-tuning with task-specific datasets. We evaluate the model's performance at each stage on generation and classification tasks. Our findings suggest that incorporating the Persian language, through bilingual data alignment, can enhance classification accuracy for Persian tasks, with no adverse impact and sometimes even improvements on English tasks. Additionally, the results highlight the model's initial strength as a critical factor when working with limited training data, with cross-lingual alignment offering minimal benefits for the low-resource language. Knowledge transfer from English to Persian has a marginal effect, primarily benefiting simple classification tasks.
 
@@ -52,4 +52,28 @@ sbatch pretrain/run_pt.sh
 sbatch sft/run_sft.sh
 sbatch inference/inference.sh
 ```
-
+## Citation
+If you found this work useful, please consider citing our paper:
+```bibtex
+@inproceedings{mahdizadeh-sani-etal-2025-extending,
+    title = "Extending {LLM}s to New Languages: A Case Study of Llama and {P}ersian Adaptation",
+    author = "Mahdizadeh Sani, Samin  and
+      Sadeghi, Pouya  and
+      Vu, Thuy-Trang  and
+      Yaghoobzadeh, Yadollah  and
+      Haffari, Gholamreza",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.594/",
+    pages = "8868--8884"
+}
+```
